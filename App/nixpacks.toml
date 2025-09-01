@@ -1,0 +1,8 @@
+[phases.setup]
+nixPkgs = ['python311']
+
+[phases.install] 
+cmds = ['cd App && pip install --upgrade pip setuptools wheel', 'cd App && pip install -r requirements.txt']
+
+[start]
+cmd = 'cd App && python run.py'
