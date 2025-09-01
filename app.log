@@ -1,0 +1,1933 @@
+2025-08-29 11:19:09,580 - numexpr.utils - INFO - NumExpr defaulting to 12 threads.
+2025-08-29 11:23:09,752 - numexpr.utils - INFO - NumExpr defaulting to 12 threads.
+2025-08-29 11:23:42,609 - numexpr.utils - INFO - NumExpr defaulting to 12 threads.
+2025-08-29 11:24:05,399 - numexpr.utils - INFO - NumExpr defaulting to 12 threads.
+2025-08-29 11:25:23,158 - numexpr.utils - INFO - NumExpr defaulting to 12 threads.
+2025-08-29 11:26:36,869 - numexpr.utils - INFO - NumExpr defaulting to 12 threads.
+2025-08-29 11:28:42,811 - numexpr.utils - INFO - NumExpr defaulting to 12 threads.
+2025-08-29 11:28:43,402 - root - INFO - All blueprints registered successfully
+2025-08-29 11:28:43,404 - root - INFO - Initializing database schema...
+2025-08-29 11:28:43,738 - mysql.connector - INFO - package: mysql.connector.plugins
+2025-08-29 11:28:43,738 - mysql.connector - INFO - plugin_name: caching_sha2_password
+2025-08-29 11:28:43,738 - mysql.connector - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2025-08-29 11:28:43,741 - mysql.connector - INFO - package: mysql.connector.plugins
+2025-08-29 11:28:43,741 - mysql.connector - INFO - plugin_name: mysql_native_password
+2025-08-29 11:28:43,743 - mysql.connector - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLNativePasswordAuthPlugin
+2025-08-29 11:28:43,965 - root - INFO - Database connection established successfully
+2025-08-29 11:28:44,025 - root - INFO - Database tables initialized successfully
+2025-08-29 11:28:44,025 - root - INFO - Creating admin user...
+2025-08-29 11:28:44,273 - root - INFO - Admin user created or already exists
+2025-08-29 11:28:44,273 - root - INFO - Creating default validation rules...
+2025-08-29 11:28:44,283 - root - INFO - Default validation rules ensured successfully
+2025-08-29 11:28:44,283 - root - INFO - Application initialization completed successfully
+2025-08-29 11:28:44,345 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.178.161.115:5000
+2025-08-29 11:28:44,345 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-08-29 11:28:44,348 - werkzeug - INFO -  * Restarting with stat
+2025-08-29 11:28:44,869 - numexpr.utils - INFO - NumExpr defaulting to 12 threads.
+2025-08-29 11:28:45,381 - root - INFO - All blueprints registered successfully
+2025-08-29 11:28:45,382 - root - INFO - Initializing database schema...
+2025-08-29 11:28:45,569 - mysql.connector - INFO - package: mysql.connector.plugins
+2025-08-29 11:28:45,569 - mysql.connector - INFO - plugin_name: caching_sha2_password
+2025-08-29 11:28:45,570 - mysql.connector - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2025-08-29 11:28:45,570 - mysql.connector - INFO - package: mysql.connector.plugins
+2025-08-29 11:28:45,571 - mysql.connector - INFO - plugin_name: mysql_native_password
+2025-08-29 11:28:45,572 - mysql.connector - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLNativePasswordAuthPlugin
+2025-08-29 11:28:45,745 - root - INFO - Database connection established successfully
+2025-08-29 11:28:45,780 - root - INFO - Database tables initialized successfully
+2025-08-29 11:28:45,780 - root - INFO - Creating admin user...
+2025-08-29 11:28:46,014 - root - INFO - Admin user created or already exists
+2025-08-29 11:28:46,014 - root - INFO - Creating default validation rules...
+2025-08-29 11:28:46,019 - root - INFO - Default validation rules ensured successfully
+2025-08-29 11:28:46,020 - root - INFO - Application initialization completed successfully
+2025-08-29 11:28:46,036 - werkzeug - WARNING -  * Debugger is active!
+2025-08-29 11:28:46,043 - werkzeug - INFO -  * Debugger PIN: 135-922-860
+2025-08-29 11:29:01,646 - werkzeug - INFO - 127.0.0.1 - - [29/Aug/2025 11:29:01] "[33mGET /check-auth HTTP/1.1[0m" 404 -
+2025-08-29 11:29:01,775 - werkzeug - INFO - 127.0.0.1 - - [29/Aug/2025 11:29:01] "[33mGET /check-auth HTTP/1.1[0m" 404 -
+2025-08-29 11:29:03,353 - werkzeug - INFO - 127.0.0.1 - - [29/Aug/2025 11:29:03] "[31m[1mPOST /authenticate HTTP/1.1[0m" 405 -
+2025-08-29 11:31:11,625 - werkzeug - INFO -  * Detected change in 'c:\\Users\\MOM\\Downloads\\Deploy\\Deploy\\14-08-2025\\backend\\App\\app.py', reloading
+2025-08-29 11:31:11,820 - werkzeug - INFO -  * Restarting with stat
+2025-08-29 11:31:12,496 - numexpr.utils - INFO - NumExpr defaulting to 12 threads.
+2025-08-29 11:31:13,274 - root - INFO - All blueprints registered successfully
+2025-08-29 11:31:13,277 - root - INFO - Initializing database schema...
+2025-08-29 11:31:13,488 - mysql.connector - INFO - package: mysql.connector.plugins
+2025-08-29 11:31:13,488 - mysql.connector - INFO - plugin_name: caching_sha2_password
+2025-08-29 11:31:13,488 - mysql.connector - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2025-08-29 11:31:13,489 - mysql.connector - INFO - package: mysql.connector.plugins
+2025-08-29 11:31:13,489 - mysql.connector - INFO - plugin_name: mysql_native_password
+2025-08-29 11:31:13,491 - mysql.connector - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLNativePasswordAuthPlugin
+2025-08-29 11:31:13,673 - root - INFO - Database connection established successfully
+2025-08-29 11:31:13,710 - root - INFO - Database tables initialized successfully
+2025-08-29 11:31:13,710 - root - INFO - Creating admin user...
+2025-08-29 11:31:13,950 - root - INFO - Admin user created or already exists
+2025-08-29 11:31:13,950 - root - INFO - Creating default validation rules...
+2025-08-29 11:31:13,956 - root - INFO - Default validation rules ensured successfully
+2025-08-29 11:31:13,957 - root - INFO - Application initialization completed successfully
+2025-08-29 11:31:13,983 - werkzeug - WARNING -  * Debugger is active!
+2025-08-29 11:31:13,987 - werkzeug - INFO -  * Debugger PIN: 135-922-860
+2025-08-29 11:31:24,534 - root - INFO - Database connection established successfully
+2025-08-29 11:31:24,788 - root - INFO - User rahul@gmail.com logged in successfully. Session: {'_permanent': True, 'loggedin': True, 'user_email': 'rahul@gmail.com', 'user_id': 60}
+2025-08-29 11:31:24,819 - werkzeug - INFO - 127.0.0.1 - - [29/Aug/2025 11:31:24] "POST /authenticate HTTP/1.1" 200 -
+2025-08-29 11:31:25,424 - root - INFO - Database connection established successfully
+2025-08-29 11:31:25,435 - root - INFO - User rahul@gmail.com is authenticated
+2025-08-29 11:31:25,458 - werkzeug - INFO - 127.0.0.1 - - [29/Aug/2025 11:31:25] "GET /check-auth HTTP/1.1" 200 -
+2025-08-29 11:31:28,069 - werkzeug - INFO - 127.0.0.1 - - [29/Aug/2025 11:31:28] "[33mGET /validation-history HTTP/1.1[0m" 404 -
+2025-08-29 11:31:28,085 - werkzeug - INFO - 127.0.0.1 - - [29/Aug/2025 11:31:28] "[33mGET /rule-configurations HTTP/1.1[0m" 404 -
+2025-08-29 11:31:28,538 - root - INFO - Database connection established successfully
+2025-08-29 11:31:28,543 - root - INFO - User rahul@gmail.com is authenticated
+2025-08-29 11:31:28,549 - werkzeug - INFO - 127.0.0.1 - - [29/Aug/2025 11:31:28] "GET /check-auth HTTP/1.1" 200 -
+2025-08-29 11:31:28,577 - werkzeug - INFO - 127.0.0.1 - - [29/Aug/2025 11:31:28] "[33mGET /rule-configurations HTTP/1.1[0m" 404 -
+2025-08-29 11:31:28,582 - werkzeug - INFO - 127.0.0.1 - - [29/Aug/2025 11:31:28] "[33mGET /validation-history HTTP/1.1[0m" 404 -
+2025-08-29 11:35:20,751 - werkzeug - INFO -  * Detected change in 'c:\\Users\\MOM\\Downloads\\Deploy\\Deploy\\14-08-2025\\backend\\App\\app.py', reloading
+2025-08-29 11:35:20,951 - werkzeug - INFO -  * Restarting with stat
+2025-08-29 11:35:21,675 - numexpr.utils - INFO - NumExpr defaulting to 12 threads.
+2025-08-29 11:35:22,369 - root - INFO - All blueprints registered successfully
+2025-08-29 11:35:22,372 - root - INFO - Initializing database schema...
+2025-08-29 11:35:22,568 - mysql.connector - INFO - package: mysql.connector.plugins
+2025-08-29 11:35:22,568 - mysql.connector - INFO - plugin_name: caching_sha2_password
+2025-08-29 11:35:22,569 - mysql.connector - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2025-08-29 11:35:22,569 - mysql.connector - INFO - package: mysql.connector.plugins
+2025-08-29 11:35:22,569 - mysql.connector - INFO - plugin_name: mysql_native_password
+2025-08-29 11:35:22,570 - mysql.connector - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLNativePasswordAuthPlugin
+2025-08-29 11:35:22,736 - root - INFO - Database connection established successfully
+2025-08-29 11:35:22,773 - root - INFO - Database tables initialized successfully
+2025-08-29 11:35:22,774 - root - INFO - Creating admin user...
+2025-08-29 11:35:23,005 - root - INFO - Admin user created or already exists
+2025-08-29 11:35:23,005 - root - INFO - Creating default validation rules...
+2025-08-29 11:35:23,012 - root - INFO - Default validation rules ensured successfully
+2025-08-29 11:35:23,012 - root - INFO - Application initialization completed successfully
+2025-08-29 11:35:23,033 - werkzeug - WARNING -  * Debugger is active!
+2025-08-29 11:35:23,037 - werkzeug - INFO -  * Debugger PIN: 135-922-860
+2025-08-29 11:35:32,282 - root - INFO - Database connection established successfully
+2025-08-29 11:35:32,289 - root - INFO - User rahul@gmail.com is authenticated
+2025-08-29 11:35:32,299 - werkzeug - INFO - 127.0.0.1 - - [29/Aug/2025 11:35:32] "GET /check-auth HTTP/1.1" 200 -
+2025-08-29 11:36:00,343 - werkzeug - INFO -  * Detected change in 'c:\\Users\\MOM\\Downloads\\Deploy\\Deploy\\14-08-2025\\backend\\App\\app.py', reloading
+2025-08-29 11:36:00,503 - werkzeug - INFO -  * Restarting with stat
+2025-08-29 11:36:01,005 - numexpr.utils - INFO - NumExpr defaulting to 12 threads.
+2025-08-29 11:36:01,536 - root - INFO - All blueprints registered successfully
+2025-08-29 11:36:01,539 - root - INFO - Initializing database schema...
+2025-08-29 11:36:01,724 - mysql.connector - INFO - package: mysql.connector.plugins
+2025-08-29 11:36:01,724 - mysql.connector - INFO - plugin_name: caching_sha2_password
+2025-08-29 11:36:01,725 - mysql.connector - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2025-08-29 11:36:01,725 - mysql.connector - INFO - package: mysql.connector.plugins
+2025-08-29 11:36:01,725 - mysql.connector - INFO - plugin_name: mysql_native_password
+2025-08-29 11:36:01,726 - mysql.connector - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLNativePasswordAuthPlugin
+2025-08-29 11:36:01,893 - root - INFO - Database connection established successfully
+2025-08-29 11:36:01,923 - root - INFO - Database tables initialized successfully
+2025-08-29 11:36:01,923 - root - INFO - Creating admin user...
+2025-08-29 11:36:02,153 - root - INFO - Admin user created or already exists
+2025-08-29 11:36:02,153 - root - INFO - Creating default validation rules...
+2025-08-29 11:36:02,158 - root - INFO - Default validation rules ensured successfully
+2025-08-29 11:36:02,158 - root - INFO - Application initialization completed successfully
+2025-08-29 11:36:02,174 - werkzeug - WARNING -  * Debugger is active!
+2025-08-29 11:36:02,177 - werkzeug - INFO -  * Debugger PIN: 135-922-860
+2025-08-29 11:36:10,219 - werkzeug - INFO -  * Detected change in 'c:\\Users\\MOM\\Downloads\\Deploy\\Deploy\\14-08-2025\\backend\\App\\app.py', reloading
+2025-08-29 11:36:10,400 - werkzeug - INFO -  * Restarting with stat
+2025-08-29 11:36:10,943 - numexpr.utils - INFO - NumExpr defaulting to 12 threads.
+2025-08-29 11:36:11,561 - root - INFO - All blueprints registered successfully
+2025-08-29 11:36:11,565 - root - INFO - Initializing database schema...
+2025-08-29 11:36:11,775 - mysql.connector - INFO - package: mysql.connector.plugins
+2025-08-29 11:36:11,776 - mysql.connector - INFO - plugin_name: caching_sha2_password
+2025-08-29 11:36:11,776 - mysql.connector - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2025-08-29 11:36:11,776 - mysql.connector - INFO - package: mysql.connector.plugins
+2025-08-29 11:36:11,777 - mysql.connector - INFO - plugin_name: mysql_native_password
+2025-08-29 11:36:11,778 - mysql.connector - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLNativePasswordAuthPlugin
+2025-08-29 11:36:12,001 - root - INFO - Database connection established successfully
+2025-08-29 11:36:12,032 - root - INFO - Database tables initialized successfully
+2025-08-29 11:36:12,033 - root - INFO - Creating admin user...
+2025-08-29 11:36:12,272 - root - INFO - Admin user created or already exists
+2025-08-29 11:36:12,273 - root - INFO - Creating default validation rules...
+2025-08-29 11:36:12,280 - root - INFO - Default validation rules ensured successfully
+2025-08-29 11:36:12,280 - root - INFO - Application initialization completed successfully
+2025-08-29 11:36:12,307 - werkzeug - WARNING -  * Debugger is active!
+2025-08-29 11:36:12,314 - werkzeug - INFO -  * Debugger PIN: 135-922-860
+2025-08-29 11:36:40,669 - root - INFO - Database connection established successfully
+2025-08-29 11:36:40,673 - root - INFO - Database connection established successfully
+2025-08-29 11:36:40,677 - root - INFO - User rahul@gmail.com is authenticated
+2025-08-29 11:36:40,678 - root - INFO - Database connection established successfully
+2025-08-29 11:36:40,689 - werkzeug - INFO - 127.0.0.1 - - [29/Aug/2025 11:36:40] "GET /check-auth HTTP/1.1" 200 -
+2025-08-29 11:36:40,723 - root - INFO - Fetched validation history for user 60: 9 templates
+2025-08-29 11:36:40,731 - werkzeug - INFO - 127.0.0.1 - - [29/Aug/2025 11:36:40] "GET /validation-history HTTP/1.1" 200 -
+2025-08-29 11:36:41,186 - root - INFO - Database connection established successfully
+2025-08-29 11:36:41,203 - root - INFO - Fetched validation history for user 60: 9 templates
+2025-08-29 11:36:41,210 - werkzeug - INFO - 127.0.0.1 - - [29/Aug/2025 11:36:41] "GET /validation-history HTTP/1.1" 200 -
+2025-08-29 11:36:41,221 - root - INFO - Found 6 templates with rules for user_id: 60
+2025-08-29 11:36:41,231 - werkzeug - INFO - 127.0.0.1 - - [29/Aug/2025 11:36:41] "GET /rule-configurations HTTP/1.1" 200 -
+2025-08-29 11:36:41,996 - root - INFO - Database connection established successfully
+2025-08-29 11:36:42,052 - root - INFO - Found 6 templates with rules for user_id: 60
+2025-08-29 11:36:42,058 - werkzeug - INFO - 127.0.0.1 - - [29/Aug/2025 11:36:42] "GET /rule-configurations HTTP/1.1" 200 -
+2025-08-29 11:36:47,999 - werkzeug - INFO - 127.0.0.1 - - [29/Aug/2025 11:36:47] "[31m[1mPOST /upload HTTP/1.1[0m" 405 -
+2025-08-29 11:38:47,003 - werkzeug - INFO -  * Detected change in 'c:\\Users\\MOM\\Downloads\\Deploy\\Deploy\\14-08-2025\\backend\\App\\app.py', reloading
+2025-08-29 11:38:47,147 - werkzeug - INFO -  * Restarting with stat
+2025-08-29 11:38:47,736 - numexpr.utils - INFO - NumExpr defaulting to 12 threads.
+2025-08-29 11:38:48,403 - root - INFO - All blueprints registered successfully
+2025-08-29 11:38:48,407 - root - INFO - Initializing database schema...
+2025-08-29 11:38:48,591 - mysql.connector - INFO - package: mysql.connector.plugins
+2025-08-29 11:38:48,592 - mysql.connector - INFO - plugin_name: caching_sha2_password
+2025-08-29 11:38:48,592 - mysql.connector - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2025-08-29 11:38:48,592 - mysql.connector - INFO - package: mysql.connector.plugins
+2025-08-29 11:38:48,592 - mysql.connector - INFO - plugin_name: mysql_native_password
+2025-08-29 11:38:48,594 - mysql.connector - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLNativePasswordAuthPlugin
+2025-08-29 11:38:48,760 - root - INFO - Database connection established successfully
+2025-08-29 11:38:48,791 - root - INFO - Database tables initialized successfully
+2025-08-29 11:38:48,791 - root - INFO - Creating admin user...
+2025-08-29 11:38:49,017 - root - INFO - Admin user created or already exists
+2025-08-29 11:38:49,017 - root - INFO - Creating default validation rules...
+2025-08-29 11:38:49,025 - root - INFO - Default validation rules ensured successfully
+2025-08-29 11:38:49,025 - root - INFO - Application initialization completed successfully
+2025-08-29 11:38:49,044 - werkzeug - WARNING -  * Debugger is active!
+2025-08-29 11:38:49,047 - werkzeug - INFO -  * Debugger PIN: 135-922-860
+2025-08-29 11:39:17,459 - root - INFO - File saved: ./uploads\test_14_07.xlsx
+2025-08-29 11:39:17,974 - root - INFO - Database connection established successfully
+2025-08-29 11:39:17,979 - root - INFO - Found 0 existing templates with name test_14_07.xlsx
+2025-08-29 11:39:17,998 - root - INFO - Upload processed: template_id=404, filename=test_14_07.xlsx, has_existing_rules=False, redirecting to step=1
+2025-08-29 11:39:18,008 - werkzeug - INFO - 127.0.0.1 - - [29/Aug/2025 11:39:18] "POST /upload HTTP/1.1" 200 -
+2025-08-29 11:39:18,408 - werkzeug - INFO - 127.0.0.1 - - [29/Aug/2025 11:39:18] "[33mGET /rules HTTP/1.1[0m" 404 -
+2025-08-29 11:39:18,418 - werkzeug - INFO - 127.0.0.1 - - [29/Aug/2025 11:39:18] "[33mGET /template/404/Sheet1 HTTP/1.1[0m" 404 -
+2025-08-29 11:39:18,822 - root - INFO - Database connection established successfully
+2025-08-29 11:39:18,825 - root - INFO - User rahul@gmail.com is authenticated
+2025-08-29 11:39:18,832 - werkzeug - INFO - 127.0.0.1 - - [29/Aug/2025 11:39:18] "GET /check-auth HTTP/1.1" 200 -
+2025-08-29 11:40:53,528 - werkzeug - INFO -  * Detected change in 'c:\\Users\\MOM\\Downloads\\Deploy\\Deploy\\14-08-2025\\backend\\App\\app.py', reloading
+2025-08-29 11:40:53,867 - werkzeug - INFO -  * Restarting with stat
+2025-08-29 11:40:54,696 - numexpr.utils - INFO - NumExpr defaulting to 12 threads.
+2025-08-29 11:40:55,534 - root - INFO - All blueprints registered successfully
+2025-08-29 11:40:55,539 - root - INFO - Initializing database schema...
+2025-08-29 11:40:55,779 - mysql.connector - INFO - package: mysql.connector.plugins
+2025-08-29 11:40:55,780 - mysql.connector - INFO - plugin_name: caching_sha2_password
+2025-08-29 11:40:55,780 - mysql.connector - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2025-08-29 11:40:55,781 - mysql.connector - INFO - package: mysql.connector.plugins
+2025-08-29 11:40:55,781 - mysql.connector - INFO - plugin_name: mysql_native_password
+2025-08-29 11:40:55,782 - mysql.connector - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLNativePasswordAuthPlugin
+2025-08-29 11:40:55,970 - root - INFO - Database connection established successfully
+2025-08-29 11:40:56,005 - root - INFO - Database tables initialized successfully
+2025-08-29 11:40:56,005 - root - INFO - Creating admin user...
+2025-08-29 11:40:56,237 - root - INFO - Admin user created or already exists
+2025-08-29 11:40:56,238 - root - INFO - Creating default validation rules...
+2025-08-29 11:40:56,244 - root - INFO - Default validation rules ensured successfully
+2025-08-29 11:40:56,244 - root - INFO - Application initialization completed successfully
+2025-08-29 11:40:56,263 - werkzeug - WARNING -  * Debugger is active!
+2025-08-29 11:40:56,267 - werkzeug - INFO -  * Debugger PIN: 135-922-860
+2025-08-29 11:41:26,568 - werkzeug - INFO -  * Detected change in 'c:\\Users\\MOM\\Downloads\\Deploy\\Deploy\\14-08-2025\\backend\\App\\app.py', reloading
+2025-08-29 11:41:26,757 - werkzeug - INFO -  * Restarting with stat
+2025-08-29 11:41:27,302 - numexpr.utils - INFO - NumExpr defaulting to 12 threads.
+2025-08-29 11:41:27,864 - root - INFO - All blueprints registered successfully
+2025-08-29 11:41:27,870 - root - INFO - Initializing database schema...
+2025-08-29 11:41:28,054 - mysql.connector - INFO - package: mysql.connector.plugins
+2025-08-29 11:41:28,055 - mysql.connector - INFO - plugin_name: caching_sha2_password
+2025-08-29 11:41:28,055 - mysql.connector - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2025-08-29 11:41:28,055 - mysql.connector - INFO - package: mysql.connector.plugins
+2025-08-29 11:41:28,056 - mysql.connector - INFO - plugin_name: mysql_native_password
+2025-08-29 11:41:28,057 - mysql.connector - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLNativePasswordAuthPlugin
+2025-08-29 11:41:28,222 - root - INFO - Database connection established successfully
+2025-08-29 11:41:28,253 - root - INFO - Database tables initialized successfully
+2025-08-29 11:41:28,253 - root - INFO - Creating admin user...
+2025-08-29 11:41:28,479 - root - INFO - Admin user created or already exists
+2025-08-29 11:41:28,480 - root - INFO - Creating default validation rules...
+2025-08-29 11:41:28,486 - root - INFO - Default validation rules ensured successfully
+2025-08-29 11:41:28,486 - root - INFO - Application initialization completed successfully
+2025-08-29 11:41:28,502 - werkzeug - WARNING -  * Debugger is active!
+2025-08-29 11:41:28,505 - werkzeug - INFO -  * Debugger PIN: 135-922-860
+2025-08-29 11:41:33,983 - werkzeug - INFO -  * Detected change in 'c:\\Users\\MOM\\Downloads\\Deploy\\Deploy\\14-08-2025\\backend\\App\\app.py', reloading
+2025-08-29 11:41:34,158 - werkzeug - INFO -  * Restarting with stat
+2025-08-29 11:41:34,666 - numexpr.utils - INFO - NumExpr defaulting to 12 threads.
+2025-08-29 11:41:35,228 - root - INFO - All blueprints registered successfully
+2025-08-29 11:41:35,233 - root - INFO - Initializing database schema...
+2025-08-29 11:41:35,418 - mysql.connector - INFO - package: mysql.connector.plugins
+2025-08-29 11:41:35,418 - mysql.connector - INFO - plugin_name: caching_sha2_password
+2025-08-29 11:41:35,418 - mysql.connector - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2025-08-29 11:41:35,419 - mysql.connector - INFO - package: mysql.connector.plugins
+2025-08-29 11:41:35,419 - mysql.connector - INFO - plugin_name: mysql_native_password
+2025-08-29 11:41:35,420 - mysql.connector - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLNativePasswordAuthPlugin
+2025-08-29 11:41:35,582 - root - INFO - Database connection established successfully
+2025-08-29 11:41:35,618 - root - INFO - Database tables initialized successfully
+2025-08-29 11:41:35,618 - root - INFO - Creating admin user...
+2025-08-29 11:41:35,844 - root - INFO - Admin user created or already exists
+2025-08-29 11:41:35,845 - root - INFO - Creating default validation rules...
+2025-08-29 11:41:35,851 - root - INFO - Default validation rules ensured successfully
+2025-08-29 11:41:35,851 - root - INFO - Application initialization completed successfully
+2025-08-29 11:41:35,867 - werkzeug - WARNING -  * Debugger is active!
+2025-08-29 11:41:35,871 - werkzeug - INFO -  * Debugger PIN: 135-922-860
+2025-08-29 11:42:03,378 - werkzeug - INFO -  * Detected change in 'c:\\Users\\MOM\\Downloads\\Deploy\\Deploy\\14-08-2025\\backend\\App\\app.py', reloading
+2025-08-29 11:42:03,597 - werkzeug - INFO -  * Restarting with stat
+2025-08-29 11:42:04,160 - numexpr.utils - INFO - NumExpr defaulting to 12 threads.
+2025-08-29 11:42:04,779 - root - INFO - All blueprints registered successfully
+2025-08-29 11:42:04,783 - root - INFO - Initializing database schema...
+2025-08-29 11:42:04,994 - mysql.connector - INFO - package: mysql.connector.plugins
+2025-08-29 11:42:04,995 - mysql.connector - INFO - plugin_name: caching_sha2_password
+2025-08-29 11:42:04,995 - mysql.connector - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2025-08-29 11:42:04,995 - mysql.connector - INFO - package: mysql.connector.plugins
+2025-08-29 11:42:04,995 - mysql.connector - INFO - plugin_name: mysql_native_password
+2025-08-29 11:42:04,996 - mysql.connector - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLNativePasswordAuthPlugin
+2025-08-29 11:42:05,177 - root - INFO - Database connection established successfully
+2025-08-29 11:42:05,216 - root - INFO - Database tables initialized successfully
+2025-08-29 11:42:05,216 - root - INFO - Creating admin user...
+2025-08-29 11:42:05,461 - root - INFO - Admin user created or already exists
+2025-08-29 11:42:05,461 - root - INFO - Creating default validation rules...
+2025-08-29 11:42:05,468 - root - INFO - Default validation rules ensured successfully
+2025-08-29 11:42:05,468 - root - INFO - Application initialization completed successfully
+2025-08-29 11:42:05,489 - werkzeug - WARNING -  * Debugger is active!
+2025-08-29 11:42:05,493 - werkzeug - INFO -  * Debugger PIN: 135-922-860
+2025-08-29 11:42:25,949 - werkzeug - INFO - 127.0.0.1 - - [29/Aug/2025 11:42:25] "[35m[1mGET /template/404/Sheet1 HTTP/1.1[0m" 500 -
+2025-08-29 11:42:30,894 - root - INFO - Database connection established successfully
+2025-08-29 11:42:30,899 - root - INFO - Database connection established successfully
+2025-08-29 11:42:30,909 - root - INFO - Database connection established successfully
+2025-08-29 11:42:30,924 - root - INFO - User rahul@gmail.com is authenticated
+2025-08-29 11:42:30,938 - werkzeug - INFO - 127.0.0.1 - - [29/Aug/2025 11:42:30] "GET /check-auth HTTP/1.1" 200 -
+2025-08-29 11:42:30,948 - root - INFO - Fetched validation history for user 60: 9 templates
+2025-08-29 11:42:30,961 - werkzeug - INFO - 127.0.0.1 - - [29/Aug/2025 11:42:30] "GET /validation-history HTTP/1.1" 200 -
+2025-08-29 11:42:31,520 - root - INFO - Database connection established successfully
+2025-08-29 11:42:31,538 - root - INFO - Fetched validation history for user 60: 9 templates
+2025-08-29 11:42:31,547 - werkzeug - INFO - 127.0.0.1 - - [29/Aug/2025 11:42:31] "GET /validation-history HTTP/1.1" 200 -
+2025-08-29 11:42:31,560 - root - INFO - Found 6 templates with rules for user_id: 60
+2025-08-29 11:42:31,571 - werkzeug - INFO - 127.0.0.1 - - [29/Aug/2025 11:42:31] "GET /rule-configurations HTTP/1.1" 200 -
+2025-08-29 11:42:32,417 - root - INFO - Database connection established successfully
+2025-08-29 11:42:32,476 - root - INFO - Found 6 templates with rules for user_id: 60
+2025-08-29 11:42:32,482 - werkzeug - INFO - 127.0.0.1 - - [29/Aug/2025 11:42:32] "GET /rule-configurations HTTP/1.1" 200 -
+2025-08-29 11:42:35,966 - root - INFO - File saved: ./uploads\test26-06.xlsx
+2025-08-29 11:42:36,486 - root - INFO - Database connection established successfully
+2025-08-29 11:42:36,492 - root - INFO - Found 0 existing templates with name test26-06.xlsx
+2025-08-29 11:42:36,508 - root - INFO - Upload processed: template_id=405, filename=test26-06.xlsx, has_existing_rules=False, redirecting to step=1
+2025-08-29 11:42:36,517 - werkzeug - INFO - 127.0.0.1 - - [29/Aug/2025 11:42:36] "POST /upload HTTP/1.1" 200 -
+2025-08-29 11:42:37,799 - root - INFO - Database connection established successfully
+2025-08-29 11:42:37,805 - root - INFO - Database connection established successfully
+2025-08-29 11:42:37,810 - werkzeug - INFO - 127.0.0.1 - - [29/Aug/2025 11:42:37] "[35m[1mGET /template/405/Sheet1 HTTP/1.1[0m" 500 -
+2025-08-29 11:42:37,813 - root - INFO - User rahul@gmail.com is authenticated
+2025-08-29 11:42:37,814 - root - INFO - Returning 16 rules from getRules endpoint
+2025-08-29 11:42:37,824 - werkzeug - INFO - 127.0.0.1 - - [29/Aug/2025 11:42:37] "GET /rules HTTP/1.1" 200 -
+2025-08-29 11:42:37,836 - werkzeug - INFO - 127.0.0.1 - - [29/Aug/2025 11:42:37] "GET /check-auth HTTP/1.1" 200 -
+2025-08-29 11:44:12,176 - werkzeug - INFO -  * Detected change in 'c:\\Users\\MOM\\Downloads\\Deploy\\Deploy\\14-08-2025\\backend\\App\\app.py', reloading
+2025-08-29 11:44:12,350 - werkzeug - INFO -  * Restarting with stat
+2025-08-29 11:44:13,008 - numexpr.utils - INFO - NumExpr defaulting to 12 threads.
+2025-08-29 11:44:13,733 - root - INFO - All blueprints registered successfully
+2025-08-29 11:44:13,738 - root - INFO - Initializing database schema...
+2025-08-29 11:44:13,939 - mysql.connector - INFO - package: mysql.connector.plugins
+2025-08-29 11:44:13,940 - mysql.connector - INFO - plugin_name: caching_sha2_password
+2025-08-29 11:44:13,940 - mysql.connector - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2025-08-29 11:44:13,940 - mysql.connector - INFO - package: mysql.connector.plugins
+2025-08-29 11:44:13,941 - mysql.connector - INFO - plugin_name: mysql_native_password
+2025-08-29 11:44:13,942 - mysql.connector - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLNativePasswordAuthPlugin
+2025-08-29 11:44:14,109 - root - INFO - Database connection established successfully
+2025-08-29 11:44:14,143 - root - INFO - Database tables initialized successfully
+2025-08-29 11:44:14,144 - root - INFO - Creating admin user...
+2025-08-29 11:44:14,377 - root - INFO - Admin user created or already exists
+2025-08-29 11:44:14,378 - root - INFO - Creating default validation rules...
+2025-08-29 11:44:14,384 - root - INFO - Default validation rules ensured successfully
+2025-08-29 11:44:14,384 - root - INFO - Application initialization completed successfully
+2025-08-29 11:44:14,405 - werkzeug - WARNING -  * Debugger is active!
+2025-08-29 11:44:14,409 - werkzeug - INFO -  * Debugger PIN: 135-922-860
+2025-08-29 11:44:31,232 - root - INFO - Database connection established successfully
+2025-08-29 11:44:31,232 - root - INFO - Database connection established successfully
+2025-08-29 11:44:31,241 - root - INFO - Database connection established successfully
+2025-08-29 11:44:31,248 - root - INFO - User rahul@gmail.com is authenticated
+2025-08-29 11:44:31,259 - werkzeug - INFO - 127.0.0.1 - - [29/Aug/2025 11:44:31] "GET /check-auth HTTP/1.1" 200 -
+2025-08-29 11:44:31,263 - root - INFO - Fetched validation history for user 60: 9 templates
+2025-08-29 11:44:31,274 - werkzeug - INFO - 127.0.0.1 - - [29/Aug/2025 11:44:31] "GET /validation-history HTTP/1.1" 200 -
+2025-08-29 11:44:31,857 - root - INFO - Database connection established successfully
+2025-08-29 11:44:31,873 - root - INFO - Fetched validation history for user 60: 9 templates
+2025-08-29 11:44:31,881 - werkzeug - INFO - 127.0.0.1 - - [29/Aug/2025 11:44:31] "GET /validation-history HTTP/1.1" 200 -
+2025-08-29 11:44:31,898 - root - INFO - Found 6 templates with rules for user_id: 60
+2025-08-29 11:44:31,909 - werkzeug - INFO - 127.0.0.1 - - [29/Aug/2025 11:44:31] "GET /rule-configurations HTTP/1.1" 200 -
+2025-08-29 11:44:32,765 - root - INFO - Database connection established successfully
+2025-08-29 11:44:32,834 - root - INFO - Found 6 templates with rules for user_id: 60
+2025-08-29 11:44:32,840 - werkzeug - INFO - 127.0.0.1 - - [29/Aug/2025 11:44:32] "GET /rule-configurations HTTP/1.1" 200 -
+2025-08-29 11:44:35,495 - werkzeug - INFO - 127.0.0.1 - - [29/Aug/2025 11:44:35] "[31m[1mDELETE /delete-template/403 HTTP/1.1[0m" 405 -
+2025-08-29 11:44:42,672 - root - INFO - File saved: ./uploads\test_04-07.xlsx
+2025-08-29 11:44:43,143 - root - INFO - Database connection established successfully
+2025-08-29 11:44:43,147 - root - INFO - Found 0 existing templates with name test_04-07.xlsx
+2025-08-29 11:44:43,161 - root - INFO - Upload processed: template_id=406, filename=test_04-07.xlsx, has_existing_rules=False, redirecting to step=1
+2025-08-29 11:44:43,168 - werkzeug - INFO - 127.0.0.1 - - [29/Aug/2025 11:44:43] "POST /upload HTTP/1.1" 200 -
+2025-08-29 11:44:44,212 - root - INFO - Database connection established successfully
+2025-08-29 11:44:44,238 - werkzeug - INFO - 127.0.0.1 - - [29/Aug/2025 11:44:44] "GET /template/406/Sheet1 HTTP/1.1" 200 -
+2025-08-29 11:44:44,707 - root - INFO - Database connection established successfully
+2025-08-29 11:44:44,953 - root - INFO - Database connection established successfully
+2025-08-29 11:44:44,958 - root - INFO - Returning 16 rules from getRules endpoint
+2025-08-29 11:44:44,960 - root - INFO - User rahul@gmail.com is authenticated
+2025-08-29 11:44:44,966 - werkzeug - INFO - 127.0.0.1 - - [29/Aug/2025 11:44:44] "GET /rules HTTP/1.1" 200 -
+2025-08-29 11:44:44,971 - werkzeug - INFO - 127.0.0.1 - - [29/Aug/2025 11:44:44] "GET /check-auth HTTP/1.1" 200 -
+2025-08-29 11:44:45,186 - root - INFO - Database connection established successfully
+2025-08-29 11:44:45,198 - werkzeug - INFO - 127.0.0.1 - - [29/Aug/2025 11:44:45] "GET /template/406/Sheet1 HTTP/1.1" 200 -
+2025-08-29 11:44:49,404 - werkzeug - INFO - 127.0.0.1 - - [29/Aug/2025 11:44:49] "[31m[1mPOST /step/1 HTTP/1.1[0m" 405 -
+2025-08-29 11:47:17,600 - werkzeug - INFO -  * Detected change in 'c:\\Users\\MOM\\Downloads\\Deploy\\Deploy\\14-08-2025\\backend\\App\\app.py', reloading
+2025-08-29 11:47:17,857 - werkzeug - INFO -  * Restarting with stat
+2025-08-29 11:47:18,450 - numexpr.utils - INFO - NumExpr defaulting to 12 threads.
+2025-08-29 11:47:19,106 - root - INFO - All blueprints registered successfully
+2025-08-29 11:47:19,111 - root - INFO - Initializing database schema...
+2025-08-29 11:47:19,297 - mysql.connector - INFO - package: mysql.connector.plugins
+2025-08-29 11:47:19,297 - mysql.connector - INFO - plugin_name: caching_sha2_password
+2025-08-29 11:47:19,297 - mysql.connector - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2025-08-29 11:47:19,298 - mysql.connector - INFO - package: mysql.connector.plugins
+2025-08-29 11:47:19,298 - mysql.connector - INFO - plugin_name: mysql_native_password
+2025-08-29 11:47:19,299 - mysql.connector - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLNativePasswordAuthPlugin
+2025-08-29 11:47:19,468 - root - INFO - Database connection established successfully
+2025-08-29 11:47:19,506 - root - INFO - Database tables initialized successfully
+2025-08-29 11:47:19,506 - root - INFO - Creating admin user...
+2025-08-29 11:47:19,735 - root - INFO - Admin user created or already exists
+2025-08-29 11:47:19,735 - root - INFO - Creating default validation rules...
+2025-08-29 11:47:19,741 - root - INFO - Default validation rules ensured successfully
+2025-08-29 11:47:19,742 - root - INFO - Application initialization completed successfully
+2025-08-29 11:47:19,759 - werkzeug - WARNING -  * Debugger is active!
+2025-08-29 11:47:19,763 - werkzeug - INFO -  * Debugger PIN: 135-922-860
+2025-08-29 11:49:08,018 - root - INFO - Database connection established successfully
+2025-08-29 11:49:08,044 - werkzeug - INFO - 127.0.0.1 - - [29/Aug/2025 11:49:08] "POST /step/1 HTTP/1.1" 200 -
+2025-08-29 11:49:08,653 - root - INFO - Database connection established successfully
+2025-08-29 11:49:08,789 - werkzeug - INFO - 127.0.0.1 - - [29/Aug/2025 11:49:08] "GET /template/406/Sheet1 HTTP/1.1" 200 -
+2025-08-29 11:49:09,045 - root - INFO - Database connection established successfully
+2025-08-29 11:49:09,051 - root - INFO - Returning 16 rules from getRules endpoint
+2025-08-29 11:49:09,059 - werkzeug - INFO - 127.0.0.1 - - [29/Aug/2025 11:49:09] "GET /rules HTTP/1.1" 200 -
+2025-08-29 11:49:09,842 - root - INFO - Database connection established successfully
+2025-08-29 11:49:09,848 - root - INFO - Returning 16 rules from getRules endpoint
+2025-08-29 11:49:09,857 - werkzeug - INFO - 127.0.0.1 - - [29/Aug/2025 11:49:09] "GET /rules HTTP/1.1" 200 -
+2025-08-29 12:03:18,513 - werkzeug - INFO -  * Detected change in 'c:\\Users\\MOM\\Downloads\\Deploy\\Deploy\\14-08-2025\\backend\\App\\routes\\steps.py', reloading
+2025-08-29 12:03:19,230 - werkzeug - INFO -  * Restarting with stat
+2025-08-29 12:03:20,042 - numexpr.utils - INFO - NumExpr defaulting to 12 threads.
+2025-08-29 12:03:20,870 - root - INFO - All blueprints registered successfully
+2025-08-29 12:03:20,876 - root - INFO - Initializing database schema...
+2025-08-29 12:03:21,160 - mysql.connector - INFO - package: mysql.connector.plugins
+2025-08-29 12:03:21,161 - mysql.connector - INFO - plugin_name: caching_sha2_password
+2025-08-29 12:03:21,161 - mysql.connector - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2025-08-29 12:03:21,163 - mysql.connector - INFO - package: mysql.connector.plugins
+2025-08-29 12:03:21,164 - mysql.connector - INFO - plugin_name: mysql_native_password
+2025-08-29 12:03:21,165 - mysql.connector - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLNativePasswordAuthPlugin
+2025-08-29 12:03:21,377 - root - INFO - Database connection established successfully
+2025-08-29 12:03:21,433 - root - INFO - Database tables initialized successfully
+2025-08-29 12:03:21,433 - root - INFO - Creating admin user...
+2025-08-29 12:03:21,683 - root - INFO - Admin user created or already exists
+2025-08-29 12:03:21,684 - root - INFO - Creating default validation rules...
+2025-08-29 12:03:21,694 - root - INFO - Default validation rules ensured successfully
+2025-08-29 12:03:21,694 - root - INFO - Application initialization completed successfully
+2025-08-29 12:03:21,715 - werkzeug - WARNING -  * Debugger is active!
+2025-08-29 12:03:21,720 - werkzeug - INFO -  * Debugger PIN: 135-922-860
+2025-08-29 12:03:28,643 - werkzeug - INFO -  * Detected change in 'c:\\Users\\MOM\\Downloads\\Deploy\\Deploy\\14-08-2025\\backend\\App\\routes\\steps.py', reloading
+2025-08-29 12:03:28,803 - werkzeug - INFO -  * Restarting with stat
+2025-08-29 12:03:29,316 - numexpr.utils - INFO - NumExpr defaulting to 12 threads.
+2025-08-29 12:03:29,873 - root - INFO - All blueprints registered successfully
+2025-08-29 12:03:29,878 - root - INFO - Initializing database schema...
+2025-08-29 12:03:30,082 - mysql.connector - INFO - package: mysql.connector.plugins
+2025-08-29 12:03:30,082 - mysql.connector - INFO - plugin_name: caching_sha2_password
+2025-08-29 12:03:30,082 - mysql.connector - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2025-08-29 12:03:30,083 - mysql.connector - INFO - package: mysql.connector.plugins
+2025-08-29 12:03:30,083 - mysql.connector - INFO - plugin_name: mysql_native_password
+2025-08-29 12:03:30,085 - mysql.connector - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLNativePasswordAuthPlugin
+2025-08-29 12:03:30,262 - root - INFO - Database connection established successfully
+2025-08-29 12:03:30,298 - root - INFO - Database tables initialized successfully
+2025-08-29 12:03:30,299 - root - INFO - Creating admin user...
+2025-08-29 12:03:30,539 - root - INFO - Admin user created or already exists
+2025-08-29 12:03:30,539 - root - INFO - Creating default validation rules...
+2025-08-29 12:03:30,546 - root - INFO - Default validation rules ensured successfully
+2025-08-29 12:03:30,547 - root - INFO - Application initialization completed successfully
+2025-08-29 12:03:30,563 - werkzeug - WARNING -  * Debugger is active!
+2025-08-29 12:03:30,566 - werkzeug - INFO -  * Debugger PIN: 135-922-860
+2025-08-29 12:05:47,533 - root - INFO - Database connection established successfully
+2025-08-29 12:05:47,548 - root - INFO - User rahul@gmail.com is authenticated
+2025-08-29 12:05:47,567 - werkzeug - INFO - 127.0.0.1 - - [29/Aug/2025 12:05:47] "GET /check-auth HTTP/1.1" 200 -
+2025-08-29 12:05:48,535 - root - INFO - Database connection established successfully
+2025-08-29 12:05:48,540 - root - INFO - Database connection established successfully
+2025-08-29 12:05:48,551 - root - INFO - Returning 16 rules from getRules endpoint
+2025-08-29 12:05:48,559 - werkzeug - INFO - 127.0.0.1 - - [29/Aug/2025 12:05:48] "GET /rules HTTP/1.1" 200 -
+2025-08-29 12:05:48,575 - werkzeug - INFO - 127.0.0.1 - - [29/Aug/2025 12:05:48] "GET /template/406/Sheet1 HTTP/1.1" 200 -
+2025-08-29 12:05:49,771 - root - INFO - Database connection established successfully
+2025-08-29 12:05:49,776 - root - INFO - Returning 16 rules from getRules endpoint
+2025-08-29 12:05:49,777 - root - INFO - Database connection established successfully
+2025-08-29 12:05:49,786 - werkzeug - INFO - 127.0.0.1 - - [29/Aug/2025 12:05:49] "GET /rules HTTP/1.1" 200 -
+2025-08-29 12:05:49,903 - werkzeug - INFO - 127.0.0.1 - - [29/Aug/2025 12:05:49] "GET /template/406/Sheet1 HTTP/1.1" 200 -
+2025-08-29 12:05:50,246 - root - INFO - Database connection established successfully
+2025-08-29 12:05:50,251 - root - INFO - Returning 16 rules from getRules endpoint
+2025-08-29 12:05:50,257 - werkzeug - INFO - 127.0.0.1 - - [29/Aug/2025 12:05:50] "GET /rules HTTP/1.1" 200 -
+2025-08-29 12:08:59,182 - werkzeug - INFO -  * Detected change in 'c:\\Users\\MOM\\Downloads\\Deploy\\Deploy\\14-08-2025\\backend\\App\\routes\\steps.py', reloading
+2025-08-29 12:08:59,659 - werkzeug - INFO -  * Restarting with stat
+2025-08-29 12:09:00,447 - numexpr.utils - INFO - NumExpr defaulting to 12 threads.
+2025-08-29 12:09:01,223 - root - INFO - All blueprints registered successfully
+2025-08-29 12:09:01,229 - root - INFO - Initializing database schema...
+2025-08-29 12:09:01,426 - mysql.connector - INFO - package: mysql.connector.plugins
+2025-08-29 12:09:01,427 - mysql.connector - INFO - plugin_name: caching_sha2_password
+2025-08-29 12:09:01,427 - mysql.connector - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2025-08-29 12:09:01,428 - mysql.connector - INFO - package: mysql.connector.plugins
+2025-08-29 12:09:01,428 - mysql.connector - INFO - plugin_name: mysql_native_password
+2025-08-29 12:09:01,429 - mysql.connector - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLNativePasswordAuthPlugin
+2025-08-29 12:09:01,599 - root - INFO - Database connection established successfully
+2025-08-29 12:09:01,645 - root - INFO - Database tables initialized successfully
+2025-08-29 12:09:01,646 - root - INFO - Creating admin user...
+2025-08-29 12:09:01,890 - root - INFO - Admin user created or already exists
+2025-08-29 12:09:01,890 - root - INFO - Creating default validation rules...
+2025-08-29 12:09:01,899 - root - INFO - Default validation rules ensured successfully
+2025-08-29 12:09:01,900 - root - INFO - Application initialization completed successfully
+2025-08-29 12:09:01,919 - werkzeug - WARNING -  * Debugger is active!
+2025-08-29 12:09:01,923 - werkzeug - INFO -  * Debugger PIN: 135-922-860
+2025-08-29 12:09:07,418 - werkzeug - INFO -  * Detected change in 'c:\\Users\\MOM\\Downloads\\Deploy\\Deploy\\14-08-2025\\backend\\App\\routes\\__init__.py', reloading
+2025-08-29 12:09:07,620 - werkzeug - INFO -  * Restarting with stat
+2025-08-29 12:09:08,260 - numexpr.utils - INFO - NumExpr defaulting to 12 threads.
+2025-08-29 12:09:08,953 - root - INFO - All blueprints registered successfully
+2025-08-29 12:09:08,959 - root - INFO - Initializing database schema...
+2025-08-29 12:09:09,176 - mysql.connector - INFO - package: mysql.connector.plugins
+2025-08-29 12:09:09,176 - mysql.connector - INFO - plugin_name: caching_sha2_password
+2025-08-29 12:09:09,176 - mysql.connector - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2025-08-29 12:09:09,177 - mysql.connector - INFO - package: mysql.connector.plugins
+2025-08-29 12:09:09,177 - mysql.connector - INFO - plugin_name: mysql_native_password
+2025-08-29 12:09:09,178 - mysql.connector - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLNativePasswordAuthPlugin
+2025-08-29 12:09:09,356 - root - INFO - Database connection established successfully
+2025-08-29 12:09:09,391 - root - INFO - Database tables initialized successfully
+2025-08-29 12:09:09,392 - root - INFO - Creating admin user...
+2025-08-29 12:09:09,629 - root - INFO - Admin user created or already exists
+2025-08-29 12:09:09,629 - root - INFO - Creating default validation rules...
+2025-08-29 12:09:09,636 - root - INFO - Default validation rules ensured successfully
+2025-08-29 12:09:09,637 - root - INFO - Application initialization completed successfully
+2025-08-29 12:09:09,654 - werkzeug - WARNING -  * Debugger is active!
+2025-08-29 12:09:09,658 - werkzeug - INFO -  * Debugger PIN: 135-922-860
+2025-08-29 12:09:46,551 - werkzeug - INFO -  * Detected change in 'c:\\Users\\MOM\\Downloads\\Deploy\\Deploy\\14-08-2025\\backend\\App\\routes\\steps.py', reloading
+2025-08-29 12:09:46,725 - werkzeug - INFO -  * Restarting with stat
+2025-08-29 12:09:47,262 - numexpr.utils - INFO - NumExpr defaulting to 12 threads.
+2025-08-29 12:09:47,858 - root - INFO - All blueprints registered successfully
+2025-08-29 12:09:47,863 - root - INFO - Initializing database schema...
+2025-08-29 12:09:48,096 - mysql.connector - INFO - package: mysql.connector.plugins
+2025-08-29 12:09:48,096 - mysql.connector - INFO - plugin_name: caching_sha2_password
+2025-08-29 12:09:48,096 - mysql.connector - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2025-08-29 12:09:48,097 - mysql.connector - INFO - package: mysql.connector.plugins
+2025-08-29 12:09:48,097 - mysql.connector - INFO - plugin_name: mysql_native_password
+2025-08-29 12:09:48,099 - mysql.connector - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLNativePasswordAuthPlugin
+2025-08-29 12:09:48,288 - root - INFO - Database connection established successfully
+2025-08-29 12:09:48,323 - root - INFO - Database tables initialized successfully
+2025-08-29 12:09:48,323 - root - INFO - Creating admin user...
+2025-08-29 12:09:48,561 - root - INFO - Admin user created or already exists
+2025-08-29 12:09:48,561 - root - INFO - Creating default validation rules...
+2025-08-29 12:09:48,568 - root - INFO - Default validation rules ensured successfully
+2025-08-29 12:09:48,568 - root - INFO - Application initialization completed successfully
+2025-08-29 12:09:48,587 - werkzeug - WARNING -  * Debugger is active!
+2025-08-29 12:09:48,591 - werkzeug - INFO -  * Debugger PIN: 135-922-860
+2025-08-29 12:11:53,664 - numexpr.utils - INFO - NumExpr defaulting to 12 threads.
+2025-08-29 12:11:54,229 - root - INFO - All blueprints registered successfully
+2025-08-29 12:11:54,234 - root - INFO - Initializing database schema...
+2025-08-29 12:11:54,426 - mysql.connector - INFO - package: mysql.connector.plugins
+2025-08-29 12:11:54,426 - mysql.connector - INFO - plugin_name: caching_sha2_password
+2025-08-29 12:11:54,426 - mysql.connector - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2025-08-29 12:11:54,427 - mysql.connector - INFO - package: mysql.connector.plugins
+2025-08-29 12:11:54,427 - mysql.connector - INFO - plugin_name: mysql_native_password
+2025-08-29 12:11:54,428 - mysql.connector - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLNativePasswordAuthPlugin
+2025-08-29 12:11:54,594 - root - INFO - Database connection established successfully
+2025-08-29 12:11:54,623 - root - INFO - Database tables initialized successfully
+2025-08-29 12:11:54,623 - root - INFO - Creating admin user...
+2025-08-29 12:11:54,852 - root - INFO - Admin user created or already exists
+2025-08-29 12:11:54,853 - root - INFO - Creating default validation rules...
+2025-08-29 12:11:54,858 - root - INFO - Default validation rules ensured successfully
+2025-08-29 12:11:54,858 - root - INFO - Application initialization completed successfully
+2025-08-29 12:11:54,890 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.178.161.115:5000
+2025-08-29 12:11:54,891 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-08-29 12:11:54,894 - werkzeug - INFO -  * Restarting with stat
+2025-08-29 12:11:55,405 - numexpr.utils - INFO - NumExpr defaulting to 12 threads.
+2025-08-29 12:11:55,949 - root - INFO - All blueprints registered successfully
+2025-08-29 12:11:55,955 - root - INFO - Initializing database schema...
+2025-08-29 12:11:56,156 - mysql.connector - INFO - package: mysql.connector.plugins
+2025-08-29 12:11:56,157 - mysql.connector - INFO - plugin_name: caching_sha2_password
+2025-08-29 12:11:56,157 - mysql.connector - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2025-08-29 12:11:56,157 - mysql.connector - INFO - package: mysql.connector.plugins
+2025-08-29 12:11:56,157 - mysql.connector - INFO - plugin_name: mysql_native_password
+2025-08-29 12:11:56,159 - mysql.connector - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLNativePasswordAuthPlugin
+2025-08-29 12:11:56,334 - root - INFO - Database connection established successfully
+2025-08-29 12:11:56,363 - root - INFO - Database tables initialized successfully
+2025-08-29 12:11:56,363 - root - INFO - Creating admin user...
+2025-08-29 12:11:56,605 - root - INFO - Admin user created or already exists
+2025-08-29 12:11:56,605 - root - INFO - Creating default validation rules...
+2025-08-29 12:11:56,622 - root - INFO - Default validation rules ensured successfully
+2025-08-29 12:11:56,622 - root - INFO - Application initialization completed successfully
+2025-08-29 12:11:56,640 - werkzeug - WARNING -  * Debugger is active!
+2025-08-29 12:11:56,643 - werkzeug - INFO -  * Debugger PIN: 135-922-860
+2025-08-29 12:12:17,646 - root - INFO - Database connection established successfully
+2025-08-29 12:12:17,652 - root - INFO - User rahul@gmail.com is authenticated
+2025-08-29 12:12:17,662 - werkzeug - INFO - 127.0.0.1 - - [29/Aug/2025 12:12:17] "GET /check-auth HTTP/1.1" 200 -
+2025-08-29 12:12:18,129 - root - INFO - Database connection established successfully
+2025-08-29 12:12:18,134 - root - INFO - User rahul@gmail.com is authenticated
+2025-08-29 12:12:18,142 - werkzeug - INFO - 127.0.0.1 - - [29/Aug/2025 12:12:18] "GET /check-auth HTTP/1.1" 200 -
+2025-08-29 12:12:20,333 - root - INFO - Database connection established successfully
+2025-08-29 12:12:20,339 - root - INFO - Database connection established successfully
+2025-08-29 12:12:20,342 - root - INFO - Database connection established successfully
+2025-08-29 12:12:20,349 - root - INFO - User rahul@gmail.com is authenticated
+2025-08-29 12:12:20,357 - werkzeug - INFO - 127.0.0.1 - - [29/Aug/2025 12:12:20] "GET /check-auth HTTP/1.1" 200 -
+2025-08-29 12:12:20,369 - root - INFO - Fetched validation history for user 60: 9 templates
+2025-08-29 12:12:20,379 - werkzeug - INFO - 127.0.0.1 - - [29/Aug/2025 12:12:20] "GET /validation-history HTTP/1.1" 200 -
+2025-08-29 12:12:20,854 - root - INFO - Database connection established successfully
+2025-08-29 12:12:20,871 - root - INFO - Fetched validation history for user 60: 9 templates
+2025-08-29 12:12:20,880 - werkzeug - INFO - 127.0.0.1 - - [29/Aug/2025 12:12:20] "GET /validation-history HTTP/1.1" 200 -
+2025-08-29 12:12:20,897 - root - INFO - Found 6 templates with rules for user_id: 60
+2025-08-29 12:12:20,907 - werkzeug - INFO - 127.0.0.1 - - [29/Aug/2025 12:12:20] "GET /rule-configurations HTTP/1.1" 200 -
+2025-08-29 12:12:21,302 - root - INFO - Database connection established successfully
+2025-08-29 12:12:21,376 - root - INFO - Found 6 templates with rules for user_id: 60
+2025-08-29 12:12:21,383 - werkzeug - INFO - 127.0.0.1 - - [29/Aug/2025 12:12:21] "GET /rule-configurations HTTP/1.1" 200 -
+2025-08-29 12:12:36,496 - root - INFO - File saved: ./uploads\test24-7.xlsx
+2025-08-29 12:12:37,083 - root - INFO - Database connection established successfully
+2025-08-29 12:12:37,090 - root - INFO - Found 1 existing templates with name test24-7.xlsx
+2025-08-29 12:12:37,094 - root - INFO - Upload processed: template_id=302, filename=test24-7.xlsx, has_existing_rules=True, redirecting to step=3
+2025-08-29 12:12:37,104 - werkzeug - INFO - 127.0.0.1 - - [29/Aug/2025 12:12:37] "POST /upload HTTP/1.1" 200 -
+2025-08-29 12:12:38,097 - root - INFO - Database connection established successfully
+2025-08-29 12:12:38,114 - werkzeug - INFO - 127.0.0.1 - - [29/Aug/2025 12:12:38] "GET /template/302/Sheet1 HTTP/1.1" 200 -
+2025-08-29 12:12:38,594 - root - INFO - Database connection established successfully
+2025-08-29 12:12:38,776 - root - INFO - User rahul@gmail.com is authenticated
+2025-08-29 12:12:38,889 - root - INFO - Database connection established successfully
+2025-08-29 12:12:39,117 - werkzeug - INFO - 127.0.0.1 - - [29/Aug/2025 12:12:39] "GET /check-auth HTTP/1.1" 200 -
+2025-08-29 12:12:39,118 - root - INFO - Returning 16 rules from getRules endpoint
+2025-08-29 12:12:39,127 - werkzeug - INFO - 127.0.0.1 - - [29/Aug/2025 12:12:39] "GET /rules HTTP/1.1" 200 -
+2025-08-29 12:12:39,567 - root - INFO - Database connection established successfully
+2025-08-29 12:12:39,733 - root - INFO - Database connection established successfully
+2025-08-29 12:12:39,864 - werkzeug - INFO - 127.0.0.1 - - [29/Aug/2025 12:12:39] "GET /template/302/rules HTTP/1.1" 200 -
+2025-08-29 12:12:39,872 - werkzeug - INFO - 127.0.0.1 - - [29/Aug/2025 12:12:39] "GET /template/302/Sheet1 HTTP/1.1" 200 -
+2025-08-29 12:12:40,156 - root - INFO - Database connection established successfully
+2025-08-29 12:12:40,161 - root - INFO - Returning 16 rules from getRules endpoint
+2025-08-29 12:12:40,169 - werkzeug - INFO - 127.0.0.1 - - [29/Aug/2025 12:12:40] "GET /rules HTTP/1.1" 200 -
+2025-08-29 12:12:40,872 - root - INFO - Database connection established successfully
+2025-08-29 12:12:40,896 - werkzeug - INFO - 127.0.0.1 - - [29/Aug/2025 12:12:40] "GET /template/302/rules HTTP/1.1" 200 -
+2025-08-29 12:12:41,144 - root - INFO - Database connection established successfully
+2025-08-29 12:12:41,148 - root - INFO - Returning 16 rules from getRules endpoint
+2025-08-29 12:12:41,156 - werkzeug - INFO - 127.0.0.1 - - [29/Aug/2025 12:12:41] "GET /rules HTTP/1.1" 200 -
+2025-08-29 12:12:41,913 - root - INFO - Database connection established successfully
+2025-08-29 12:12:41,918 - root - INFO - Returning 16 rules from getRules endpoint
+2025-08-29 12:12:41,924 - werkzeug - INFO - 127.0.0.1 - - [29/Aug/2025 12:12:41] "GET /rules HTTP/1.1" 200 -
+2025-08-29 12:12:42,718 - root - INFO - Database connection established successfully
+2025-08-29 12:12:42,725 - root - INFO - Returning 16 rules from getRules endpoint
+2025-08-29 12:12:42,734 - werkzeug - INFO - 127.0.0.1 - - [29/Aug/2025 12:12:42] "GET /rules HTTP/1.1" 200 -
+2025-08-29 12:12:43,951 - root - INFO - Database connection established successfully
+2025-08-29 12:12:43,957 - root - INFO - User rahul@gmail.com is authenticated
+2025-08-29 12:12:43,965 - werkzeug - INFO - 127.0.0.1 - - [29/Aug/2025 12:12:43] "GET /check-auth HTTP/1.1" 200 -
+2025-08-29 12:12:45,077 - root - INFO - Database connection established successfully
+2025-08-29 12:12:45,749 - root - INFO - Database connection established successfully
+2025-08-29 12:12:45,757 - root - INFO - User rahul@gmail.com is authenticated
+2025-08-29 12:12:45,757 - root - INFO - Database connection established successfully
+2025-08-29 12:12:45,771 - werkzeug - INFO - 127.0.0.1 - - [29/Aug/2025 12:12:45] "GET /check-auth HTTP/1.1" 200 -
+2025-08-29 12:12:45,782 - root - INFO - Fetched validation history for user 60: 9 templates
+2025-08-29 12:12:45,791 - werkzeug - INFO - 127.0.0.1 - - [29/Aug/2025 12:12:45] "GET /validation-history HTTP/1.1" 200 -
+2025-08-29 12:12:45,846 - root - INFO - Found 6 templates with rules for user_id: 60
+2025-08-29 12:12:45,852 - werkzeug - INFO - 127.0.0.1 - - [29/Aug/2025 12:12:45] "GET /rule-configurations HTTP/1.1" 200 -
+2025-08-29 12:12:46,881 - root - INFO - Database connection established successfully
+2025-08-29 12:12:47,137 - root - INFO - Database connection established successfully
+2025-08-29 12:12:47,137 - root - INFO - Fetched validation history for user 60: 9 templates
+2025-08-29 12:12:47,147 - werkzeug - INFO - 127.0.0.1 - - [29/Aug/2025 12:12:47] "GET /validation-history HTTP/1.1" 200 -
+2025-08-29 12:12:47,209 - root - INFO - Found 6 templates with rules for user_id: 60
+2025-08-29 12:12:47,216 - werkzeug - INFO - 127.0.0.1 - - [29/Aug/2025 12:12:47] "GET /rule-configurations HTTP/1.1" 200 -
+2025-08-29 12:12:53,695 - root - INFO - File saved: ./uploads\Copy of vamsiexcel2.xlsx
+2025-08-29 12:12:54,232 - root - INFO - Database connection established successfully
+2025-08-29 12:12:54,238 - root - INFO - Found 1 existing templates with name Copy of vamsiexcel2.xlsx
+2025-08-29 12:12:54,240 - root - INFO - Upload processed: template_id=227, filename=Copy of vamsiexcel2.xlsx, has_existing_rules=False, redirecting to step=1
+2025-08-29 12:12:54,249 - werkzeug - INFO - 127.0.0.1 - - [29/Aug/2025 12:12:54] "POST /upload HTTP/1.1" 200 -
+2025-08-29 12:12:55,153 - root - INFO - Database connection established successfully
+2025-08-29 12:12:55,299 - werkzeug - INFO - 127.0.0.1 - - [29/Aug/2025 12:12:55] "GET /template/227/Sheet1 HTTP/1.1" 200 -
+2025-08-29 12:12:55,701 - root - INFO - Database connection established successfully
+2025-08-29 12:12:55,707 - root - INFO - Returning 16 rules from getRules endpoint
+2025-08-29 12:12:55,708 - root - INFO - Database connection established successfully
+2025-08-29 12:12:55,715 - root - INFO - User rahul@gmail.com is authenticated
+2025-08-29 12:12:55,811 - werkzeug - INFO - 127.0.0.1 - - [29/Aug/2025 12:12:55] "GET /rules HTTP/1.1" 200 -
+2025-08-29 12:12:55,928 - werkzeug - INFO - 127.0.0.1 - - [29/Aug/2025 12:12:55] "GET /check-auth HTTP/1.1" 200 -
+2025-08-29 12:12:56,174 - root - INFO - Database connection established successfully
+2025-08-29 12:12:56,185 - werkzeug - INFO - 127.0.0.1 - - [29/Aug/2025 12:12:56] "GET /template/227/Sheet1 HTTP/1.1" 200 -
+2025-08-29 12:12:56,679 - root - INFO - Database connection established successfully
+2025-08-29 12:12:56,682 - root - INFO - Returning 16 rules from getRules endpoint
+2025-08-29 12:12:56,690 - werkzeug - INFO - 127.0.0.1 - - [29/Aug/2025 12:12:56] "GET /rules HTTP/1.1" 200 -
+2025-08-29 12:12:57,451 - root - INFO - Database connection established successfully
+2025-08-29 12:12:57,455 - root - INFO - Returning 16 rules from getRules endpoint
+2025-08-29 12:12:57,461 - werkzeug - INFO - 127.0.0.1 - - [29/Aug/2025 12:12:57] "GET /rules HTTP/1.1" 200 -
+2025-08-29 12:13:00,913 - root - INFO - Database connection established successfully
+2025-08-29 12:13:00,958 - root - INFO - Step 1 completed: headers=['Int ', 'Float', 'Text', 'email', 'Date', 'Boolean', 'Period'], auto-assigned rules={'Int ': ['Required', 'Alphanumeric'], 'Float': ['Required', 'Text'], 'Text': ['Required', 'Alphanumeric'], 'email': ['Required', 'Text'], 'Date': ['Required', 'Text'], 'Boolean': ['Required', 'Alphanumeric'], 'Period': ['Required', 'Text']}
+2025-08-29 12:13:00,966 - werkzeug - INFO - 127.0.0.1 - - [29/Aug/2025 12:13:00] "POST /step/1 HTTP/1.1" 200 -
+2025-08-29 12:13:01,679 - root - INFO - Database connection established successfully
+2025-08-29 12:13:01,715 - werkzeug - INFO - 127.0.0.1 - - [29/Aug/2025 12:13:01] "GET /template/227/Sheet1 HTTP/1.1" 200 -
+2025-08-29 12:13:01,955 - root - INFO - Database connection established successfully
+2025-08-29 12:13:01,959 - root - INFO - Returning 16 rules from getRules endpoint
+2025-08-29 12:13:01,965 - werkzeug - INFO - 127.0.0.1 - - [29/Aug/2025 12:13:01] "GET /rules HTTP/1.1" 200 -
+2025-08-29 12:13:02,699 - root - INFO - Database connection established successfully
+2025-08-29 12:13:02,703 - root - INFO - Returning 16 rules from getRules endpoint
+2025-08-29 12:13:02,709 - werkzeug - INFO - 127.0.0.1 - - [29/Aug/2025 12:13:02] "GET /rules HTTP/1.1" 200 -
+2025-08-29 12:13:12,113 - root - INFO - Database connection established successfully
+2025-08-29 12:13:12,144 - root - INFO - Step 2 completed: action=review, validations={'Boolean': ['Required', 'Alphanumeric'], 'Date': ['Required', 'Text'], 'Float': ['Required', 'Text'], 'Int ': ['Required', 'Alphanumeric'], 'Period': ['Required', 'Text'], 'Text': ['Required', 'Alphanumeric'], 'email': ['Required', 'Text']}
+2025-08-29 12:13:12,151 - werkzeug - INFO - 127.0.0.1 - - [29/Aug/2025 12:13:12] "POST /step/2 HTTP/1.1" 200 -
+2025-08-29 12:13:12,884 - root - INFO - Database connection established successfully
+2025-08-29 12:13:12,900 - werkzeug - INFO - 127.0.0.1 - - [29/Aug/2025 12:13:12] "GET /template/227/Sheet1 HTTP/1.1" 200 -
+2025-08-29 12:13:13,139 - root - INFO - Database connection established successfully
+2025-08-29 12:13:13,142 - root - INFO - Returning 16 rules from getRules endpoint
+2025-08-29 12:13:13,149 - werkzeug - INFO - 127.0.0.1 - - [29/Aug/2025 12:13:13] "GET /rules HTTP/1.1" 200 -
+2025-08-29 12:13:13,842 - root - INFO - Database connection established successfully
+2025-08-29 12:13:13,854 - werkzeug - INFO - 127.0.0.1 - - [29/Aug/2025 12:13:13] "GET /template/227/rules HTTP/1.1" 200 -
+2025-08-29 12:13:14,073 - root - INFO - Database connection established successfully
+2025-08-29 12:13:14,077 - root - INFO - Returning 16 rules from getRules endpoint
+2025-08-29 12:13:14,083 - werkzeug - INFO - 127.0.0.1 - - [29/Aug/2025 12:13:14] "GET /rules HTTP/1.1" 200 -
+2025-08-29 12:13:14,835 - root - INFO - Database connection established successfully
+2025-08-29 12:13:14,839 - root - INFO - Returning 16 rules from getRules endpoint
+2025-08-29 12:13:14,845 - werkzeug - INFO - 127.0.0.1 - - [29/Aug/2025 12:13:14] "GET /rules HTTP/1.1" 200 -
+2025-08-29 12:13:19,414 - root - INFO - Database connection established successfully
+2025-08-29 12:13:19,428 - root - INFO - Step 2 completed: action=save, validations={}
+2025-08-29 12:13:19,435 - werkzeug - INFO - 127.0.0.1 - - [29/Aug/2025 12:13:19] "POST /step/2 HTTP/1.1" 200 -
+2025-08-29 12:13:19,875 - root - INFO - Database connection established successfully
+2025-08-29 12:13:19,945 - root - INFO - Found 6 templates with rules for user_id: 60
+2025-08-29 12:13:19,951 - werkzeug - INFO - 127.0.0.1 - - [29/Aug/2025 12:13:19] "GET /rule-configurations HTTP/1.1" 200 -
+2025-08-29 12:13:21,526 - root - INFO - Database connection established successfully
+2025-08-29 12:13:21,526 - root - INFO - Database connection established successfully
+2025-08-29 12:13:21,526 - root - INFO - Database connection established successfully
+2025-08-29 12:13:21,536 - root - INFO - User rahul@gmail.com is authenticated
+2025-08-29 12:13:21,543 - werkzeug - INFO - 127.0.0.1 - - [29/Aug/2025 12:13:21] "GET /check-auth HTTP/1.1" 200 -
+2025-08-29 12:13:21,553 - root - INFO - Fetched validation history for user 60: 9 templates
+2025-08-29 12:13:21,561 - werkzeug - INFO - 127.0.0.1 - - [29/Aug/2025 12:13:21] "GET /validation-history HTTP/1.1" 200 -
+2025-08-29 12:13:22,044 - root - INFO - Database connection established successfully
+2025-08-29 12:13:22,057 - root - INFO - Fetched validation history for user 60: 9 templates
+2025-08-29 12:13:22,064 - werkzeug - INFO - 127.0.0.1 - - [29/Aug/2025 12:13:22] "GET /validation-history HTTP/1.1" 200 -
+2025-08-29 12:13:22,076 - root - INFO - Found 6 templates with rules for user_id: 60
+2025-08-29 12:13:22,084 - werkzeug - INFO - 127.0.0.1 - - [29/Aug/2025 12:13:22] "GET /rule-configurations HTTP/1.1" 200 -
+2025-08-29 12:13:22,827 - root - INFO - Database connection established successfully
+2025-08-29 12:13:22,885 - root - INFO - Found 6 templates with rules for user_id: 60
+2025-08-29 12:13:22,891 - werkzeug - INFO - 127.0.0.1 - - [29/Aug/2025 12:13:22] "GET /rule-configurations HTTP/1.1" 200 -
+2025-08-29 12:13:25,926 - root - INFO - Database connection established successfully
+2025-08-29 12:13:25,929 - root - INFO - User rahul@gmail.com is authenticated
+2025-08-29 12:13:25,936 - werkzeug - INFO - 127.0.0.1 - - [29/Aug/2025 12:13:25] "GET /check-auth HTTP/1.1" 200 -
+2025-08-29 12:13:26,881 - root - INFO - Database connection established successfully
+2025-08-29 12:13:26,886 - root - INFO - User rahul@gmail.com is authenticated
+2025-08-29 12:13:26,890 - root - INFO - Database connection established successfully
+2025-08-29 12:13:26,897 - werkzeug - INFO - 127.0.0.1 - - [29/Aug/2025 12:13:26] "GET /check-auth HTTP/1.1" 200 -
+2025-08-29 12:13:26,911 - root - INFO - Fetched validation history for user 60: 9 templates
+2025-08-29 12:13:26,920 - werkzeug - INFO - 127.0.0.1 - - [29/Aug/2025 12:13:26] "GET /validation-history HTTP/1.1" 200 -
+2025-08-29 12:13:30,388 - root - INFO - File saved: ./uploads\Copy of vamsiexcel2.xlsx
+2025-08-29 12:13:30,899 - root - INFO - Database connection established successfully
+2025-08-29 12:13:30,903 - root - INFO - Found 1 existing templates with name Copy of vamsiexcel2.xlsx
+2025-08-29 12:13:30,905 - root - INFO - Upload processed: template_id=227, filename=Copy of vamsiexcel2.xlsx, has_existing_rules=False, redirecting to step=1
+2025-08-29 12:13:30,912 - werkzeug - INFO - 127.0.0.1 - - [29/Aug/2025 12:13:30] "POST /upload HTTP/1.1" 200 -
+2025-08-29 12:13:33,970 - root - INFO - Database connection established successfully
+2025-08-29 12:13:33,973 - root - INFO - Database connection established successfully
+2025-08-29 12:13:33,978 - root - INFO - Database connection established successfully
+2025-08-29 12:13:33,985 - root - INFO - User rahul@gmail.com is authenticated
+2025-08-29 12:13:33,992 - werkzeug - INFO - 127.0.0.1 - - [29/Aug/2025 12:13:33] "GET /check-auth HTTP/1.1" 200 -
+2025-08-29 12:13:33,996 - root - INFO - Fetched validation history for user 60: 9 templates
+2025-08-29 12:13:34,007 - werkzeug - INFO - 127.0.0.1 - - [29/Aug/2025 12:13:34] "GET /validation-history HTTP/1.1" 200 -
+2025-08-29 12:13:34,519 - root - INFO - Database connection established successfully
+2025-08-29 12:13:34,534 - root - INFO - Fetched validation history for user 60: 9 templates
+2025-08-29 12:13:34,544 - werkzeug - INFO - 127.0.0.1 - - [29/Aug/2025 12:13:34] "GET /validation-history HTTP/1.1" 200 -
+2025-08-29 12:13:34,560 - root - INFO - Found 6 templates with rules for user_id: 60
+2025-08-29 12:13:34,570 - werkzeug - INFO - 127.0.0.1 - - [29/Aug/2025 12:13:34] "GET /rule-configurations HTTP/1.1" 200 -
+2025-08-29 12:13:35,365 - root - INFO - Database connection established successfully
+2025-08-29 12:13:35,425 - root - INFO - Found 6 templates with rules for user_id: 60
+2025-08-29 12:13:35,432 - werkzeug - INFO - 127.0.0.1 - - [29/Aug/2025 12:13:35] "GET /rule-configurations HTTP/1.1" 200 -
+2025-08-29 12:19:38,475 - werkzeug - INFO -  * Detected change in 'c:\\Users\\MOM\\Downloads\\Deploy\\Deploy\\14-08-2025\\backend\\App\\routes\\steps.py', reloading
+2025-08-29 12:19:38,658 - werkzeug - INFO -  * Restarting with stat
+2025-08-29 12:19:39,345 - numexpr.utils - INFO - NumExpr defaulting to 12 threads.
+2025-08-29 12:19:40,095 - root - INFO - All blueprints registered successfully
+2025-08-29 12:19:40,100 - root - INFO - Initializing database schema...
+2025-08-29 12:19:40,304 - mysql.connector - INFO - package: mysql.connector.plugins
+2025-08-29 12:19:40,305 - mysql.connector - INFO - plugin_name: caching_sha2_password
+2025-08-29 12:19:40,305 - mysql.connector - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2025-08-29 12:19:40,305 - mysql.connector - INFO - package: mysql.connector.plugins
+2025-08-29 12:19:40,305 - mysql.connector - INFO - plugin_name: mysql_native_password
+2025-08-29 12:19:40,307 - mysql.connector - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLNativePasswordAuthPlugin
+2025-08-29 12:19:40,484 - root - INFO - Database connection established successfully
+2025-08-29 12:19:40,516 - root - INFO - Database tables initialized successfully
+2025-08-29 12:19:40,516 - root - INFO - Creating admin user...
+2025-08-29 12:19:40,748 - root - INFO - Admin user created or already exists
+2025-08-29 12:19:40,748 - root - INFO - Creating default validation rules...
+2025-08-29 12:19:40,754 - root - INFO - Default validation rules ensured successfully
+2025-08-29 12:19:40,754 - root - INFO - Application initialization completed successfully
+2025-08-29 12:19:40,776 - werkzeug - WARNING -  * Debugger is active!
+2025-08-29 12:19:40,780 - werkzeug - INFO -  * Debugger PIN: 135-922-860
+2025-08-29 12:20:05,863 - werkzeug - INFO -  * Detected change in 'c:\\Users\\MOM\\Downloads\\Deploy\\Deploy\\14-08-2025\\backend\\App\\routes\\steps.py', reloading
+2025-08-29 12:20:06,037 - werkzeug - INFO -  * Restarting with stat
+2025-08-29 12:20:06,642 - numexpr.utils - INFO - NumExpr defaulting to 12 threads.
+2025-08-29 12:20:07,281 - root - INFO - All blueprints registered successfully
+2025-08-29 12:20:07,286 - root - INFO - Initializing database schema...
+2025-08-29 12:20:07,491 - mysql.connector - INFO - package: mysql.connector.plugins
+2025-08-29 12:20:07,492 - mysql.connector - INFO - plugin_name: caching_sha2_password
+2025-08-29 12:20:07,492 - mysql.connector - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2025-08-29 12:20:07,492 - mysql.connector - INFO - package: mysql.connector.plugins
+2025-08-29 12:20:07,492 - mysql.connector - INFO - plugin_name: mysql_native_password
+2025-08-29 12:20:07,494 - mysql.connector - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLNativePasswordAuthPlugin
+2025-08-29 12:20:07,725 - root - INFO - Database connection established successfully
+2025-08-29 12:20:07,756 - root - INFO - Database tables initialized successfully
+2025-08-29 12:20:07,756 - root - INFO - Creating admin user...
+2025-08-29 12:20:07,991 - root - INFO - Admin user created or already exists
+2025-08-29 12:20:07,991 - root - INFO - Creating default validation rules...
+2025-08-29 12:20:07,997 - root - INFO - Default validation rules ensured successfully
+2025-08-29 12:20:07,998 - root - INFO - Application initialization completed successfully
+2025-08-29 12:20:08,018 - werkzeug - WARNING -  * Debugger is active!
+2025-08-29 12:20:08,022 - werkzeug - INFO -  * Debugger PIN: 135-922-860
+2025-08-29 12:20:13,580 - werkzeug - INFO -  * Detected change in 'c:\\Users\\MOM\\Downloads\\Deploy\\Deploy\\14-08-2025\\backend\\App\\routes\\steps.py', reloading
+2025-08-29 12:20:13,778 - werkzeug - INFO -  * Restarting with stat
+2025-08-29 12:20:14,396 - numexpr.utils - INFO - NumExpr defaulting to 12 threads.
+2025-08-29 12:20:15,009 - root - INFO - All blueprints registered successfully
+2025-08-29 12:20:15,014 - root - INFO - Initializing database schema...
+2025-08-29 12:20:15,226 - mysql.connector - INFO - package: mysql.connector.plugins
+2025-08-29 12:20:15,226 - mysql.connector - INFO - plugin_name: caching_sha2_password
+2025-08-29 12:20:15,226 - mysql.connector - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2025-08-29 12:20:15,227 - mysql.connector - INFO - package: mysql.connector.plugins
+2025-08-29 12:20:15,227 - mysql.connector - INFO - plugin_name: mysql_native_password
+2025-08-29 12:20:15,228 - mysql.connector - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLNativePasswordAuthPlugin
+2025-08-29 12:20:15,413 - root - INFO - Database connection established successfully
+2025-08-29 12:20:15,444 - root - INFO - Database tables initialized successfully
+2025-08-29 12:20:15,444 - root - INFO - Creating admin user...
+2025-08-29 12:20:15,678 - root - INFO - Admin user created or already exists
+2025-08-29 12:20:15,678 - root - INFO - Creating default validation rules...
+2025-08-29 12:20:15,684 - root - INFO - Default validation rules ensured successfully
+2025-08-29 12:20:15,684 - root - INFO - Application initialization completed successfully
+2025-08-29 12:20:15,704 - werkzeug - WARNING -  * Debugger is active!
+2025-08-29 12:20:15,708 - werkzeug - INFO -  * Debugger PIN: 135-922-860
+2025-08-29 12:20:21,263 - werkzeug - INFO -  * Detected change in 'c:\\Users\\MOM\\Downloads\\Deploy\\Deploy\\14-08-2025\\backend\\App\\routes\\steps.py', reloading
+2025-08-29 12:20:21,448 - werkzeug - INFO -  * Restarting with stat
+2025-08-29 12:20:22,070 - numexpr.utils - INFO - NumExpr defaulting to 12 threads.
+2025-08-29 12:20:22,661 - root - INFO - All blueprints registered successfully
+2025-08-29 12:20:22,666 - root - INFO - Initializing database schema...
+2025-08-29 12:20:22,863 - mysql.connector - INFO - package: mysql.connector.plugins
+2025-08-29 12:20:22,864 - mysql.connector - INFO - plugin_name: caching_sha2_password
+2025-08-29 12:20:22,864 - mysql.connector - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2025-08-29 12:20:22,864 - mysql.connector - INFO - package: mysql.connector.plugins
+2025-08-29 12:20:22,865 - mysql.connector - INFO - plugin_name: mysql_native_password
+2025-08-29 12:20:22,866 - mysql.connector - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLNativePasswordAuthPlugin
+2025-08-29 12:20:23,059 - root - INFO - Database connection established successfully
+2025-08-29 12:20:23,092 - root - INFO - Database tables initialized successfully
+2025-08-29 12:20:23,092 - root - INFO - Creating admin user...
+2025-08-29 12:20:23,355 - root - INFO - Admin user created or already exists
+2025-08-29 12:20:23,355 - root - INFO - Creating default validation rules...
+2025-08-29 12:20:23,361 - root - INFO - Default validation rules ensured successfully
+2025-08-29 12:20:23,361 - root - INFO - Application initialization completed successfully
+2025-08-29 12:20:23,380 - werkzeug - WARNING -  * Debugger is active!
+2025-08-29 12:20:23,383 - werkzeug - INFO -  * Debugger PIN: 135-922-860
+2025-08-29 12:20:35,466 - werkzeug - INFO -  * Detected change in 'c:\\Users\\MOM\\Downloads\\Deploy\\Deploy\\14-08-2025\\backend\\App\\routes\\steps.py', reloading
+2025-08-29 12:20:35,642 - werkzeug - INFO -  * Restarting with stat
+2025-08-29 12:20:36,241 - numexpr.utils - INFO - NumExpr defaulting to 12 threads.
+2025-08-29 12:20:36,887 - root - INFO - All blueprints registered successfully
+2025-08-29 12:20:36,893 - root - INFO - Initializing database schema...
+2025-08-29 12:20:37,104 - mysql.connector - INFO - package: mysql.connector.plugins
+2025-08-29 12:20:37,104 - mysql.connector - INFO - plugin_name: caching_sha2_password
+2025-08-29 12:20:37,104 - mysql.connector - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2025-08-29 12:20:37,105 - mysql.connector - INFO - package: mysql.connector.plugins
+2025-08-29 12:20:37,105 - mysql.connector - INFO - plugin_name: mysql_native_password
+2025-08-29 12:20:37,106 - mysql.connector - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLNativePasswordAuthPlugin
+2025-08-29 12:20:37,294 - root - INFO - Database connection established successfully
+2025-08-29 12:20:37,324 - root - INFO - Database tables initialized successfully
+2025-08-29 12:20:37,324 - root - INFO - Creating admin user...
+2025-08-29 12:20:37,563 - root - INFO - Admin user created or already exists
+2025-08-29 12:20:37,564 - root - INFO - Creating default validation rules...
+2025-08-29 12:20:37,570 - root - INFO - Default validation rules ensured successfully
+2025-08-29 12:20:37,570 - root - INFO - Application initialization completed successfully
+2025-08-29 12:20:37,592 - werkzeug - WARNING -  * Debugger is active!
+2025-08-29 12:20:37,597 - werkzeug - INFO -  * Debugger PIN: 135-922-860
+2025-08-29 12:21:01,353 - werkzeug - INFO -  * Detected change in 'c:\\Users\\MOM\\Downloads\\Deploy\\Deploy\\14-08-2025\\backend\\App\\routes\\steps.py', reloading
+2025-08-29 12:21:01,543 - werkzeug - INFO -  * Restarting with stat
+2025-08-29 12:21:02,099 - numexpr.utils - INFO - NumExpr defaulting to 12 threads.
+2025-08-29 12:21:02,712 - root - INFO - All blueprints registered successfully
+2025-08-29 12:21:02,717 - root - INFO - Initializing database schema...
+2025-08-29 12:21:02,914 - mysql.connector - INFO - package: mysql.connector.plugins
+2025-08-29 12:21:02,915 - mysql.connector - INFO - plugin_name: caching_sha2_password
+2025-08-29 12:21:02,915 - mysql.connector - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2025-08-29 12:21:02,915 - mysql.connector - INFO - package: mysql.connector.plugins
+2025-08-29 12:21:02,916 - mysql.connector - INFO - plugin_name: mysql_native_password
+2025-08-29 12:21:02,917 - mysql.connector - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLNativePasswordAuthPlugin
+2025-08-29 12:21:03,094 - root - INFO - Database connection established successfully
+2025-08-29 12:21:03,123 - root - INFO - Database tables initialized successfully
+2025-08-29 12:21:03,123 - root - INFO - Creating admin user...
+2025-08-29 12:21:03,375 - root - INFO - Admin user created or already exists
+2025-08-29 12:21:03,375 - root - INFO - Creating default validation rules...
+2025-08-29 12:21:03,382 - root - INFO - Default validation rules ensured successfully
+2025-08-29 12:21:03,382 - root - INFO - Application initialization completed successfully
+2025-08-29 12:21:03,400 - werkzeug - WARNING -  * Debugger is active!
+2025-08-29 12:21:03,405 - werkzeug - INFO -  * Debugger PIN: 135-922-860
+2025-08-29 12:21:36,586 - werkzeug - INFO -  * Detected change in 'c:\\Users\\MOM\\Downloads\\Deploy\\Deploy\\14-08-2025\\backend\\App\\routes\\steps.py', reloading
+2025-08-29 12:21:36,763 - werkzeug - INFO -  * Restarting with stat
+2025-08-29 12:21:37,405 - numexpr.utils - INFO - NumExpr defaulting to 12 threads.
+2025-08-29 12:21:38,126 - root - INFO - All blueprints registered successfully
+2025-08-29 12:21:38,131 - root - INFO - Initializing database schema...
+2025-08-29 12:21:38,318 - mysql.connector - INFO - package: mysql.connector.plugins
+2025-08-29 12:21:38,318 - mysql.connector - INFO - plugin_name: caching_sha2_password
+2025-08-29 12:21:38,318 - mysql.connector - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2025-08-29 12:21:38,319 - mysql.connector - INFO - package: mysql.connector.plugins
+2025-08-29 12:21:38,319 - mysql.connector - INFO - plugin_name: mysql_native_password
+2025-08-29 12:21:38,321 - mysql.connector - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLNativePasswordAuthPlugin
+2025-08-29 12:21:38,488 - root - INFO - Database connection established successfully
+2025-08-29 12:21:38,520 - root - INFO - Database tables initialized successfully
+2025-08-29 12:21:38,521 - root - INFO - Creating admin user...
+2025-08-29 12:21:38,753 - root - INFO - Admin user created or already exists
+2025-08-29 12:21:38,753 - root - INFO - Creating default validation rules...
+2025-08-29 12:21:38,759 - root - INFO - Default validation rules ensured successfully
+2025-08-29 12:21:38,759 - root - INFO - Application initialization completed successfully
+2025-08-29 12:21:38,780 - werkzeug - WARNING -  * Debugger is active!
+2025-08-29 12:21:38,784 - werkzeug - INFO -  * Debugger PIN: 135-922-860
+2025-08-29 12:22:10,150 - root - INFO - File saved: ./uploads\Copy of vamsiexcel2.xlsx
+2025-08-29 12:22:10,676 - root - INFO - Database connection established successfully
+2025-08-29 12:22:10,682 - root - INFO - Found 1 existing templates with name Copy of vamsiexcel2.xlsx
+2025-08-29 12:22:10,685 - root - INFO - Upload processed: template_id=227, filename=Copy of vamsiexcel2.xlsx, has_existing_rules=False, redirecting to step=1
+2025-08-29 12:22:10,698 - werkzeug - INFO - 127.0.0.1 - - [29/Aug/2025 12:22:10] "POST /upload HTTP/1.1" 200 -
+2025-08-29 12:22:12,390 - root - INFO - Database connection established successfully
+2025-08-29 12:22:12,390 - root - INFO - Database connection established successfully
+2025-08-29 12:22:12,398 - root - INFO - User rahul@gmail.com is authenticated
+2025-08-29 12:22:12,399 - root - INFO - Returning 16 rules from getRules endpoint
+2025-08-29 12:22:12,399 - root - INFO - Database connection established successfully
+2025-08-29 12:22:12,411 - werkzeug - INFO - 127.0.0.1 - - [29/Aug/2025 12:22:12] "GET /check-auth HTTP/1.1" 200 -
+2025-08-29 12:22:12,418 - werkzeug - INFO - 127.0.0.1 - - [29/Aug/2025 12:22:12] "GET /rules HTTP/1.1" 200 -
+2025-08-29 12:22:12,430 - werkzeug - INFO - 127.0.0.1 - - [29/Aug/2025 12:22:12] "GET /template/227/Sheet1 HTTP/1.1" 200 -
+2025-08-29 12:22:13,169 - root - INFO - Database connection established successfully
+2025-08-29 12:22:13,175 - root - INFO - Returning 16 rules from getRules endpoint
+2025-08-29 12:22:13,182 - werkzeug - INFO - 127.0.0.1 - - [29/Aug/2025 12:22:13] "GET /rules HTTP/1.1" 200 -
+2025-08-29 12:22:13,386 - root - INFO - Database connection established successfully
+2025-08-29 12:22:13,397 - werkzeug - INFO - 127.0.0.1 - - [29/Aug/2025 12:22:13] "GET /template/227/Sheet1 HTTP/1.1" 200 -
+2025-08-29 12:22:13,986 - root - INFO - Database connection established successfully
+2025-08-29 12:22:13,990 - root - INFO - Returning 16 rules from getRules endpoint
+2025-08-29 12:22:13,996 - werkzeug - INFO - 127.0.0.1 - - [29/Aug/2025 12:22:13] "GET /rules HTTP/1.1" 200 -
+2025-08-29 12:22:18,036 - root - INFO - Database connection established successfully
+2025-08-29 12:22:18,063 - root - INFO - Step 1 completed: headers=['Int ', 'Float', 'Text', 'email', 'Date', 'Boolean', 'Period'], auto-assigned rules={'Int ': ['Required', 'Alphanumeric'], 'Float': ['Required', 'Text'], 'Text': ['Required', 'Alphanumeric'], 'email': ['Required', 'Text'], 'Date': ['Required', 'Text'], 'Boolean': ['Required', 'Alphanumeric'], 'Period': ['Required', 'Text']}
+2025-08-29 12:22:18,070 - werkzeug - INFO - 127.0.0.1 - - [29/Aug/2025 12:22:18] "POST /step/1 HTTP/1.1" 200 -
+2025-08-29 12:22:18,776 - root - INFO - Database connection established successfully
+2025-08-29 12:22:18,788 - werkzeug - INFO - 127.0.0.1 - - [29/Aug/2025 12:22:18] "GET /template/227/Sheet1 HTTP/1.1" 200 -
+2025-08-29 12:22:18,982 - root - INFO - Database connection established successfully
+2025-08-29 12:22:18,985 - root - INFO - Returning 16 rules from getRules endpoint
+2025-08-29 12:22:18,992 - werkzeug - INFO - 127.0.0.1 - - [29/Aug/2025 12:22:18] "GET /rules HTTP/1.1" 200 -
+2025-08-29 12:22:19,728 - root - INFO - Database connection established successfully
+2025-08-29 12:22:19,732 - root - INFO - Returning 16 rules from getRules endpoint
+2025-08-29 12:22:19,738 - werkzeug - INFO - 127.0.0.1 - - [29/Aug/2025 12:22:19] "GET /rules HTTP/1.1" 200 -
+2025-08-29 12:22:21,698 - root - INFO - Database connection established successfully
+2025-08-29 12:22:21,725 - root - INFO - Step 2 completed: action=review, validations={'Boolean': ['Required', 'Alphanumeric'], 'Date': ['Required', 'Text'], 'Float': ['Required', 'Text'], 'Int ': ['Required', 'Alphanumeric'], 'Period': ['Required', 'Text'], 'Text': ['Required', 'Alphanumeric'], 'email': ['Required', 'Text']}
+2025-08-29 12:22:21,732 - werkzeug - INFO - 127.0.0.1 - - [29/Aug/2025 12:22:21] "POST /step/2 HTTP/1.1" 200 -
+2025-08-29 12:22:22,459 - root - INFO - Database connection established successfully
+2025-08-29 12:22:22,472 - werkzeug - INFO - 127.0.0.1 - - [29/Aug/2025 12:22:22] "GET /template/227/Sheet1 HTTP/1.1" 200 -
+2025-08-29 12:22:22,704 - root - INFO - Database connection established successfully
+2025-08-29 12:22:22,708 - root - INFO - Returning 16 rules from getRules endpoint
+2025-08-29 12:22:22,714 - werkzeug - INFO - 127.0.0.1 - - [29/Aug/2025 12:22:22] "GET /rules HTTP/1.1" 200 -
+2025-08-29 12:22:23,443 - root - INFO - Database connection established successfully
+2025-08-29 12:22:23,664 - werkzeug - INFO - 127.0.0.1 - - [29/Aug/2025 12:22:23] "GET /template/227/rules HTTP/1.1" 200 -
+2025-08-29 12:22:23,665 - root - INFO - Database connection established successfully
+2025-08-29 12:22:23,672 - root - INFO - Returning 16 rules from getRules endpoint
+2025-08-29 12:22:23,685 - werkzeug - INFO - 127.0.0.1 - - [29/Aug/2025 12:22:23] "GET /rules HTTP/1.1" 200 -
+2025-08-29 12:22:24,474 - root - INFO - Database connection established successfully
+2025-08-29 12:22:24,478 - root - INFO - Returning 16 rules from getRules endpoint
+2025-08-29 12:22:24,484 - werkzeug - INFO - 127.0.0.1 - - [29/Aug/2025 12:22:24] "GET /rules HTTP/1.1" 200 -
+2025-08-29 12:22:29,591 - root - INFO - Database connection established successfully
+2025-08-29 12:22:29,602 - root - INFO - Step 2 completed: action=save, validations={}
+2025-08-29 12:22:29,609 - werkzeug - INFO - 127.0.0.1 - - [29/Aug/2025 12:22:29] "POST /step/2 HTTP/1.1" 200 -
+2025-08-29 12:22:30,094 - root - INFO - Database connection established successfully
+2025-08-29 12:22:30,166 - root - INFO - Found 6 templates with rules for user_id: 60
+2025-08-29 12:22:30,172 - werkzeug - INFO - 127.0.0.1 - - [29/Aug/2025 12:22:30] "GET /rule-configurations HTTP/1.1" 200 -
+2025-08-29 12:22:31,735 - root - INFO - Database connection established successfully
+2025-08-29 12:22:31,739 - root - INFO - Database connection established successfully
+2025-08-29 12:22:31,742 - root - INFO - Database connection established successfully
+2025-08-29 12:22:31,747 - root - INFO - User rahul@gmail.com is authenticated
+2025-08-29 12:22:31,755 - werkzeug - INFO - 127.0.0.1 - - [29/Aug/2025 12:22:31] "GET /check-auth HTTP/1.1" 200 -
+2025-08-29 12:22:31,760 - root - INFO - Fetched validation history for user 60: 9 templates
+2025-08-29 12:22:31,769 - werkzeug - INFO - 127.0.0.1 - - [29/Aug/2025 12:22:31] "GET /validation-history HTTP/1.1" 200 -
+2025-08-29 12:22:32,209 - root - INFO - Database connection established successfully
+2025-08-29 12:22:32,222 - root - INFO - Fetched validation history for user 60: 9 templates
+2025-08-29 12:22:32,228 - werkzeug - INFO - 127.0.0.1 - - [29/Aug/2025 12:22:32] "GET /validation-history HTTP/1.1" 200 -
+2025-08-29 12:22:32,246 - root - INFO - Found 6 templates with rules for user_id: 60
+2025-08-29 12:22:32,254 - werkzeug - INFO - 127.0.0.1 - - [29/Aug/2025 12:22:32] "GET /rule-configurations HTTP/1.1" 200 -
+2025-08-29 12:22:32,996 - root - INFO - Database connection established successfully
+2025-08-29 12:22:33,054 - root - INFO - Found 6 templates with rules for user_id: 60
+2025-08-29 12:22:33,061 - werkzeug - INFO - 127.0.0.1 - - [29/Aug/2025 12:22:33] "GET /rule-configurations HTTP/1.1" 200 -
+2025-08-29 12:22:37,399 - root - INFO - File saved: ./uploads\28-7.xlsx
+2025-08-29 12:22:37,841 - root - INFO - Database connection established successfully
+2025-08-29 12:22:37,847 - root - INFO - Found 0 existing templates with name 28-7.xlsx
+2025-08-29 12:22:37,860 - root - INFO - Upload processed: template_id=407, filename=28-7.xlsx, has_existing_rules=False, redirecting to step=1
+2025-08-29 12:22:37,869 - werkzeug - INFO - 127.0.0.1 - - [29/Aug/2025 12:22:37] "POST /upload HTTP/1.1" 200 -
+2025-08-29 12:22:39,598 - root - INFO - Database connection established successfully
+2025-08-29 12:22:39,603 - root - INFO - Database connection established successfully
+2025-08-29 12:22:39,603 - root - INFO - Returning 16 rules from getRules endpoint
+2025-08-29 12:22:39,604 - root - INFO - Database connection established successfully
+2025-08-29 12:22:39,612 - root - INFO - User rahul@gmail.com is authenticated
+2025-08-29 12:22:39,620 - werkzeug - INFO - 127.0.0.1 - - [29/Aug/2025 12:22:39] "GET /rules HTTP/1.1" 200 -
+2025-08-29 12:22:39,625 - werkzeug - INFO - 127.0.0.1 - - [29/Aug/2025 12:22:39] "GET /check-auth HTTP/1.1" 200 -
+2025-08-29 12:22:39,633 - werkzeug - INFO - 127.0.0.1 - - [29/Aug/2025 12:22:39] "GET /template/407/Sheet1 HTTP/1.1" 200 -
+2025-08-29 12:22:40,337 - root - INFO - Database connection established successfully
+2025-08-29 12:22:40,350 - root - INFO - Returning 16 rules from getRules endpoint
+2025-08-29 12:22:40,358 - werkzeug - INFO - 127.0.0.1 - - [29/Aug/2025 12:22:40] "GET /rules HTTP/1.1" 200 -
+2025-08-29 12:22:40,604 - root - INFO - Database connection established successfully
+2025-08-29 12:22:40,614 - werkzeug - INFO - 127.0.0.1 - - [29/Aug/2025 12:22:40] "GET /template/407/Sheet1 HTTP/1.1" 200 -
+2025-08-29 12:22:41,102 - root - INFO - Database connection established successfully
+2025-08-29 12:22:41,106 - root - INFO - Returning 16 rules from getRules endpoint
+2025-08-29 12:22:41,114 - werkzeug - INFO - 127.0.0.1 - - [29/Aug/2025 12:22:41] "GET /rules HTTP/1.1" 200 -
+2025-08-29 12:22:43,841 - root - INFO - Database connection established successfully
+2025-08-29 12:22:43,863 - root - INFO - Step 1 completed: headers=['name ', 'age ', 'sal', 'mail_id'], auto-assigned rules={'name ': ['Required', 'Alphanumeric'], 'age ': ['Required', 'Alphanumeric'], 'sal': ['Required', 'Float'], 'mail_id': ['Required', 'Text']}
+2025-08-29 12:22:43,870 - werkzeug - INFO - 127.0.0.1 - - [29/Aug/2025 12:22:43] "POST /step/1 HTTP/1.1" 200 -
+2025-08-29 12:22:44,570 - root - INFO - Database connection established successfully
+2025-08-29 12:22:44,583 - werkzeug - INFO - 127.0.0.1 - - [29/Aug/2025 12:22:44] "GET /template/407/Sheet1 HTTP/1.1" 200 -
+2025-08-29 12:22:44,820 - root - INFO - Database connection established successfully
+2025-08-29 12:22:44,825 - root - INFO - Returning 16 rules from getRules endpoint
+2025-08-29 12:22:44,831 - werkzeug - INFO - 127.0.0.1 - - [29/Aug/2025 12:22:44] "GET /rules HTTP/1.1" 200 -
+2025-08-29 12:22:45,327 - root - INFO - Database connection established successfully
+2025-08-29 12:22:45,331 - root - INFO - Returning 16 rules from getRules endpoint
+2025-08-29 12:22:45,338 - werkzeug - INFO - 127.0.0.1 - - [29/Aug/2025 12:22:45] "GET /rules HTTP/1.1" 200 -
+2025-08-29 12:22:49,231 - root - INFO - Database connection established successfully
+2025-08-29 12:22:49,251 - root - INFO - Step 2 completed: action=review, validations={'age ': ['Required', 'Alphanumeric'], 'mail_id': ['Required', 'Text'], 'name ': ['Required', 'Alphanumeric'], 'sal': ['Required', 'Float']}
+2025-08-29 12:22:49,258 - werkzeug - INFO - 127.0.0.1 - - [29/Aug/2025 12:22:49] "POST /step/2 HTTP/1.1" 200 -
+2025-08-29 12:22:50,148 - root - INFO - Database connection established successfully
+2025-08-29 12:22:50,153 - root - INFO - Returning 16 rules from getRules endpoint
+2025-08-29 12:22:50,153 - root - INFO - Database connection established successfully
+2025-08-29 12:22:50,165 - werkzeug - INFO - 127.0.0.1 - - [29/Aug/2025 12:22:50] "GET /rules HTTP/1.1" 200 -
+2025-08-29 12:22:50,176 - werkzeug - INFO - 127.0.0.1 - - [29/Aug/2025 12:22:50] "GET /template/407/Sheet1 HTTP/1.1" 200 -
+2025-08-29 12:22:50,843 - root - INFO - Database connection established successfully
+2025-08-29 12:22:50,848 - root - INFO - Returning 16 rules from getRules endpoint
+2025-08-29 12:22:50,855 - werkzeug - INFO - 127.0.0.1 - - [29/Aug/2025 12:22:50] "GET /rules HTTP/1.1" 200 -
+2025-08-29 12:22:51,082 - root - INFO - Database connection established successfully
+2025-08-29 12:22:51,093 - werkzeug - INFO - 127.0.0.1 - - [29/Aug/2025 12:22:51] "GET /template/407/rules HTTP/1.1" 200 -
+2025-08-29 12:22:51,826 - root - INFO - Database connection established successfully
+2025-08-29 12:22:51,830 - root - INFO - Returning 16 rules from getRules endpoint
+2025-08-29 12:22:51,836 - werkzeug - INFO - 127.0.0.1 - - [29/Aug/2025 12:22:51] "GET /rules HTTP/1.1" 200 -
+2025-08-29 12:23:26,621 - root - INFO - Database connection established successfully
+2025-08-29 12:23:26,734 - werkzeug - INFO - 127.0.0.1 - - [29/Aug/2025 12:23:26] "GET /template/407/Sheet1 HTTP/1.1" 200 -
+2025-08-29 12:23:26,735 - root - INFO - Database connection established successfully
+2025-08-29 12:23:26,741 - root - INFO - Returning 16 rules from getRules endpoint
+2025-08-29 12:23:26,751 - werkzeug - INFO - 127.0.0.1 - - [29/Aug/2025 12:23:26] "GET /rules HTTP/1.1" 200 -
+2025-08-29 12:23:27,220 - root - INFO - Database connection established successfully
+2025-08-29 12:23:27,224 - root - INFO - Returning 16 rules from getRules endpoint
+2025-08-29 12:23:27,231 - werkzeug - INFO - 127.0.0.1 - - [29/Aug/2025 12:23:27] "GET /rules HTTP/1.1" 200 -
+2025-08-29 12:23:30,891 - root - INFO - Database connection established successfully
+2025-08-29 12:23:30,897 - root - INFO - Database connection established successfully
+2025-08-29 12:23:30,902 - root - INFO - Returning 16 rules from getRules endpoint
+2025-08-29 12:23:30,908 - werkzeug - INFO - 127.0.0.1 - - [29/Aug/2025 12:23:30] "GET /template/407/Sheet1 HTTP/1.1" 200 -
+2025-08-29 12:23:30,916 - werkzeug - INFO - 127.0.0.1 - - [29/Aug/2025 12:23:30] "GET /rules HTTP/1.1" 200 -
+2025-08-29 12:23:33,834 - root - INFO - Database connection established successfully
+2025-08-29 12:23:33,864 - root - INFO - Step 1 completed: headers=['name ', 'age ', 'sal', 'mail_id'], auto-assigned rules={'name ': ['Required', 'Alphanumeric'], 'age ': ['Required', 'Alphanumeric'], 'sal': ['Required', 'Float'], 'mail_id': ['Required', 'Text']}
+2025-08-29 12:23:33,872 - werkzeug - INFO - 127.0.0.1 - - [29/Aug/2025 12:23:33] "POST /step/1 HTTP/1.1" 200 -
+2025-08-29 12:23:34,662 - root - INFO - Database connection established successfully
+2025-08-29 12:23:34,675 - werkzeug - INFO - 127.0.0.1 - - [29/Aug/2025 12:23:34] "GET /template/407/Sheet1 HTTP/1.1" 200 -
+2025-08-29 12:23:34,913 - root - INFO - Database connection established successfully
+2025-08-29 12:23:34,917 - root - INFO - Returning 16 rules from getRules endpoint
+2025-08-29 12:23:34,924 - werkzeug - INFO - 127.0.0.1 - - [29/Aug/2025 12:23:34] "GET /rules HTTP/1.1" 200 -
+2025-08-29 12:23:35,726 - root - INFO - Database connection established successfully
+2025-08-29 12:23:35,730 - root - INFO - Returning 16 rules from getRules endpoint
+2025-08-29 12:23:35,736 - werkzeug - INFO - 127.0.0.1 - - [29/Aug/2025 12:23:35] "GET /rules HTTP/1.1" 200 -
+2025-08-29 12:24:22,102 - werkzeug - INFO -  * Detected change in 'c:\\Users\\MOM\\Downloads\\Deploy\\Deploy\\14-08-2025\\backend\\App\\routes\\steps.py', reloading
+2025-08-29 12:24:22,301 - werkzeug - INFO -  * Restarting with stat
+2025-08-29 12:24:23,065 - numexpr.utils - INFO - NumExpr defaulting to 12 threads.
+2025-08-29 12:24:23,796 - root - ERROR - Error registering blueprints: View function mapping is overwriting an existing endpoint function: steps.get_step_three
+2025-08-29 12:28:45,601 - numexpr.utils - INFO - NumExpr defaulting to 12 threads.
+2025-08-29 12:28:46,377 - root - INFO - All blueprints registered successfully
+2025-08-29 12:28:46,382 - root - INFO - Initializing database schema...
+2025-08-29 12:28:46,586 - mysql.connector - INFO - package: mysql.connector.plugins
+2025-08-29 12:28:46,587 - mysql.connector - INFO - plugin_name: caching_sha2_password
+2025-08-29 12:28:46,587 - mysql.connector - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2025-08-29 12:28:46,587 - mysql.connector - INFO - package: mysql.connector.plugins
+2025-08-29 12:28:46,588 - mysql.connector - INFO - plugin_name: mysql_native_password
+2025-08-29 12:28:46,589 - mysql.connector - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLNativePasswordAuthPlugin
+2025-08-29 12:28:46,766 - root - INFO - Database connection established successfully
+2025-08-29 12:28:46,800 - root - INFO - Database tables initialized successfully
+2025-08-29 12:28:46,800 - root - INFO - Creating admin user...
+2025-08-29 12:28:47,030 - root - INFO - Admin user created or already exists
+2025-08-29 12:28:47,030 - root - INFO - Creating default validation rules...
+2025-08-29 12:28:47,036 - root - INFO - Default validation rules ensured successfully
+2025-08-29 12:28:47,037 - root - INFO - Application initialization completed successfully
+2025-08-29 12:28:47,079 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.178.161.115:5000
+2025-08-29 12:28:47,079 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-08-29 12:28:47,081 - werkzeug - INFO -  * Restarting with stat
+2025-08-29 12:28:47,554 - numexpr.utils - INFO - NumExpr defaulting to 12 threads.
+2025-08-29 12:28:48,076 - root - INFO - All blueprints registered successfully
+2025-08-29 12:28:48,081 - root - INFO - Initializing database schema...
+2025-08-29 12:28:48,265 - mysql.connector - INFO - package: mysql.connector.plugins
+2025-08-29 12:28:48,265 - mysql.connector - INFO - plugin_name: caching_sha2_password
+2025-08-29 12:28:48,265 - mysql.connector - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2025-08-29 12:28:48,266 - mysql.connector - INFO - package: mysql.connector.plugins
+2025-08-29 12:28:48,266 - mysql.connector - INFO - plugin_name: mysql_native_password
+2025-08-29 12:28:48,267 - mysql.connector - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLNativePasswordAuthPlugin
+2025-08-29 12:28:48,445 - root - INFO - Database connection established successfully
+2025-08-29 12:28:48,475 - root - INFO - Database tables initialized successfully
+2025-08-29 12:28:48,476 - root - INFO - Creating admin user...
+2025-08-29 12:28:48,707 - root - INFO - Admin user created or already exists
+2025-08-29 12:28:48,707 - root - INFO - Creating default validation rules...
+2025-08-29 12:28:48,713 - root - INFO - Default validation rules ensured successfully
+2025-08-29 12:28:48,713 - root - INFO - Application initialization completed successfully
+2025-08-29 12:28:48,729 - werkzeug - WARNING -  * Debugger is active!
+2025-08-29 12:28:48,732 - werkzeug - INFO -  * Debugger PIN: 135-922-860
+2025-08-29 12:28:57,562 - root - INFO - Database connection established successfully
+2025-08-29 12:28:57,796 - root - INFO - User rahul@gmail.com logged in successfully. Session: {'_permanent': True, 'loggedin': True, 'user_email': 'rahul@gmail.com', 'user_id': 60, 'file_path': './uploads\\28-7.xlsx', 'template_id': 407, 'has_existing_rules': False, 'df': '{"0":{"0":"name ","1":"vamsi","2":"supriya","3":"shanmukh","4":null,"5":22},"1":{"0":"age ","1":22,"2":21,"3":20,"4":22,"5":"de"},"2":{"0":"sal","1":20000.5,"2":50000.3,"3":10.2,"4":20,"5":50000.2},"3":{"0":"mail_id","1":"vamsi@gmail.com","2":"supriya@gmail.com","3":"shanmukh@gmail.com","4":"sdfg","5":"rahul@gmail.com"}}', 'header_row': 0, 'headers': ['name ', 'age ', 'sal', 'mail_id'], 'sheet_name': 'Sheet1', 'current_step': 2, 'validations': {'name ': ['Required', 'Alphanumeric'], 'age ': ['Required', 'Alphanumeric'], 'sal': ['Required', 'Float'], 'mail_id': ['Required', 'Text']}, 'selected_headers': ['name ', 'age ', 'sal', 'mail_id']}
+2025-08-29 12:28:57,804 - werkzeug - INFO - 127.0.0.1 - - [29/Aug/2025 12:28:57] "POST /authenticate HTTP/1.1" 200 -
+2025-08-29 12:28:58,180 - root - INFO - Database connection established successfully
+2025-08-29 12:28:58,184 - root - INFO - User rahul@gmail.com is authenticated
+2025-08-29 12:28:58,191 - werkzeug - INFO - 127.0.0.1 - - [29/Aug/2025 12:28:58] "GET /check-auth HTTP/1.1" 200 -
+2025-08-29 12:29:02,808 - root - INFO - Database connection established successfully
+2025-08-29 12:29:02,827 - root - INFO - Database connection established successfully
+2025-08-29 12:29:02,831 - root - INFO - Database connection established successfully
+2025-08-29 12:29:02,831 - root - INFO - User rahul@gmail.com is authenticated
+2025-08-29 12:29:02,843 - werkzeug - INFO - 127.0.0.1 - - [29/Aug/2025 12:29:02] "GET /check-auth HTTP/1.1" 200 -
+2025-08-29 12:29:02,851 - root - INFO - Fetched validation history for user 60: 9 templates
+2025-08-29 12:29:02,860 - werkzeug - INFO - 127.0.0.1 - - [29/Aug/2025 12:29:02] "GET /validation-history HTTP/1.1" 200 -
+2025-08-29 12:29:03,292 - root - INFO - Database connection established successfully
+2025-08-29 12:29:03,307 - root - INFO - Fetched validation history for user 60: 9 templates
+2025-08-29 12:29:03,314 - werkzeug - INFO - 127.0.0.1 - - [29/Aug/2025 12:29:03] "GET /validation-history HTTP/1.1" 200 -
+2025-08-29 12:29:03,324 - root - INFO - Found 7 templates with rules for user_id: 60
+2025-08-29 12:29:03,337 - werkzeug - INFO - 127.0.0.1 - - [29/Aug/2025 12:29:03] "GET /rule-configurations HTTP/1.1" 200 -
+2025-08-29 12:29:03,799 - root - INFO - Database connection established successfully
+2025-08-29 12:29:03,872 - root - INFO - Found 7 templates with rules for user_id: 60
+2025-08-29 12:29:03,879 - werkzeug - INFO - 127.0.0.1 - - [29/Aug/2025 12:29:03] "GET /rule-configurations HTTP/1.1" 200 -
+2025-08-29 12:29:08,033 - root - INFO - Database connection established successfully
+2025-08-29 12:29:08,097 - werkzeug - INFO - 127.0.0.1 - - [29/Aug/2025 12:29:08] "DELETE /delete-template/407 HTTP/1.1" 200 -
+2025-08-29 12:29:13,693 - root - INFO - File saved: ./uploads\28-7.xlsx
+2025-08-29 12:29:14,266 - root - INFO - Database connection established successfully
+2025-08-29 12:29:14,271 - root - INFO - Found 0 existing templates with name 28-7.xlsx
+2025-08-29 12:29:14,282 - root - INFO - Upload processed: template_id=408, filename=28-7.xlsx, has_existing_rules=False, redirecting to step=1
+2025-08-29 12:29:14,289 - werkzeug - INFO - 127.0.0.1 - - [29/Aug/2025 12:29:14] "POST /upload HTTP/1.1" 200 -
+2025-08-29 12:29:16,022 - root - INFO - Database connection established successfully
+2025-08-29 12:29:16,044 - root - INFO - Database connection established successfully
+2025-08-29 12:29:16,050 - root - INFO - User rahul@gmail.com is authenticated
+2025-08-29 12:29:16,054 - root - INFO - Database connection established successfully
+2025-08-29 12:29:16,058 - werkzeug - INFO - 127.0.0.1 - - [29/Aug/2025 12:29:16] "GET /check-auth HTTP/1.1" 200 -
+2025-08-29 12:29:16,068 - werkzeug - INFO - 127.0.0.1 - - [29/Aug/2025 12:29:16] "GET /template/408/Sheet1 HTTP/1.1" 200 -
+2025-08-29 12:29:16,071 - root - INFO - Returning 16 rules from getRules endpoint
+2025-08-29 12:29:16,084 - werkzeug - INFO - 127.0.0.1 - - [29/Aug/2025 12:29:16] "GET /rules HTTP/1.1" 200 -
+2025-08-29 12:29:16,752 - root - INFO - Database connection established successfully
+2025-08-29 12:29:16,804 - werkzeug - INFO - 127.0.0.1 - - [29/Aug/2025 12:29:16] "GET /template/408/Sheet1 HTTP/1.1" 200 -
+2025-08-29 12:29:17,038 - root - INFO - Database connection established successfully
+2025-08-29 12:29:17,042 - root - INFO - Returning 16 rules from getRules endpoint
+2025-08-29 12:29:17,048 - werkzeug - INFO - 127.0.0.1 - - [29/Aug/2025 12:29:17] "GET /rules HTTP/1.1" 200 -
+2025-08-29 12:29:17,797 - root - INFO - Database connection established successfully
+2025-08-29 12:29:17,801 - root - INFO - Returning 16 rules from getRules endpoint
+2025-08-29 12:29:17,807 - werkzeug - INFO - 127.0.0.1 - - [29/Aug/2025 12:29:17] "GET /rules HTTP/1.1" 200 -
+2025-08-29 12:29:22,014 - root - INFO - Database connection established successfully
+2025-08-29 12:29:22,034 - root - INFO - Step 1 completed: headers=['name ', 'age ', 'sal', 'mail_id'], auto-assigned rules={'name ': ['Required', 'Alphanumeric'], 'age ': ['Required', 'Alphanumeric'], 'sal': ['Required', 'Float'], 'mail_id': ['Required', 'Text']}
+2025-08-29 12:29:22,041 - werkzeug - INFO - 127.0.0.1 - - [29/Aug/2025 12:29:22] "POST /step/1 HTTP/1.1" 200 -
+2025-08-29 12:29:22,746 - root - INFO - Database connection established successfully
+2025-08-29 12:29:22,813 - werkzeug - INFO - 127.0.0.1 - - [29/Aug/2025 12:29:22] "GET /template/408/Sheet1 HTTP/1.1" 200 -
+2025-08-29 12:29:23,044 - root - INFO - Database connection established successfully
+2025-08-29 12:29:23,048 - root - INFO - Returning 16 rules from getRules endpoint
+2025-08-29 12:29:23,055 - werkzeug - INFO - 127.0.0.1 - - [29/Aug/2025 12:29:23] "GET /rules HTTP/1.1" 200 -
+2025-08-29 12:29:23,832 - root - INFO - Database connection established successfully
+2025-08-29 12:29:23,836 - root - INFO - Returning 16 rules from getRules endpoint
+2025-08-29 12:29:23,842 - werkzeug - INFO - 127.0.0.1 - - [29/Aug/2025 12:29:23] "GET /rules HTTP/1.1" 200 -
+2025-08-29 12:29:26,350 - root - INFO - Database connection established successfully
+2025-08-29 12:29:26,369 - root - INFO - Step 2 completed: action=review, validations={'age ': ['Required', 'Alphanumeric'], 'mail_id': ['Required', 'Text'], 'name ': ['Required', 'Alphanumeric'], 'sal': ['Required', 'Float']}
+2025-08-29 12:29:26,375 - werkzeug - INFO - 127.0.0.1 - - [29/Aug/2025 12:29:26] "POST /step/2 HTTP/1.1" 200 -
+2025-08-29 12:29:27,046 - root - INFO - Database connection established successfully
+2025-08-29 12:29:27,069 - werkzeug - INFO - 127.0.0.1 - - [29/Aug/2025 12:29:27] "GET /template/408/Sheet1 HTTP/1.1" 200 -
+2025-08-29 12:29:27,295 - root - INFO - Database connection established successfully
+2025-08-29 12:29:27,299 - root - INFO - Returning 16 rules from getRules endpoint
+2025-08-29 12:29:27,307 - werkzeug - INFO - 127.0.0.1 - - [29/Aug/2025 12:29:27] "GET /rules HTTP/1.1" 200 -
+2025-08-29 12:29:28,273 - root - INFO - Database connection established successfully
+2025-08-29 12:29:28,279 - root - INFO - Database connection established successfully
+2025-08-29 12:29:28,285 - root - INFO - Returning 16 rules from getRules endpoint
+2025-08-29 12:29:28,290 - werkzeug - INFO - 127.0.0.1 - - [29/Aug/2025 12:29:28] "GET /template/408/rules HTTP/1.1" 200 -
+2025-08-29 12:29:28,300 - werkzeug - INFO - 127.0.0.1 - - [29/Aug/2025 12:29:28] "GET /rules HTTP/1.1" 200 -
+2025-08-29 12:29:29,052 - root - INFO - Database connection established successfully
+2025-08-29 12:29:29,056 - root - INFO - Returning 16 rules from getRules endpoint
+2025-08-29 12:29:29,064 - werkzeug - INFO - 127.0.0.1 - - [29/Aug/2025 12:29:29] "GET /rules HTTP/1.1" 200 -
+2025-08-29 12:30:43,989 - werkzeug - INFO -  * Detected change in 'c:\\Users\\MOM\\Downloads\\Deploy\\Deploy\\14-08-2025\\backend\\App\\routes\\steps.py', reloading
+2025-08-29 12:30:44,178 - werkzeug - INFO -  * Restarting with stat
+2025-08-29 12:30:44,751 - numexpr.utils - INFO - NumExpr defaulting to 12 threads.
+2025-08-29 12:30:45,328 - root - INFO - All blueprints registered successfully
+2025-08-29 12:30:45,333 - root - INFO - Initializing database schema...
+2025-08-29 12:30:45,520 - mysql.connector - INFO - package: mysql.connector.plugins
+2025-08-29 12:30:45,520 - mysql.connector - INFO - plugin_name: caching_sha2_password
+2025-08-29 12:30:45,520 - mysql.connector - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2025-08-29 12:30:45,521 - mysql.connector - INFO - package: mysql.connector.plugins
+2025-08-29 12:30:45,521 - mysql.connector - INFO - plugin_name: mysql_native_password
+2025-08-29 12:30:45,522 - mysql.connector - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLNativePasswordAuthPlugin
+2025-08-29 12:30:45,703 - root - INFO - Database connection established successfully
+2025-08-29 12:30:45,735 - root - INFO - Database tables initialized successfully
+2025-08-29 12:30:45,735 - root - INFO - Creating admin user...
+2025-08-29 12:30:45,968 - root - INFO - Admin user created or already exists
+2025-08-29 12:30:45,968 - root - INFO - Creating default validation rules...
+2025-08-29 12:30:45,974 - root - INFO - Default validation rules ensured successfully
+2025-08-29 12:30:45,974 - root - INFO - Application initialization completed successfully
+2025-08-29 12:30:45,993 - werkzeug - WARNING -  * Debugger is active!
+2025-08-29 12:30:45,997 - werkzeug - INFO -  * Debugger PIN: 135-922-860
+2025-08-29 12:34:31,452 - numexpr.utils - INFO - NumExpr defaulting to 12 threads.
+2025-08-29 12:34:32,113 - root - INFO - All blueprints registered successfully
+2025-08-29 12:34:32,119 - root - INFO - Initializing database schema...
+2025-08-29 12:34:32,314 - mysql.connector - INFO - package: mysql.connector.plugins
+2025-08-29 12:34:32,314 - mysql.connector - INFO - plugin_name: caching_sha2_password
+2025-08-29 12:34:32,315 - mysql.connector - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2025-08-29 12:34:32,315 - mysql.connector - INFO - package: mysql.connector.plugins
+2025-08-29 12:34:32,315 - mysql.connector - INFO - plugin_name: mysql_native_password
+2025-08-29 12:34:32,317 - mysql.connector - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLNativePasswordAuthPlugin
+2025-08-29 12:34:32,492 - root - INFO - Database connection established successfully
+2025-08-29 12:34:32,522 - root - INFO - Database tables initialized successfully
+2025-08-29 12:34:32,523 - root - INFO - Creating admin user...
+2025-08-29 12:34:32,755 - root - INFO - Admin user created or already exists
+2025-08-29 12:34:32,755 - root - INFO - Creating default validation rules...
+2025-08-29 12:34:32,760 - root - INFO - Default validation rules ensured successfully
+2025-08-29 12:34:32,760 - root - INFO - Application initialization completed successfully
+2025-08-29 12:34:32,795 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.178.161.115:5000
+2025-08-29 12:34:32,795 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-08-29 12:34:32,797 - werkzeug - INFO -  * Restarting with stat
+2025-08-29 12:34:33,312 - numexpr.utils - INFO - NumExpr defaulting to 12 threads.
+2025-08-29 12:34:33,831 - root - INFO - All blueprints registered successfully
+2025-08-29 12:34:33,836 - root - INFO - Initializing database schema...
+2025-08-29 12:34:34,026 - mysql.connector - INFO - package: mysql.connector.plugins
+2025-08-29 12:34:34,027 - mysql.connector - INFO - plugin_name: caching_sha2_password
+2025-08-29 12:34:34,027 - mysql.connector - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2025-08-29 12:34:34,028 - mysql.connector - INFO - package: mysql.connector.plugins
+2025-08-29 12:34:34,028 - mysql.connector - INFO - plugin_name: mysql_native_password
+2025-08-29 12:34:34,029 - mysql.connector - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLNativePasswordAuthPlugin
+2025-08-29 12:34:34,202 - root - INFO - Database connection established successfully
+2025-08-29 12:34:34,233 - root - INFO - Database tables initialized successfully
+2025-08-29 12:34:34,233 - root - INFO - Creating admin user...
+2025-08-29 12:34:34,466 - root - INFO - Admin user created or already exists
+2025-08-29 12:34:34,466 - root - INFO - Creating default validation rules...
+2025-08-29 12:34:34,477 - root - INFO - Default validation rules ensured successfully
+2025-08-29 12:34:34,477 - root - INFO - Application initialization completed successfully
+2025-08-29 12:34:34,495 - werkzeug - WARNING -  * Debugger is active!
+2025-08-29 12:34:34,499 - werkzeug - INFO -  * Debugger PIN: 135-922-860
+2025-08-29 12:34:39,828 - root - INFO - Database connection established successfully
+2025-08-29 12:34:39,834 - root - INFO - User rahul@gmail.com is authenticated
+2025-08-29 12:34:39,842 - werkzeug - INFO - 127.0.0.1 - - [29/Aug/2025 12:34:39] "GET /check-auth HTTP/1.1" 200 -
+2025-08-29 12:34:41,439 - root - INFO - Database connection established successfully
+2025-08-29 12:34:41,442 - root - INFO - Database connection established successfully
+2025-08-29 12:34:41,447 - root - INFO - User rahul@gmail.com is authenticated
+2025-08-29 12:34:41,448 - root - INFO - Database connection established successfully
+2025-08-29 12:34:41,459 - werkzeug - INFO - 127.0.0.1 - - [29/Aug/2025 12:34:41] "GET /check-auth HTTP/1.1" 200 -
+2025-08-29 12:34:41,467 - root - INFO - Fetched validation history for user 60: 9 templates
+2025-08-29 12:34:41,476 - werkzeug - INFO - 127.0.0.1 - - [29/Aug/2025 12:34:41] "GET /validation-history HTTP/1.1" 200 -
+2025-08-29 12:34:41,975 - root - INFO - Database connection established successfully
+2025-08-29 12:34:41,989 - root - INFO - Fetched validation history for user 60: 9 templates
+2025-08-29 12:34:41,997 - werkzeug - INFO - 127.0.0.1 - - [29/Aug/2025 12:34:41] "GET /validation-history HTTP/1.1" 200 -
+2025-08-29 12:34:42,018 - root - INFO - Found 7 templates with rules for user_id: 60
+2025-08-29 12:34:42,029 - werkzeug - INFO - 127.0.0.1 - - [29/Aug/2025 12:34:42] "GET /rule-configurations HTTP/1.1" 200 -
+2025-08-29 12:34:42,564 - root - INFO - Database connection established successfully
+2025-08-29 12:34:42,653 - root - INFO - Found 7 templates with rules for user_id: 60
+2025-08-29 12:34:42,660 - werkzeug - INFO - 127.0.0.1 - - [29/Aug/2025 12:34:42] "GET /rule-configurations HTTP/1.1" 200 -
+2025-08-29 12:34:50,012 - root - INFO - Database connection established successfully
+2025-08-29 12:34:50,018 - root - INFO - Database connection established successfully
+2025-08-29 12:34:50,022 - root - INFO - Database connection established successfully
+2025-08-29 12:34:50,030 - root - INFO - Returning 16 rules from getRules endpoint
+2025-08-29 12:34:50,031 - root - INFO - User rahul@gmail.com is authenticated
+2025-08-29 12:34:50,036 - werkzeug - INFO - 127.0.0.1 - - [29/Aug/2025 12:34:50] "GET /template/408/Sheet1 HTTP/1.1" 200 -
+2025-08-29 12:34:50,047 - werkzeug - INFO - 127.0.0.1 - - [29/Aug/2025 12:34:50] "GET /rules HTTP/1.1" 200 -
+2025-08-29 12:34:50,051 - werkzeug - INFO - 127.0.0.1 - - [29/Aug/2025 12:34:50] "GET /check-auth HTTP/1.1" 200 -
+2025-08-29 12:34:50,750 - root - INFO - Database connection established successfully
+2025-08-29 12:34:50,971 - werkzeug - INFO - 127.0.0.1 - - [29/Aug/2025 12:34:50] "GET /template/408/rules HTTP/1.1" 200 -
+2025-08-29 12:34:51,405 - root - INFO - Database connection established successfully
+2025-08-29 12:34:51,409 - root - INFO - Returning 16 rules from getRules endpoint
+2025-08-29 12:34:51,410 - root - INFO - Database connection established successfully
+2025-08-29 12:34:51,419 - werkzeug - INFO - 127.0.0.1 - - [29/Aug/2025 12:34:51] "GET /rules HTTP/1.1" 200 -
+2025-08-29 12:34:51,429 - werkzeug - INFO - 127.0.0.1 - - [29/Aug/2025 12:34:51] "GET /template/408/Sheet1 HTTP/1.1" 200 -
+2025-08-29 12:34:52,634 - root - INFO - Database connection established successfully
+2025-08-29 12:34:52,640 - root - INFO - Returning 16 rules from getRules endpoint
+2025-08-29 12:34:52,641 - root - INFO - Database connection established successfully
+2025-08-29 12:34:52,651 - werkzeug - INFO - 127.0.0.1 - - [29/Aug/2025 12:34:52] "GET /rules HTTP/1.1" 200 -
+2025-08-29 12:34:52,659 - werkzeug - INFO - 127.0.0.1 - - [29/Aug/2025 12:34:52] "GET /template/408/rules HTTP/1.1" 200 -
+2025-08-29 12:34:53,468 - root - INFO - Database connection established successfully
+2025-08-29 12:34:53,473 - root - INFO - Returning 16 rules from getRules endpoint
+2025-08-29 12:34:53,482 - werkzeug - INFO - 127.0.0.1 - - [29/Aug/2025 12:34:53] "GET /rules HTTP/1.1" 200 -
+2025-08-29 12:34:56,874 - root - INFO - Database connection established successfully
+2025-08-29 12:34:56,911 - werkzeug - INFO - 127.0.0.1 - - [29/Aug/2025 12:34:56] "GET /template/408/Sheet1 HTTP/1.1" 200 -
+2025-08-29 12:34:57,156 - root - INFO - Database connection established successfully
+2025-08-29 12:34:57,159 - root - INFO - Returning 16 rules from getRules endpoint
+2025-08-29 12:34:57,165 - werkzeug - INFO - 127.0.0.1 - - [29/Aug/2025 12:34:57] "GET /rules HTTP/1.1" 200 -
+2025-08-29 12:34:57,960 - root - INFO - Database connection established successfully
+2025-08-29 12:34:57,964 - root - INFO - Returning 16 rules from getRules endpoint
+2025-08-29 12:34:57,971 - werkzeug - INFO - 127.0.0.1 - - [29/Aug/2025 12:34:57] "GET /rules HTTP/1.1" 200 -
+2025-08-29 12:35:01,222 - root - INFO - Database connection established successfully
+2025-08-29 12:35:01,225 - root - INFO - User rahul@gmail.com is authenticated
+2025-08-29 12:35:01,232 - werkzeug - INFO - 127.0.0.1 - - [29/Aug/2025 12:35:01] "GET /check-auth HTTP/1.1" 200 -
+2025-08-29 12:35:02,251 - root - INFO - Database connection established successfully
+2025-08-29 12:35:02,257 - root - INFO - Database connection established successfully
+2025-08-29 12:35:02,260 - root - INFO - User rahul@gmail.com is authenticated
+2025-08-29 12:35:02,268 - werkzeug - INFO - 127.0.0.1 - - [29/Aug/2025 12:35:02] "GET /check-auth HTTP/1.1" 200 -
+2025-08-29 12:35:02,275 - root - INFO - Fetched validation history for user 60: 9 templates
+2025-08-29 12:35:02,287 - werkzeug - INFO - 127.0.0.1 - - [29/Aug/2025 12:35:02] "GET /validation-history HTTP/1.1" 200 -
+2025-08-29 12:35:04,862 - root - INFO - File saved: ./uploads\28-7.xlsx
+2025-08-29 12:35:05,343 - root - INFO - Database connection established successfully
+2025-08-29 12:35:05,349 - root - INFO - Found 1 existing templates with name 28-7.xlsx
+2025-08-29 12:35:05,352 - root - INFO - Upload processed: template_id=408, filename=28-7.xlsx, has_existing_rules=True, redirecting to step=3
+2025-08-29 12:35:05,359 - werkzeug - INFO - 127.0.0.1 - - [29/Aug/2025 12:35:05] "POST /upload HTTP/1.1" 200 -
+2025-08-29 12:35:06,740 - root - INFO - Database connection established successfully
+2025-08-29 12:35:06,783 - root - INFO - Database connection established successfully
+2025-08-29 12:35:06,788 - root - INFO - Returning 16 rules from getRules endpoint
+2025-08-29 12:35:06,791 - root - INFO - Database connection established successfully
+2025-08-29 12:35:06,793 - werkzeug - INFO - 127.0.0.1 - - [29/Aug/2025 12:35:06] "GET /template/408/Sheet1 HTTP/1.1" 200 -
+2025-08-29 12:35:06,799 - root - INFO - User rahul@gmail.com is authenticated
+2025-08-29 12:35:06,805 - werkzeug - INFO - 127.0.0.1 - - [29/Aug/2025 12:35:06] "GET /rules HTTP/1.1" 200 -
+2025-08-29 12:35:06,822 - werkzeug - INFO - 127.0.0.1 - - [29/Aug/2025 12:35:06] "GET /check-auth HTTP/1.1" 200 -
+2025-08-29 12:35:07,210 - werkzeug - INFO - 127.0.0.1 - - [29/Aug/2025 12:35:07] "[33mGET /validate-generic/408 HTTP/1.1[0m" 404 -
+2025-08-29 12:35:08,071 - root - INFO - Database connection established successfully
+2025-08-29 12:35:08,078 - root - INFO - Returning 16 rules from getRules endpoint
+2025-08-29 12:35:08,078 - root - INFO - Database connection established successfully
+2025-08-29 12:35:08,090 - werkzeug - INFO - 127.0.0.1 - - [29/Aug/2025 12:35:08] "GET /rules HTTP/1.1" 200 -
+2025-08-29 12:35:08,100 - werkzeug - INFO - 127.0.0.1 - - [29/Aug/2025 12:35:08] "GET /template/408/Sheet1 HTTP/1.1" 200 -
+2025-08-29 12:35:08,823 - root - INFO - Database connection established successfully
+2025-08-29 12:35:08,827 - root - INFO - Returning 16 rules from getRules endpoint
+2025-08-29 12:35:08,834 - werkzeug - INFO - 127.0.0.1 - - [29/Aug/2025 12:35:08] "GET /rules HTTP/1.1" 200 -
+2025-08-29 12:35:16,447 - root - INFO - Database connection established successfully
+2025-08-29 12:35:16,452 - root - INFO - User rahul@gmail.com is authenticated
+2025-08-29 12:35:16,460 - werkzeug - INFO - 127.0.0.1 - - [29/Aug/2025 12:35:16] "GET /check-auth HTTP/1.1" 200 -
+2025-08-29 12:36:50,488 - werkzeug - INFO -  * Detected change in 'c:\\Users\\MOM\\Downloads\\Deploy\\Deploy\\14-08-2025\\backend\\App\\routes\\steps.py', reloading
+2025-08-29 12:36:50,709 - werkzeug - INFO -  * Restarting with stat
+2025-08-29 12:36:51,398 - numexpr.utils - INFO - NumExpr defaulting to 12 threads.
+2025-08-29 12:36:52,163 - root - INFO - All blueprints registered successfully
+2025-08-29 12:36:52,168 - root - INFO - Initializing database schema...
+2025-08-29 12:36:52,373 - mysql.connector - INFO - package: mysql.connector.plugins
+2025-08-29 12:36:52,373 - mysql.connector - INFO - plugin_name: caching_sha2_password
+2025-08-29 12:36:52,373 - mysql.connector - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2025-08-29 12:36:52,374 - mysql.connector - INFO - package: mysql.connector.plugins
+2025-08-29 12:36:52,374 - mysql.connector - INFO - plugin_name: mysql_native_password
+2025-08-29 12:36:52,375 - mysql.connector - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLNativePasswordAuthPlugin
+2025-08-29 12:36:52,597 - root - INFO - Database connection established successfully
+2025-08-29 12:36:52,629 - root - INFO - Database tables initialized successfully
+2025-08-29 12:36:52,629 - root - INFO - Creating admin user...
+2025-08-29 12:36:52,865 - root - INFO - Admin user created or already exists
+2025-08-29 12:36:52,865 - root - INFO - Creating default validation rules...
+2025-08-29 12:36:52,883 - root - INFO - Default validation rules ensured successfully
+2025-08-29 12:36:52,883 - root - INFO - Application initialization completed successfully
+2025-08-29 12:36:52,907 - werkzeug - WARNING -  * Debugger is active!
+2025-08-29 12:36:52,910 - werkzeug - INFO -  * Debugger PIN: 135-922-860
+2025-08-29 12:37:15,794 - root - INFO - Database connection established successfully
+2025-08-29 12:37:15,901 - root - INFO - User rahul@gmail.com is authenticated
+2025-08-29 12:37:15,909 - werkzeug - INFO - 127.0.0.1 - - [29/Aug/2025 12:37:15] "GET /check-auth HTTP/1.1" 200 -
+2025-08-29 12:37:15,909 - root - INFO - Database connection established successfully
+2025-08-29 12:37:15,909 - root - INFO - Database connection established successfully
+2025-08-29 12:37:15,932 - root - INFO - Fetched validation history for user 60: 9 templates
+2025-08-29 12:37:15,941 - werkzeug - INFO - 127.0.0.1 - - [29/Aug/2025 12:37:15] "GET /validation-history HTTP/1.1" 200 -
+2025-08-29 12:37:16,347 - root - INFO - Database connection established successfully
+2025-08-29 12:37:16,361 - root - INFO - Fetched validation history for user 60: 9 templates
+2025-08-29 12:37:16,367 - werkzeug - INFO - 127.0.0.1 - - [29/Aug/2025 12:37:16] "GET /validation-history HTTP/1.1" 200 -
+2025-08-29 12:37:16,384 - root - INFO - Found 7 templates with rules for user_id: 60
+2025-08-29 12:37:16,393 - werkzeug - INFO - 127.0.0.1 - - [29/Aug/2025 12:37:16] "GET /rule-configurations HTTP/1.1" 200 -
+2025-08-29 12:37:17,180 - root - INFO - Database connection established successfully
+2025-08-29 12:37:17,250 - root - INFO - Found 7 templates with rules for user_id: 60
+2025-08-29 12:37:17,257 - werkzeug - INFO - 127.0.0.1 - - [29/Aug/2025 12:37:17] "GET /rule-configurations HTTP/1.1" 200 -
+2025-08-29 12:37:19,403 - root - INFO - Database connection established successfully
+2025-08-29 12:37:19,432 - werkzeug - INFO - 127.0.0.1 - - [29/Aug/2025 12:37:19] "DELETE /delete-template/408 HTTP/1.1" 200 -
+2025-08-29 12:37:23,303 - root - INFO - File saved: ./uploads\28-7.xlsx
+2025-08-29 12:37:23,821 - root - INFO - Database connection established successfully
+2025-08-29 12:37:23,825 - root - INFO - Found 0 existing templates with name 28-7.xlsx
+2025-08-29 12:37:23,837 - root - INFO - Upload processed: template_id=409, filename=28-7.xlsx, has_existing_rules=False, redirecting to step=1
+2025-08-29 12:37:23,847 - werkzeug - INFO - 127.0.0.1 - - [29/Aug/2025 12:37:23] "POST /upload HTTP/1.1" 200 -
+2025-08-29 12:37:24,448 - werkzeug - INFO - 127.0.0.1 - - [29/Aug/2025 12:37:24] "[33mGET /validate-generic/409 HTTP/1.1[0m" 404 -
+2025-08-29 12:37:24,736 - root - INFO - Database connection established successfully
+2025-08-29 12:37:24,815 - werkzeug - INFO - 127.0.0.1 - - [29/Aug/2025 12:37:24] "GET /template/409/Sheet1 HTTP/1.1" 200 -
+2025-08-29 12:37:25,355 - root - INFO - Database connection established successfully
+2025-08-29 12:37:25,465 - root - INFO - Database connection established successfully
+2025-08-29 12:37:25,470 - root - INFO - Returning 16 rules from getRules endpoint
+2025-08-29 12:37:25,471 - root - INFO - User rahul@gmail.com is authenticated
+2025-08-29 12:37:25,479 - werkzeug - INFO - 127.0.0.1 - - [29/Aug/2025 12:37:25] "GET /rules HTTP/1.1" 200 -
+2025-08-29 12:37:25,486 - werkzeug - INFO - 127.0.0.1 - - [29/Aug/2025 12:37:25] "GET /check-auth HTTP/1.1" 200 -
+2025-08-29 12:37:25,711 - root - INFO - Database connection established successfully
+2025-08-29 12:37:25,722 - werkzeug - INFO - 127.0.0.1 - - [29/Aug/2025 12:37:25] "GET /template/409/Sheet1 HTTP/1.1" 200 -
+2025-08-29 12:37:26,255 - root - INFO - Database connection established successfully
+2025-08-29 12:37:26,260 - root - INFO - Returning 16 rules from getRules endpoint
+2025-08-29 12:37:26,266 - werkzeug - INFO - 127.0.0.1 - - [29/Aug/2025 12:37:26] "GET /rules HTTP/1.1" 200 -
+2025-08-29 12:37:30,345 - root - INFO - Database connection established successfully
+2025-08-29 12:37:30,369 - root - INFO - Step 1 completed: headers=['name ', 'age ', 'sal', 'mail_id'], auto-assigned rules={'name ': ['Required', 'Alphanumeric'], 'age ': ['Required', 'Alphanumeric'], 'sal': ['Required', 'Float'], 'mail_id': ['Required', 'Text']}
+2025-08-29 12:37:30,376 - werkzeug - INFO - 127.0.0.1 - - [29/Aug/2025 12:37:30] "POST /step/1 HTTP/1.1" 200 -
+2025-08-29 12:37:31,099 - root - INFO - Database connection established successfully
+2025-08-29 12:37:31,111 - werkzeug - INFO - 127.0.0.1 - - [29/Aug/2025 12:37:31] "GET /template/409/Sheet1 HTTP/1.1" 200 -
+2025-08-29 12:37:31,309 - root - INFO - Database connection established successfully
+2025-08-29 12:37:31,314 - root - INFO - Returning 16 rules from getRules endpoint
+2025-08-29 12:37:31,320 - werkzeug - INFO - 127.0.0.1 - - [29/Aug/2025 12:37:31] "GET /rules HTTP/1.1" 200 -
+2025-08-29 12:37:31,844 - root - INFO - Database connection established successfully
+2025-08-29 12:37:31,848 - root - INFO - Returning 16 rules from getRules endpoint
+2025-08-29 12:37:31,855 - werkzeug - INFO - 127.0.0.1 - - [29/Aug/2025 12:37:31] "GET /rules HTTP/1.1" 200 -
+2025-08-29 12:37:34,195 - root - INFO - Database connection established successfully
+2025-08-29 12:37:34,216 - root - INFO - Step 2 completed: action=review, validations={'age ': ['Required', 'Alphanumeric'], 'mail_id': ['Required', 'Text'], 'name ': ['Required', 'Alphanumeric'], 'sal': ['Required', 'Float']}
+2025-08-29 12:37:34,223 - werkzeug - INFO - 127.0.0.1 - - [29/Aug/2025 12:37:34] "POST /step/2 HTTP/1.1" 200 -
+2025-08-29 12:37:35,215 - root - INFO - Database connection established successfully
+2025-08-29 12:37:35,216 - root - INFO - Database connection established successfully
+2025-08-29 12:37:35,224 - root - INFO - Returning 16 rules from getRules endpoint
+2025-08-29 12:37:35,232 - werkzeug - INFO - 127.0.0.1 - - [29/Aug/2025 12:37:35] "GET /rules HTTP/1.1" 200 -
+2025-08-29 12:37:35,238 - werkzeug - INFO - 127.0.0.1 - - [29/Aug/2025 12:37:35] "GET /template/409/Sheet1 HTTP/1.1" 200 -
+2025-08-29 12:37:36,399 - root - INFO - Database connection established successfully
+2025-08-29 12:37:36,423 - root - INFO - Returning 16 rules from getRules endpoint
+2025-08-29 12:37:36,429 - werkzeug - INFO - 127.0.0.1 - - [29/Aug/2025 12:37:36] "GET /rules HTTP/1.1" 200 -
+2025-08-29 12:37:36,432 - root - INFO - Database connection established successfully
+2025-08-29 12:37:36,447 - werkzeug - INFO - 127.0.0.1 - - [29/Aug/2025 12:37:36] "GET /template/409/rules HTTP/1.1" 200 -
+2025-08-29 12:37:37,195 - root - INFO - Database connection established successfully
+2025-08-29 12:37:37,199 - root - INFO - Returning 16 rules from getRules endpoint
+2025-08-29 12:37:37,206 - werkzeug - INFO - 127.0.0.1 - - [29/Aug/2025 12:37:37] "GET /rules HTTP/1.1" 200 -
+2025-08-29 12:38:57,647 - root - INFO - Database connection established successfully
+2025-08-29 12:38:57,652 - root - INFO - Returning 16 rules from getRules endpoint
+2025-08-29 12:38:57,654 - root - INFO - Database connection established successfully
+2025-08-29 12:38:57,662 - werkzeug - INFO - 127.0.0.1 - - [29/Aug/2025 12:38:57] "GET /rules HTTP/1.1" 200 -
+2025-08-29 12:38:57,674 - werkzeug - INFO - 127.0.0.1 - - [29/Aug/2025 12:38:57] "GET /template/409/Sheet1 HTTP/1.1" 200 -
+2025-08-29 12:38:58,116 - root - INFO - Database connection established successfully
+2025-08-29 12:38:58,119 - root - INFO - Returning 16 rules from getRules endpoint
+2025-08-29 12:38:58,126 - werkzeug - INFO - 127.0.0.1 - - [29/Aug/2025 12:38:58] "GET /rules HTTP/1.1" 200 -
+2025-08-29 12:39:02,205 - root - INFO - Database connection established successfully
+2025-08-29 12:39:02,211 - root - INFO - Database connection established successfully
+2025-08-29 12:39:02,217 - root - INFO - Returning 16 rules from getRules endpoint
+2025-08-29 12:39:02,224 - werkzeug - INFO - 127.0.0.1 - - [29/Aug/2025 12:39:02] "GET /template/409/Sheet1 HTTP/1.1" 200 -
+2025-08-29 12:39:02,229 - werkzeug - INFO - 127.0.0.1 - - [29/Aug/2025 12:39:02] "GET /rules HTTP/1.1" 200 -
+2025-08-29 12:39:05,524 - root - INFO - Database connection established successfully
+2025-08-29 12:39:05,546 - root - INFO - Step 1 completed: headers=['name ', 'age ', 'sal', 'mail_id'], auto-assigned rules={'name ': ['Required', 'Alphanumeric'], 'age ': ['Required', 'Alphanumeric'], 'sal': ['Required', 'Float'], 'mail_id': ['Required', 'Text']}
+2025-08-29 12:39:05,552 - werkzeug - INFO - 127.0.0.1 - - [29/Aug/2025 12:39:05] "POST /step/1 HTTP/1.1" 200 -
+2025-08-29 12:39:06,731 - root - INFO - Database connection established successfully
+2025-08-29 12:39:06,737 - root - INFO - Database connection established successfully
+2025-08-29 12:39:06,742 - root - INFO - Returning 16 rules from getRules endpoint
+2025-08-29 12:39:06,749 - werkzeug - INFO - 127.0.0.1 - - [29/Aug/2025 12:39:06] "GET /template/409/Sheet1 HTTP/1.1" 200 -
+2025-08-29 12:39:06,758 - werkzeug - INFO - 127.0.0.1 - - [29/Aug/2025 12:39:06] "GET /rules HTTP/1.1" 200 -
+2025-08-29 12:39:07,305 - root - INFO - Database connection established successfully
+2025-08-29 12:39:07,311 - root - INFO - Returning 16 rules from getRules endpoint
+2025-08-29 12:39:07,318 - werkzeug - INFO - 127.0.0.1 - - [29/Aug/2025 12:39:07] "GET /rules HTTP/1.1" 200 -
+2025-08-29 12:39:10,126 - root - INFO - Database connection established successfully
+2025-08-29 12:39:10,130 - root - INFO - Returning 16 rules from getRules endpoint
+2025-08-29 12:39:10,136 - werkzeug - INFO - 127.0.0.1 - - [29/Aug/2025 12:39:10] "GET /rules HTTP/1.1" 200 -
+2025-08-29 12:39:13,708 - root - INFO - Database connection established successfully
+2025-08-29 12:39:13,711 - root - INFO - Returning 16 rules from getRules endpoint
+2025-08-29 12:39:13,718 - werkzeug - INFO - 127.0.0.1 - - [29/Aug/2025 12:39:13] "GET /rules HTTP/1.1" 200 -
+2025-08-29 12:39:16,482 - root - INFO - Database connection established successfully
+2025-08-29 12:39:16,486 - root - INFO - Returning 16 rules from getRules endpoint
+2025-08-29 12:39:16,492 - werkzeug - INFO - 127.0.0.1 - - [29/Aug/2025 12:39:16] "GET /rules HTTP/1.1" 200 -
+2025-08-29 12:39:22,680 - root - INFO - Database connection established successfully
+2025-08-29 12:39:22,685 - root - INFO - Returning 16 rules from getRules endpoint
+2025-08-29 12:39:22,693 - werkzeug - INFO - 127.0.0.1 - - [29/Aug/2025 12:39:22] "GET /rules HTTP/1.1" 200 -
+2025-08-29 12:39:25,826 - root - INFO - Database connection established successfully
+2025-08-29 12:39:25,831 - root - INFO - Returning 16 rules from getRules endpoint
+2025-08-29 12:39:25,838 - werkzeug - INFO - 127.0.0.1 - - [29/Aug/2025 12:39:25] "GET /rules HTTP/1.1" 200 -
+2025-08-29 12:39:28,796 - root - INFO - Database connection established successfully
+2025-08-29 12:39:28,800 - root - INFO - Returning 16 rules from getRules endpoint
+2025-08-29 12:39:28,808 - werkzeug - INFO - 127.0.0.1 - - [29/Aug/2025 12:39:28] "GET /rules HTTP/1.1" 200 -
+2025-08-29 12:39:30,355 - root - INFO - Database connection established successfully
+2025-08-29 12:39:30,359 - root - INFO - Returning 16 rules from getRules endpoint
+2025-08-29 12:39:30,366 - werkzeug - INFO - 127.0.0.1 - - [29/Aug/2025 12:39:30] "GET /rules HTTP/1.1" 200 -
+2025-08-29 12:39:33,222 - root - INFO - Database connection established successfully
+2025-08-29 12:39:33,227 - root - INFO - Returning 16 rules from getRules endpoint
+2025-08-29 12:39:33,234 - werkzeug - INFO - 127.0.0.1 - - [29/Aug/2025 12:39:33] "GET /rules HTTP/1.1" 200 -
+2025-08-29 12:39:35,319 - werkzeug - INFO - 127.0.0.1 - - [29/Aug/2025 12:39:35] "[33mGET /templates HTTP/1.1[0m" 404 -
+2025-08-29 12:39:35,689 - root - INFO - Database connection established successfully
+2025-08-29 12:39:35,693 - root - INFO - User rahul@gmail.com is authenticated
+2025-08-29 12:39:35,700 - werkzeug - INFO - 127.0.0.1 - - [29/Aug/2025 12:39:35] "GET /check-auth HTTP/1.1" 200 -
+2025-08-29 12:40:24,513 - root - INFO - Database connection established successfully
+2025-08-29 12:40:24,530 - werkzeug - INFO - 127.0.0.1 - - [29/Aug/2025 12:40:24] "GET /template/409/Sheet1 HTTP/1.1" 200 -
+2025-08-29 12:40:24,965 - root - INFO - Database connection established successfully
+2025-08-29 12:40:25,150 - root - INFO - Database connection established successfully
+2025-08-29 12:40:25,154 - root - INFO - Returning 16 rules from getRules endpoint
+2025-08-29 12:40:25,156 - root - INFO - User rahul@gmail.com is authenticated
+2025-08-29 12:40:25,161 - werkzeug - INFO - 127.0.0.1 - - [29/Aug/2025 12:40:25] "GET /rules HTTP/1.1" 200 -
+2025-08-29 12:40:25,166 - werkzeug - INFO - 127.0.0.1 - - [29/Aug/2025 12:40:25] "GET /check-auth HTTP/1.1" 200 -
+2025-08-29 12:40:25,416 - root - INFO - Database connection established successfully
+2025-08-29 12:40:25,427 - werkzeug - INFO - 127.0.0.1 - - [29/Aug/2025 12:40:25] "GET /template/409/Sheet1 HTTP/1.1" 200 -
+2025-08-29 12:40:25,932 - root - INFO - Database connection established successfully
+2025-08-29 12:40:25,935 - root - INFO - Returning 16 rules from getRules endpoint
+2025-08-29 12:40:25,941 - werkzeug - INFO - 127.0.0.1 - - [29/Aug/2025 12:40:25] "GET /rules HTTP/1.1" 200 -
+2025-08-29 12:40:52,287 - werkzeug - INFO - 127.0.0.1 - - [29/Aug/2025 12:40:52] "[33mGET /templates HTTP/1.1[0m" 404 -
+2025-08-29 12:40:52,703 - root - INFO - Database connection established successfully
+2025-08-29 12:40:52,707 - root - INFO - User rahul@gmail.com is authenticated
+2025-08-29 12:40:52,713 - werkzeug - INFO - 127.0.0.1 - - [29/Aug/2025 12:40:52] "GET /check-auth HTTP/1.1" 200 -
+2025-08-29 12:41:53,675 - werkzeug - INFO -  * Detected change in 'c:\\Users\\MOM\\Downloads\\Deploy\\Deploy\\14-08-2025\\backend\\App\\routes\\templates.py', reloading
+2025-08-29 12:41:53,870 - werkzeug - INFO -  * Restarting with stat
+2025-08-29 12:41:54,450 - numexpr.utils - INFO - NumExpr defaulting to 12 threads.
+2025-08-29 12:41:54,989 - root - ERROR - Error registering blueprints: View function mapping is overwriting an existing endpoint function: templates.get_templates
+2025-08-29 16:05:58,162 - numexpr.utils - INFO - NumExpr defaulting to 12 threads.
+2025-08-29 16:05:59,501 - root - ERROR - Error registering blueprints: View function mapping is overwriting an existing endpoint function: templates.get_templates
+2025-08-29 16:13:49,184 - numexpr.utils - INFO - NumExpr defaulting to 12 threads.
+2025-08-29 16:13:50,173 - root - INFO - All blueprints registered successfully
+2025-08-29 16:13:50,179 - root - INFO - Initializing database schema...
+2025-08-29 16:13:50,570 - mysql.connector - INFO - package: mysql.connector.plugins
+2025-08-29 16:13:50,571 - mysql.connector - INFO - plugin_name: caching_sha2_password
+2025-08-29 16:13:50,571 - mysql.connector - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2025-08-29 16:13:50,575 - mysql.connector - INFO - package: mysql.connector.plugins
+2025-08-29 16:13:50,575 - mysql.connector - INFO - plugin_name: mysql_native_password
+2025-08-29 16:13:50,577 - mysql.connector - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLNativePasswordAuthPlugin
+2025-08-29 16:13:50,845 - root - INFO - Database connection established successfully
+2025-08-29 16:13:50,909 - root - INFO - Database tables initialized successfully
+2025-08-29 16:13:50,910 - root - INFO - Creating admin user...
+2025-08-29 16:13:51,206 - root - INFO - Admin user created or already exists
+2025-08-29 16:13:51,207 - root - INFO - Creating default validation rules...
+2025-08-29 16:13:51,218 - root - INFO - Default validation rules ensured successfully
+2025-08-29 16:13:51,218 - root - INFO - Application initialization completed successfully
+2025-08-29 16:13:51,284 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.178.161.115:5000
+2025-08-29 16:13:51,284 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-08-29 16:13:51,286 - werkzeug - INFO -  * Restarting with stat
+2025-08-29 16:13:51,916 - numexpr.utils - INFO - NumExpr defaulting to 12 threads.
+2025-08-29 16:13:52,595 - root - INFO - All blueprints registered successfully
+2025-08-29 16:13:52,602 - root - INFO - Initializing database schema...
+2025-08-29 16:13:52,836 - mysql.connector - INFO - package: mysql.connector.plugins
+2025-08-29 16:13:52,836 - mysql.connector - INFO - plugin_name: caching_sha2_password
+2025-08-29 16:13:52,836 - mysql.connector - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2025-08-29 16:13:52,837 - mysql.connector - INFO - package: mysql.connector.plugins
+2025-08-29 16:13:52,838 - mysql.connector - INFO - plugin_name: mysql_native_password
+2025-08-29 16:13:52,839 - mysql.connector - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLNativePasswordAuthPlugin
+2025-08-29 16:13:53,054 - root - INFO - Database connection established successfully
+2025-08-29 16:13:53,092 - root - INFO - Database tables initialized successfully
+2025-08-29 16:13:53,093 - root - INFO - Creating admin user...
+2025-08-29 16:13:53,362 - root - INFO - Admin user created or already exists
+2025-08-29 16:13:53,362 - root - INFO - Creating default validation rules...
+2025-08-29 16:13:53,371 - root - INFO - Default validation rules ensured successfully
+2025-08-29 16:13:53,371 - root - INFO - Application initialization completed successfully
+2025-08-29 16:13:53,394 - werkzeug - WARNING -  * Debugger is active!
+2025-08-29 16:13:53,403 - werkzeug - INFO -  * Debugger PIN: 135-922-860
+2025-08-29 16:13:58,065 - root - INFO - Database connection established successfully
+2025-08-29 16:13:58,368 - root - INFO - User rahul@gmail.com logged in successfully. Session: {'_permanent': True, 'loggedin': True, 'user_email': 'rahul@gmail.com', 'user_id': 60, 'file_path': './uploads\\28-7.xlsx', 'template_id': 409, 'has_existing_rules': False, 'df': '{"0":{"0":"name ","1":"vamsi","2":"supriya","3":"shanmukh","4":null,"5":22},"1":{"0":"age ","1":22,"2":21,"3":20,"4":22,"5":"de"},"2":{"0":"sal","1":20000.5,"2":50000.3,"3":10.2,"4":20,"5":50000.2},"3":{"0":"mail_id","1":"vamsi@gmail.com","2":"supriya@gmail.com","3":"shanmukh@gmail.com","4":"sdfg","5":"rahul@gmail.com"}}', 'header_row': 0, 'headers': ['name ', 'age ', 'sal', 'mail_id'], 'sheet_name': 'Sheet1', 'current_step': 2, 'validations': {'name ': ['Required', 'Alphanumeric'], 'age ': ['Required', 'Alphanumeric'], 'sal': ['Required', 'Float'], 'mail_id': ['Required', 'Text']}, 'selected_headers': ['name ', 'age ', 'sal', 'mail_id']}
+2025-08-29 16:13:58,379 - werkzeug - INFO - 127.0.0.1 - - [29/Aug/2025 16:13:58] "POST /authenticate HTTP/1.1" 200 -
+2025-08-29 16:13:59,435 - root - INFO - Database connection established successfully
+2025-08-29 16:13:59,442 - root - INFO - User rahul@gmail.com is authenticated
+2025-08-29 16:13:59,450 - werkzeug - INFO - 127.0.0.1 - - [29/Aug/2025 16:13:59] "GET /check-auth HTTP/1.1" 200 -
+2025-08-29 16:14:03,681 - root - INFO - Database connection established successfully
+2025-08-29 16:14:03,756 - root - INFO - Database connection established successfully
+2025-08-29 16:14:03,761 - root - INFO - User rahul@gmail.com is authenticated
+2025-08-29 16:14:03,764 - root - INFO - Database connection established successfully
+2025-08-29 16:14:03,779 - werkzeug - INFO - 127.0.0.1 - - [29/Aug/2025 16:14:03] "GET /check-auth HTTP/1.1" 200 -
+2025-08-29 16:14:03,795 - root - INFO - Fetched validation history for user 60: 9 templates
+2025-08-29 16:14:03,808 - werkzeug - INFO - 127.0.0.1 - - [29/Aug/2025 16:14:03] "GET /validation-history HTTP/1.1" 200 -
+2025-08-29 16:14:03,891 - root - INFO - Found 7 templates with rules for user_id: 60
+2025-08-29 16:14:03,903 - werkzeug - INFO - 127.0.0.1 - - [29/Aug/2025 16:14:03] "GET /rule-configurations HTTP/1.1" 200 -
+2025-08-29 16:14:04,997 - root - INFO - Database connection established successfully
+2025-08-29 16:14:05,158 - root - INFO - Database connection established successfully
+2025-08-29 16:14:05,172 - root - INFO - Fetched validation history for user 60: 9 templates
+2025-08-29 16:14:05,181 - werkzeug - INFO - 127.0.0.1 - - [29/Aug/2025 16:14:05] "GET /validation-history HTTP/1.1" 200 -
+2025-08-29 16:14:05,257 - root - INFO - Found 7 templates with rules for user_id: 60
+2025-08-29 16:14:05,265 - werkzeug - INFO - 127.0.0.1 - - [29/Aug/2025 16:14:05] "GET /rule-configurations HTTP/1.1" 200 -
+2025-08-29 16:14:07,075 - root - INFO - Database connection established successfully
+2025-08-29 16:14:07,112 - werkzeug - INFO - 127.0.0.1 - - [29/Aug/2025 16:14:07] "DELETE /delete-template/409 HTTP/1.1" 200 -
+2025-08-29 16:14:15,905 - root - INFO - File saved: ./uploads\28-7.xlsx
+2025-08-29 16:14:16,651 - root - INFO - Database connection established successfully
+2025-08-29 16:14:16,658 - root - INFO - Found 0 existing templates with name 28-7.xlsx
+2025-08-29 16:14:16,675 - root - INFO - Upload processed: template_id=410, filename=28-7.xlsx, has_existing_rules=False, redirecting to step=1
+2025-08-29 16:14:16,683 - werkzeug - INFO - 127.0.0.1 - - [29/Aug/2025 16:14:16] "POST /upload HTTP/1.1" 200 -
+2025-08-29 16:14:17,684 - root - INFO - Database connection established successfully
+2025-08-29 16:14:17,909 - werkzeug - INFO - 127.0.0.1 - - [29/Aug/2025 16:14:17] "GET /template/410/Sheet1 HTTP/1.1" 200 -
+2025-08-29 16:14:18,368 - root - INFO - Database connection established successfully
+2025-08-29 16:14:18,374 - root - INFO - Database connection established successfully
+2025-08-29 16:14:18,379 - root - INFO - User rahul@gmail.com is authenticated
+2025-08-29 16:14:18,383 - root - INFO - Returning 16 rules from getRules endpoint
+2025-08-29 16:14:18,388 - werkzeug - INFO - 127.0.0.1 - - [29/Aug/2025 16:14:18] "GET /check-auth HTTP/1.1" 200 -
+2025-08-29 16:14:18,397 - werkzeug - INFO - 127.0.0.1 - - [29/Aug/2025 16:14:18] "GET /rules HTTP/1.1" 200 -
+2025-08-29 16:14:19,023 - root - INFO - Database connection established successfully
+2025-08-29 16:14:19,040 - werkzeug - INFO - 127.0.0.1 - - [29/Aug/2025 16:14:19] "GET /template/410/Sheet1 HTTP/1.1" 200 -
+2025-08-29 16:14:23,073 - root - INFO - Database connection established successfully
+2025-08-29 16:14:23,105 - root - INFO - Step 1 completed: headers=['name ', 'age ', 'sal', 'mail_id'], auto-assigned rules={'name ': ['Required', 'Alphanumeric'], 'age ': ['Required', 'Alphanumeric'], 'sal': ['Required', 'Float'], 'mail_id': ['Required', 'Text']}
+2025-08-29 16:14:23,113 - werkzeug - INFO - 127.0.0.1 - - [29/Aug/2025 16:14:23] "POST /step/1 HTTP/1.1" 200 -
+2025-08-29 16:14:24,591 - root - INFO - Database connection established successfully
+2025-08-29 16:14:24,597 - root - INFO - Database connection established successfully
+2025-08-29 16:14:24,601 - root - INFO - Returning 16 rules from getRules endpoint
+2025-08-29 16:14:24,611 - werkzeug - INFO - 127.0.0.1 - - [29/Aug/2025 16:14:24] "GET /rules HTTP/1.1" 200 -
+2025-08-29 16:14:24,620 - werkzeug - INFO - 127.0.0.1 - - [29/Aug/2025 16:14:24] "GET /template/410/Sheet1 HTTP/1.1" 200 -
+2025-08-29 16:14:25,155 - root - INFO - Database connection established successfully
+2025-08-29 16:14:25,161 - root - INFO - Returning 16 rules from getRules endpoint
+2025-08-29 16:14:25,171 - werkzeug - INFO - 127.0.0.1 - - [29/Aug/2025 16:14:25] "GET /rules HTTP/1.1" 200 -
+2025-08-29 16:14:27,621 - werkzeug - INFO - 127.0.0.1 - - [29/Aug/2025 16:14:27] "[33mGET /templates HTTP/1.1[0m" 404 -
+2025-08-29 16:14:28,165 - root - INFO - Database connection established successfully
+2025-08-29 16:14:28,170 - root - INFO - User rahul@gmail.com is authenticated
+2025-08-29 16:14:28,179 - werkzeug - INFO - 127.0.0.1 - - [29/Aug/2025 16:14:28] "GET /check-auth HTTP/1.1" 200 -
+2025-08-29 16:14:31,707 - root - INFO - Database connection established successfully
+2025-08-29 16:14:32,211 - werkzeug - INFO - 127.0.0.1 - - [29/Aug/2025 16:14:32] "GET /template/410/Sheet1 HTTP/1.1" 200 -
+2025-08-29 16:14:32,268 - root - INFO - Database connection established successfully
+2025-08-29 16:14:32,276 - root - INFO - Returning 16 rules from getRules endpoint
+2025-08-29 16:14:32,277 - root - INFO - Database connection established successfully
+2025-08-29 16:14:32,292 - root - INFO - User rahul@gmail.com is authenticated
+2025-08-29 16:14:32,306 - werkzeug - INFO - 127.0.0.1 - - [29/Aug/2025 16:14:32] "GET /rules HTTP/1.1" 200 -
+2025-08-29 16:14:32,313 - werkzeug - INFO - 127.0.0.1 - - [29/Aug/2025 16:14:32] "GET /check-auth HTTP/1.1" 200 -
+2025-08-29 16:14:33,660 - root - INFO - Database connection established successfully
+2025-08-29 16:14:33,727 - root - INFO - Database connection established successfully
+2025-08-29 16:14:33,735 - werkzeug - INFO - 127.0.0.1 - - [29/Aug/2025 16:14:33] "GET /template/410/Sheet1 HTTP/1.1" 200 -
+2025-08-29 16:14:33,737 - root - INFO - Returning 16 rules from getRules endpoint
+2025-08-29 16:14:33,747 - werkzeug - INFO - 127.0.0.1 - - [29/Aug/2025 16:14:33] "GET /rules HTTP/1.1" 200 -
+2025-08-29 16:14:37,518 - root - INFO - Database connection established successfully
+2025-08-29 16:14:37,542 - root - INFO - Step 2 completed: action=review, validations={'age ': ['Required', 'Alphanumeric'], 'mail_id': ['Required', 'Text'], 'name ': ['Required', 'Alphanumeric'], 'sal': ['Required', 'Float']}
+2025-08-29 16:14:37,550 - werkzeug - INFO - 127.0.0.1 - - [29/Aug/2025 16:14:37] "POST /step/2 HTTP/1.1" 200 -
+2025-08-29 16:14:38,636 - root - INFO - Database connection established successfully
+2025-08-29 16:14:38,706 - root - INFO - Database connection established successfully
+2025-08-29 16:14:38,712 - root - INFO - Returning 16 rules from getRules endpoint
+2025-08-29 16:14:38,717 - werkzeug - INFO - 127.0.0.1 - - [29/Aug/2025 16:14:38] "GET /template/410/Sheet1 HTTP/1.1" 200 -
+2025-08-29 16:14:38,726 - werkzeug - INFO - 127.0.0.1 - - [29/Aug/2025 16:14:38] "GET /rules HTTP/1.1" 200 -
+2025-08-29 16:14:40,122 - root - INFO - Database connection established successfully
+2025-08-29 16:14:40,128 - root - INFO - Returning 16 rules from getRules endpoint
+2025-08-29 16:14:40,130 - root - INFO - Database connection established successfully
+2025-08-29 16:14:40,141 - werkzeug - INFO - 127.0.0.1 - - [29/Aug/2025 16:14:40] "GET /rules HTTP/1.1" 200 -
+2025-08-29 16:14:40,154 - werkzeug - INFO - 127.0.0.1 - - [29/Aug/2025 16:14:40] "GET /template/410/rules HTTP/1.1" 200 -
+2025-08-29 16:14:41,003 - root - INFO - Database connection established successfully
+2025-08-29 16:14:41,009 - root - INFO - Returning 16 rules from getRules endpoint
+2025-08-29 16:14:41,017 - werkzeug - INFO - 127.0.0.1 - - [29/Aug/2025 16:14:41] "GET /rules HTTP/1.1" 200 -
+2025-08-29 16:14:42,749 - root - INFO - Database connection established successfully
+2025-08-29 16:14:43,049 - werkzeug - INFO - 127.0.0.1 - - [29/Aug/2025 16:14:43] "GET /template/410/Sheet1 HTTP/1.1" 200 -
+2025-08-29 16:14:43,052 - root - INFO - Database connection established successfully
+2025-08-29 16:14:43,061 - root - INFO - Returning 16 rules from getRules endpoint
+2025-08-29 16:14:43,074 - werkzeug - INFO - 127.0.0.1 - - [29/Aug/2025 16:14:43] "GET /rules HTTP/1.1" 200 -
+2025-08-29 16:14:43,968 - root - INFO - Database connection established successfully
+2025-08-29 16:14:43,975 - root - INFO - Returning 16 rules from getRules endpoint
+2025-08-29 16:14:43,984 - werkzeug - INFO - 127.0.0.1 - - [29/Aug/2025 16:14:43] "GET /rules HTTP/1.1" 200 -
+2025-08-29 16:15:48,662 - root - INFO - Database connection established successfully
+2025-08-29 16:15:48,668 - root - INFO - Returning 16 rules from getRules endpoint
+2025-08-29 16:15:48,668 - root - INFO - Database connection established successfully
+2025-08-29 16:15:48,681 - werkzeug - INFO - 127.0.0.1 - - [29/Aug/2025 16:15:48] "GET /rules HTTP/1.1" 200 -
+2025-08-29 16:15:48,690 - werkzeug - INFO - 127.0.0.1 - - [29/Aug/2025 16:15:48] "GET /template/410/Sheet1 HTTP/1.1" 200 -
+2025-08-29 16:15:51,956 - root - INFO - Database connection established successfully
+2025-08-29 16:15:51,983 - root - INFO - Step 1 completed: headers=['name ', 'age ', 'sal', 'mail_id'], auto-assigned rules={'name ': ['Required', 'Alphanumeric'], 'age ': ['Required', 'Alphanumeric'], 'sal': ['Required', 'Float'], 'mail_id': ['Required', 'Text']}
+2025-08-29 16:15:51,993 - werkzeug - INFO - 127.0.0.1 - - [29/Aug/2025 16:15:51] "POST /step/1 HTTP/1.1" 200 -
+2025-08-29 16:15:52,769 - root - INFO - Database connection established successfully
+2025-08-29 16:15:52,876 - werkzeug - INFO - 127.0.0.1 - - [29/Aug/2025 16:15:52] "GET /template/410/Sheet1 HTTP/1.1" 200 -
+2025-08-29 16:15:53,128 - root - INFO - Database connection established successfully
+2025-08-29 16:15:53,133 - root - INFO - Returning 16 rules from getRules endpoint
+2025-08-29 16:15:53,142 - werkzeug - INFO - 127.0.0.1 - - [29/Aug/2025 16:15:53] "GET /rules HTTP/1.1" 200 -
+2025-08-29 16:15:53,995 - root - INFO - Database connection established successfully
+2025-08-29 16:15:54,001 - root - INFO - Returning 16 rules from getRules endpoint
+2025-08-29 16:15:54,013 - werkzeug - INFO - 127.0.0.1 - - [29/Aug/2025 16:15:54] "GET /rules HTTP/1.1" 200 -
+2025-08-29 16:16:14,333 - root - INFO - Database connection established successfully
+2025-08-29 16:16:14,359 - root - INFO - Step 2 completed: action=review, validations={'age ': ['Required', 'Alphanumeric'], 'mail_id': ['Required', 'Text'], 'name ': ['Required', 'Alphanumeric'], 'sal': ['Required', 'Float']}
+2025-08-29 16:16:14,367 - werkzeug - INFO - 127.0.0.1 - - [29/Aug/2025 16:16:14] "POST /step/2 HTTP/1.1" 200 -
+2025-08-29 16:16:15,249 - root - INFO - Database connection established successfully
+2025-08-29 16:16:15,262 - werkzeug - INFO - 127.0.0.1 - - [29/Aug/2025 16:16:15] "GET /template/410/Sheet1 HTTP/1.1" 200 -
+2025-08-29 16:16:15,548 - root - INFO - Database connection established successfully
+2025-08-29 16:16:15,552 - root - INFO - Returning 16 rules from getRules endpoint
+2025-08-29 16:16:15,561 - werkzeug - INFO - 127.0.0.1 - - [29/Aug/2025 16:16:15] "GET /rules HTTP/1.1" 200 -
+2025-08-29 16:16:16,612 - root - INFO - Database connection established successfully
+2025-08-29 16:16:16,722 - root - INFO - Database connection established successfully
+2025-08-29 16:16:16,730 - werkzeug - INFO - 127.0.0.1 - - [29/Aug/2025 16:16:16] "GET /template/410/rules HTTP/1.1" 200 -
+2025-08-29 16:16:16,731 - root - INFO - Returning 16 rules from getRules endpoint
+2025-08-29 16:16:16,743 - werkzeug - INFO - 127.0.0.1 - - [29/Aug/2025 16:16:16] "GET /rules HTTP/1.1" 200 -
+2025-08-29 16:16:17,637 - root - INFO - Database connection established successfully
+2025-08-29 16:16:17,642 - root - INFO - Returning 16 rules from getRules endpoint
+2025-08-29 16:16:17,651 - werkzeug - INFO - 127.0.0.1 - - [29/Aug/2025 16:16:17] "GET /rules HTTP/1.1" 200 -
+2025-08-29 16:20:49,469 - root - INFO - Database connection established successfully
+2025-08-29 16:20:49,475 - root - INFO - Database connection established successfully
+2025-08-29 16:20:49,503 - root - INFO - Returning 16 rules from getRules endpoint
+2025-08-29 16:20:49,540 - werkzeug - INFO - 127.0.0.1 - - [29/Aug/2025 16:20:49] "GET /rules HTTP/1.1" 200 -
+2025-08-29 16:20:49,551 - werkzeug - INFO - 127.0.0.1 - - [29/Aug/2025 16:20:49] "GET /template/410/Sheet1 HTTP/1.1" 200 -
+2025-08-29 16:20:50,403 - root - INFO - Database connection established successfully
+2025-08-29 16:20:50,411 - root - INFO - Returning 16 rules from getRules endpoint
+2025-08-29 16:20:50,419 - werkzeug - INFO - 127.0.0.1 - - [29/Aug/2025 16:20:50] "GET /rules HTTP/1.1" 200 -
+2025-08-29 16:20:53,634 - root - INFO - Database connection established successfully
+2025-08-29 16:20:53,640 - root - INFO - Database connection established successfully
+2025-08-29 16:20:53,648 - root - INFO - Returning 16 rules from getRules endpoint
+2025-08-29 16:20:53,659 - werkzeug - INFO - 127.0.0.1 - - [29/Aug/2025 16:20:53] "GET /rules HTTP/1.1" 200 -
+2025-08-29 16:20:53,670 - werkzeug - INFO - 127.0.0.1 - - [29/Aug/2025 16:20:53] "GET /template/410/Sheet1 HTTP/1.1" 200 -
+2025-08-29 16:21:00,753 - root - INFO - Database connection established successfully
+2025-08-29 16:21:00,807 - root - INFO - Step 1 completed: headers=['name ', 'age ', 'sal', 'mail_id'], auto-assigned rules={'name ': ['Required', 'Alphanumeric'], 'age ': ['Required', 'Alphanumeric'], 'sal': ['Required', 'Float'], 'mail_id': ['Required', 'Text']}
+2025-08-29 16:21:00,817 - werkzeug - INFO - 127.0.0.1 - - [29/Aug/2025 16:21:00] "POST /step/1 HTTP/1.1" 200 -
+2025-08-29 16:21:01,600 - root - INFO - Database connection established successfully
+2025-08-29 16:21:01,707 - werkzeug - INFO - 127.0.0.1 - - [29/Aug/2025 16:21:01] "GET /template/410/Sheet1 HTTP/1.1" 200 -
+2025-08-29 16:21:01,975 - root - INFO - Database connection established successfully
+2025-08-29 16:21:01,982 - root - INFO - Returning 16 rules from getRules endpoint
+2025-08-29 16:21:01,992 - werkzeug - INFO - 127.0.0.1 - - [29/Aug/2025 16:21:01] "GET /rules HTTP/1.1" 200 -
+2025-08-29 16:21:02,905 - root - INFO - Database connection established successfully
+2025-08-29 16:21:02,912 - root - INFO - Returning 16 rules from getRules endpoint
+2025-08-29 16:21:02,921 - werkzeug - INFO - 127.0.0.1 - - [29/Aug/2025 16:21:02] "GET /rules HTTP/1.1" 200 -
+2025-08-29 16:21:13,970 - root - INFO - Database connection established successfully
+2025-08-29 16:21:14,005 - root - INFO - Step 2 completed: action=review, validations={'age ': ['Required', 'Alphanumeric'], 'mail_id': ['Required', 'Text'], 'name ': ['Required', 'Alphanumeric'], 'sal': ['Required', 'Float']}
+2025-08-29 16:21:14,014 - werkzeug - INFO - 127.0.0.1 - - [29/Aug/2025 16:21:14] "POST /step/2 HTTP/1.1" 200 -
+2025-08-29 16:21:15,080 - root - INFO - Database connection established successfully
+2025-08-29 16:21:15,234 - root - INFO - Database connection established successfully
+2025-08-29 16:21:15,242 - root - INFO - Returning 16 rules from getRules endpoint
+2025-08-29 16:21:15,247 - werkzeug - INFO - 127.0.0.1 - - [29/Aug/2025 16:21:15] "GET /template/410/Sheet1 HTTP/1.1" 200 -
+2025-08-29 16:21:15,260 - werkzeug - INFO - 127.0.0.1 - - [29/Aug/2025 16:21:15] "GET /rules HTTP/1.1" 200 -
+2025-08-29 16:21:16,814 - root - INFO - Database connection established successfully
+2025-08-29 16:21:16,820 - root - INFO - Database connection established successfully
+2025-08-29 16:21:16,826 - root - INFO - Returning 16 rules from getRules endpoint
+2025-08-29 16:21:16,838 - werkzeug - INFO - 127.0.0.1 - - [29/Aug/2025 16:21:16] "GET /template/410/rules HTTP/1.1" 200 -
+2025-08-29 16:21:16,847 - werkzeug - INFO - 127.0.0.1 - - [29/Aug/2025 16:21:16] "GET /rules HTTP/1.1" 200 -
+2025-08-29 16:21:17,785 - root - INFO - Database connection established successfully
+2025-08-29 16:21:17,791 - root - INFO - Returning 16 rules from getRules endpoint
+2025-08-29 16:21:17,800 - werkzeug - INFO - 127.0.0.1 - - [29/Aug/2025 16:21:17] "GET /rules HTTP/1.1" 200 -
+2025-08-29 16:23:05,922 - werkzeug - INFO -  * Detected change in 'c:\\Users\\MOM\\Downloads\\Deploy\\Deploy\\14-08-2025\\backend\\App\\routes\\templates.py', reloading
+2025-08-29 16:23:06,801 - werkzeug - INFO -  * Restarting with stat
+2025-08-29 16:23:07,868 - numexpr.utils - INFO - NumExpr defaulting to 12 threads.
+2025-08-29 16:23:09,147 - root - ERROR - Error registering blueprints: View function mapping is overwriting an existing endpoint function: templates.submit_step_two
+2025-08-29 16:51:53,512 - numexpr.utils - INFO - NumExpr defaulting to 12 threads.
+2025-08-29 16:51:54,534 - root - INFO - All blueprints registered successfully
+2025-08-29 16:51:54,539 - root - INFO - Initializing database schema...
+2025-08-29 16:51:54,860 - mysql.connector - INFO - package: mysql.connector.plugins
+2025-08-29 16:51:54,860 - mysql.connector - INFO - plugin_name: caching_sha2_password
+2025-08-29 16:51:54,860 - mysql.connector - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2025-08-29 16:51:54,864 - mysql.connector - INFO - package: mysql.connector.plugins
+2025-08-29 16:51:54,864 - mysql.connector - INFO - plugin_name: mysql_native_password
+2025-08-29 16:51:54,866 - mysql.connector - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLNativePasswordAuthPlugin
+2025-08-29 16:51:55,103 - root - INFO - Database connection established successfully
+2025-08-29 16:51:55,170 - root - INFO - Database tables initialized successfully
+2025-08-29 16:51:55,171 - root - INFO - Creating admin user...
+2025-08-29 16:51:55,431 - root - INFO - Admin user created or already exists
+2025-08-29 16:51:55,432 - root - INFO - Creating default validation rules...
+2025-08-29 16:51:55,442 - root - INFO - Default validation rules ensured successfully
+2025-08-29 16:51:55,442 - root - INFO - Application initialization completed successfully
+2025-08-29 16:51:55,497 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.178.161.115:5000
+2025-08-29 16:51:55,497 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-08-29 16:51:55,499 - werkzeug - INFO -  * Restarting with stat
+2025-08-29 16:51:56,027 - numexpr.utils - INFO - NumExpr defaulting to 12 threads.
+2025-08-29 16:51:56,600 - root - INFO - All blueprints registered successfully
+2025-08-29 16:51:56,606 - root - INFO - Initializing database schema...
+2025-08-29 16:51:56,817 - mysql.connector - INFO - package: mysql.connector.plugins
+2025-08-29 16:51:56,818 - mysql.connector - INFO - plugin_name: caching_sha2_password
+2025-08-29 16:51:56,818 - mysql.connector - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2025-08-29 16:51:56,819 - mysql.connector - INFO - package: mysql.connector.plugins
+2025-08-29 16:51:56,819 - mysql.connector - INFO - plugin_name: mysql_native_password
+2025-08-29 16:51:56,820 - mysql.connector - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLNativePasswordAuthPlugin
+2025-08-29 16:51:57,001 - root - INFO - Database connection established successfully
+2025-08-29 16:51:57,038 - root - INFO - Database tables initialized successfully
+2025-08-29 16:51:57,039 - root - INFO - Creating admin user...
+2025-08-29 16:51:57,273 - root - INFO - Admin user created or already exists
+2025-08-29 16:51:57,273 - root - INFO - Creating default validation rules...
+2025-08-29 16:51:57,280 - root - INFO - Default validation rules ensured successfully
+2025-08-29 16:51:57,280 - root - INFO - Application initialization completed successfully
+2025-08-29 16:51:57,296 - werkzeug - WARNING -  * Debugger is active!
+2025-08-29 16:51:57,304 - werkzeug - INFO -  * Debugger PIN: 135-922-860
+2025-08-29 16:52:02,531 - root - INFO - Database connection established successfully
+2025-08-29 16:52:02,785 - root - INFO - User rahul@gmail.com logged in successfully. Session: {'_permanent': True, 'loggedin': True, 'user_email': 'rahul@gmail.com', 'user_id': 60, 'file_path': './uploads\\28-7.xlsx', 'template_id': 410, 'has_existing_rules': False, 'df': '{"0":{"0":"name ","1":"vamsi","2":"supriya","3":"shanmukh","4":null,"5":22},"1":{"0":"age ","1":22,"2":21,"3":20,"4":22,"5":"de"},"2":{"0":"sal","1":20000.5,"2":50000.3,"3":10.2,"4":20,"5":50000.2},"3":{"0":"mail_id","1":"vamsi@gmail.com","2":"supriya@gmail.com","3":"shanmukh@gmail.com","4":"sdfg","5":"rahul@gmail.com"}}', 'header_row': 0, 'headers': ['name ', 'age ', 'sal', 'mail_id'], 'sheet_name': 'Sheet1', 'current_step': 3, 'validations': {'age ': ['Required', 'Alphanumeric'], 'mail_id': ['Required', 'Text'], 'name ': ['Required', 'Alphanumeric'], 'sal': ['Required', 'Float']}, 'selected_headers': ['name ', 'age ', 'sal', 'mail_id']}
+2025-08-29 16:52:02,793 - werkzeug - INFO - 127.0.0.1 - - [29/Aug/2025 16:52:02] "POST /authenticate HTTP/1.1" 200 -
+2025-08-29 16:52:03,287 - root - INFO - Database connection established successfully
+2025-08-29 16:52:03,294 - root - INFO - User rahul@gmail.com is authenticated
+2025-08-29 16:52:03,301 - werkzeug - INFO - 127.0.0.1 - - [29/Aug/2025 16:52:03] "GET /check-auth HTTP/1.1" 200 -
+2025-08-29 16:52:06,686 - root - INFO - Database connection established successfully
+2025-08-29 16:52:06,690 - root - INFO - Database connection established successfully
+2025-08-29 16:52:06,695 - root - INFO - Database connection established successfully
+2025-08-29 16:52:06,699 - root - INFO - User rahul@gmail.com is authenticated
+2025-08-29 16:52:06,707 - werkzeug - INFO - 127.0.0.1 - - [29/Aug/2025 16:52:06] "GET /check-auth HTTP/1.1" 200 -
+2025-08-29 16:52:06,732 - root - INFO - Fetched validation history for user 60: 9 templates
+2025-08-29 16:52:06,742 - werkzeug - INFO - 127.0.0.1 - - [29/Aug/2025 16:52:06] "GET /validation-history HTTP/1.1" 200 -
+2025-08-29 16:52:07,203 - root - INFO - Database connection established successfully
+2025-08-29 16:52:07,219 - root - INFO - Fetched validation history for user 60: 9 templates
+2025-08-29 16:52:07,226 - werkzeug - INFO - 127.0.0.1 - - [29/Aug/2025 16:52:07] "GET /validation-history HTTP/1.1" 200 -
+2025-08-29 16:52:07,247 - root - INFO - Found 7 templates with rules for user_id: 60
+2025-08-29 16:52:07,259 - werkzeug - INFO - 127.0.0.1 - - [29/Aug/2025 16:52:07] "GET /rule-configurations HTTP/1.1" 200 -
+2025-08-29 16:52:07,756 - root - INFO - Database connection established successfully
+2025-08-29 16:52:07,838 - root - INFO - Found 7 templates with rules for user_id: 60
+2025-08-29 16:52:07,846 - werkzeug - INFO - 127.0.0.1 - - [29/Aug/2025 16:52:07] "GET /rule-configurations HTTP/1.1" 200 -
+2025-08-29 16:52:14,719 - root - INFO - Database connection established successfully
+2025-08-29 16:52:14,752 - werkzeug - INFO - 127.0.0.1 - - [29/Aug/2025 16:52:14] "DELETE /delete-template/410 HTTP/1.1" 200 -
+2025-08-29 16:52:19,759 - root - INFO - File saved: ./uploads\28-7.xlsx
+2025-08-29 16:52:20,308 - root - INFO - Database connection established successfully
+2025-08-29 16:52:20,316 - root - INFO - Found 0 existing templates with name 28-7.xlsx
+2025-08-29 16:52:20,335 - root - INFO - Upload processed: template_id=411, filename=28-7.xlsx, has_existing_rules=False, redirecting to step=1
+2025-08-29 16:52:20,348 - werkzeug - INFO - 127.0.0.1 - - [29/Aug/2025 16:52:20] "POST /upload HTTP/1.1" 200 -
+2025-08-29 16:52:21,296 - root - INFO - Database connection established successfully
+2025-08-29 16:52:21,816 - root - INFO - Database connection established successfully
+2025-08-29 16:52:21,822 - werkzeug - INFO - 127.0.0.1 - - [29/Aug/2025 16:52:21] "GET /template/411/Sheet1 HTTP/1.1" 200 -
+2025-08-29 16:52:21,825 - root - INFO - Database connection established successfully
+2025-08-29 16:52:21,830 - root - INFO - User rahul@gmail.com is authenticated
+2025-08-29 16:52:21,832 - root - INFO - Returning 16 rules from getRules endpoint
+2025-08-29 16:52:21,842 - werkzeug - INFO - 127.0.0.1 - - [29/Aug/2025 16:52:21] "GET /check-auth HTTP/1.1" 200 -
+2025-08-29 16:52:21,849 - werkzeug - INFO - 127.0.0.1 - - [29/Aug/2025 16:52:21] "GET /rules HTTP/1.1" 200 -
+2025-08-29 16:52:22,725 - root - INFO - Database connection established successfully
+2025-08-29 16:52:22,743 - werkzeug - INFO - 127.0.0.1 - - [29/Aug/2025 16:52:22] "GET /template/411/Sheet1 HTTP/1.1" 200 -
+2025-08-29 16:52:25,966 - root - INFO - Database connection established successfully
+2025-08-29 16:52:26,002 - root - INFO - Step 1 completed: headers=['name ', 'age ', 'sal', 'mail_id'], auto-assigned rules={'name ': ['Required', 'Alphanumeric'], 'age ': ['Required', 'Alphanumeric'], 'sal': ['Required', 'Float'], 'mail_id': ['Required', 'Text']}
+2025-08-29 16:52:26,010 - werkzeug - INFO - 127.0.0.1 - - [29/Aug/2025 16:52:26] "POST /step/1 HTTP/1.1" 200 -
+2025-08-29 16:52:26,889 - root - INFO - Database connection established successfully
+2025-08-29 16:52:26,904 - werkzeug - INFO - 127.0.0.1 - - [29/Aug/2025 16:52:26] "GET /template/411/Sheet1 HTTP/1.1" 200 -
+2025-08-29 16:52:27,150 - root - INFO - Database connection established successfully
+2025-08-29 16:52:27,153 - root - INFO - Returning 16 rules from getRules endpoint
+2025-08-29 16:52:27,160 - werkzeug - INFO - 127.0.0.1 - - [29/Aug/2025 16:52:27] "GET /rules HTTP/1.1" 200 -
+2025-08-29 16:52:27,963 - root - INFO - Database connection established successfully
+2025-08-29 16:52:27,968 - root - INFO - Returning 16 rules from getRules endpoint
+2025-08-29 16:52:27,977 - werkzeug - INFO - 127.0.0.1 - - [29/Aug/2025 16:52:27] "GET /rules HTTP/1.1" 200 -
+2025-08-29 16:52:30,508 - root - INFO - Database connection established successfully
+2025-08-29 16:52:30,532 - root - INFO - Step 2 completed: action=review, validations={'age ': ['Required', 'Alphanumeric'], 'mail_id': ['Required', 'Text'], 'name ': ['Required', 'Alphanumeric'], 'sal': ['Required', 'Float']}
+2025-08-29 16:52:30,541 - werkzeug - INFO - 127.0.0.1 - - [29/Aug/2025 16:52:30] "POST /step/2 HTTP/1.1" 200 -
+2025-08-29 16:52:31,323 - root - INFO - Database connection established successfully
+2025-08-29 16:52:31,505 - werkzeug - INFO - 127.0.0.1 - - [29/Aug/2025 16:52:31] "GET /template/411/Sheet1 HTTP/1.1" 200 -
+2025-08-29 16:52:31,802 - root - INFO - Database connection established successfully
+2025-08-29 16:52:31,807 - root - INFO - Returning 16 rules from getRules endpoint
+2025-08-29 16:52:31,815 - werkzeug - INFO - 127.0.0.1 - - [29/Aug/2025 16:52:31] "GET /rules HTTP/1.1" 200 -
+2025-08-29 16:52:33,026 - root - INFO - Database connection established successfully
+2025-08-29 16:52:33,033 - root - INFO - Database connection established successfully
+2025-08-29 16:52:33,039 - root - INFO - Returning 16 rules from getRules endpoint
+2025-08-29 16:52:33,049 - werkzeug - INFO - 127.0.0.1 - - [29/Aug/2025 16:52:33] "GET /template/411/rules HTTP/1.1" 200 -
+2025-08-29 16:52:33,058 - werkzeug - INFO - 127.0.0.1 - - [29/Aug/2025 16:52:33] "GET /rules HTTP/1.1" 200 -
+2025-08-29 16:52:33,830 - root - INFO - Database connection established successfully
+2025-08-29 16:52:33,834 - root - INFO - Returning 16 rules from getRules endpoint
+2025-08-29 16:52:33,841 - werkzeug - INFO - 127.0.0.1 - - [29/Aug/2025 16:52:33] "GET /rules HTTP/1.1" 200 -
+2025-08-29 16:59:57,173 - werkzeug - INFO -  * Detected change in 'c:\\Users\\MOM\\Downloads\\Deploy\\Deploy\\14-08-2025\\backend\\App\\routes\\validation.py', reloading
+2025-08-29 16:59:58,078 - werkzeug - INFO -  * Restarting with stat
+2025-08-29 16:59:58,944 - numexpr.utils - INFO - NumExpr defaulting to 12 threads.
+2025-08-29 16:59:59,908 - root - INFO - All blueprints registered successfully
+2025-08-29 16:59:59,914 - root - INFO - Initializing database schema...
+2025-08-29 17:00:00,216 - mysql.connector - INFO - package: mysql.connector.plugins
+2025-08-29 17:00:00,216 - mysql.connector - INFO - plugin_name: caching_sha2_password
+2025-08-29 17:00:00,216 - mysql.connector - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2025-08-29 17:00:00,219 - mysql.connector - INFO - package: mysql.connector.plugins
+2025-08-29 17:00:00,219 - mysql.connector - INFO - plugin_name: mysql_native_password
+2025-08-29 17:00:00,221 - mysql.connector - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLNativePasswordAuthPlugin
+2025-08-29 17:00:00,469 - root - INFO - Database connection established successfully
+2025-08-29 17:00:00,532 - root - INFO - Database tables initialized successfully
+2025-08-29 17:00:00,533 - root - INFO - Creating admin user...
+2025-08-29 17:00:00,781 - root - INFO - Admin user created or already exists
+2025-08-29 17:00:00,781 - root - INFO - Creating default validation rules...
+2025-08-29 17:00:00,791 - root - INFO - Default validation rules ensured successfully
+2025-08-29 17:00:00,791 - root - INFO - Application initialization completed successfully
+2025-08-29 17:00:00,823 - werkzeug - WARNING -  * Debugger is active!
+2025-08-29 17:00:00,830 - werkzeug - INFO -  * Debugger PIN: 135-922-860
+2025-08-29 17:00:38,434 - werkzeug - INFO -  * Detected change in 'c:\\Users\\MOM\\Downloads\\Deploy\\Deploy\\14-08-2025\\backend\\App\\routes\\validation.py', reloading
+2025-08-29 17:00:38,652 - werkzeug - INFO -  * Restarting with stat
+2025-08-29 17:00:39,356 - numexpr.utils - INFO - NumExpr defaulting to 12 threads.
+2025-08-29 17:00:40,260 - root - INFO - All blueprints registered successfully
+2025-08-29 17:00:40,266 - root - INFO - Initializing database schema...
+2025-08-29 17:00:40,497 - mysql.connector - INFO - package: mysql.connector.plugins
+2025-08-29 17:00:40,497 - mysql.connector - INFO - plugin_name: caching_sha2_password
+2025-08-29 17:00:40,497 - mysql.connector - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2025-08-29 17:00:40,498 - mysql.connector - INFO - package: mysql.connector.plugins
+2025-08-29 17:00:40,498 - mysql.connector - INFO - plugin_name: mysql_native_password
+2025-08-29 17:00:40,500 - mysql.connector - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLNativePasswordAuthPlugin
+2025-08-29 17:00:40,706 - root - INFO - Database connection established successfully
+2025-08-29 17:00:40,750 - root - INFO - Database tables initialized successfully
+2025-08-29 17:00:40,750 - root - INFO - Creating admin user...
+2025-08-29 17:00:40,997 - root - INFO - Admin user created or already exists
+2025-08-29 17:00:40,997 - root - INFO - Creating default validation rules...
+2025-08-29 17:00:41,006 - root - INFO - Default validation rules ensured successfully
+2025-08-29 17:00:41,006 - root - INFO - Application initialization completed successfully
+2025-08-29 17:00:41,038 - werkzeug - WARNING -  * Debugger is active!
+2025-08-29 17:00:41,043 - werkzeug - INFO -  * Debugger PIN: 135-922-860
+2025-08-29 17:01:44,262 - root - INFO - Database connection established successfully
+2025-08-29 17:01:44,276 - root - INFO - User rahul@gmail.com is authenticated
+2025-08-29 17:01:44,288 - werkzeug - INFO - 127.0.0.1 - - [29/Aug/2025 17:01:44] "GET /check-auth HTTP/1.1" 200 -
+2025-08-29 17:01:45,759 - root - INFO - Database connection established successfully
+2025-08-29 17:01:45,763 - root - INFO - Database connection established successfully
+2025-08-29 17:01:45,767 - root - INFO - Database connection established successfully
+2025-08-29 17:01:45,772 - root - INFO - User rahul@gmail.com is authenticated
+2025-08-29 17:01:45,780 - werkzeug - INFO - 127.0.0.1 - - [29/Aug/2025 17:01:45] "GET /check-auth HTTP/1.1" 200 -
+2025-08-29 17:01:45,797 - root - INFO - Fetched validation history for user 60: 9 templates
+2025-08-29 17:01:45,805 - werkzeug - INFO - 127.0.0.1 - - [29/Aug/2025 17:01:45] "GET /validation-history HTTP/1.1" 200 -
+2025-08-29 17:01:46,188 - root - INFO - Database connection established successfully
+2025-08-29 17:01:46,204 - root - INFO - Fetched validation history for user 60: 9 templates
+2025-08-29 17:01:46,211 - werkzeug - INFO - 127.0.0.1 - - [29/Aug/2025 17:01:46] "GET /validation-history HTTP/1.1" 200 -
+2025-08-29 17:01:46,225 - root - INFO - Found 7 templates with rules for user_id: 60
+2025-08-29 17:01:46,235 - werkzeug - INFO - 127.0.0.1 - - [29/Aug/2025 17:01:46] "GET /rule-configurations HTTP/1.1" 200 -
+2025-08-29 17:01:46,600 - root - INFO - Database connection established successfully
+2025-08-29 17:01:46,670 - root - INFO - Found 7 templates with rules for user_id: 60
+2025-08-29 17:01:46,677 - werkzeug - INFO - 127.0.0.1 - - [29/Aug/2025 17:01:46] "GET /rule-configurations HTTP/1.1" 200 -
+2025-08-29 17:01:48,877 - root - INFO - Database connection established successfully
+2025-08-29 17:01:48,908 - werkzeug - INFO - 127.0.0.1 - - [29/Aug/2025 17:01:48] "DELETE /delete-template/411 HTTP/1.1" 200 -
+2025-08-29 17:02:04,624 - root - INFO - File saved: ./uploads\testing.xlsx
+2025-08-29 17:02:05,199 - root - INFO - Database connection established successfully
+2025-08-29 17:02:05,204 - root - INFO - Found 1 existing templates with name testing.xlsx
+2025-08-29 17:02:05,222 - root - INFO - Upload processed: template_id=412, filename=testing.xlsx, has_existing_rules=False, redirecting to step=1
+2025-08-29 17:02:05,233 - werkzeug - INFO - 127.0.0.1 - - [29/Aug/2025 17:02:05] "POST /upload HTTP/1.1" 200 -
+2025-08-29 17:02:06,279 - root - INFO - Database connection established successfully
+2025-08-29 17:02:06,476 - werkzeug - INFO - 127.0.0.1 - - [29/Aug/2025 17:02:06] "GET /template/412/Sheet1 HTTP/1.1" 200 -
+2025-08-29 17:02:06,685 - root - INFO - Database connection established successfully
+2025-08-29 17:02:06,690 - root - INFO - Database connection established successfully
+2025-08-29 17:02:06,696 - root - INFO - Returning 16 rules from getRules endpoint
+2025-08-29 17:02:06,697 - root - INFO - User rahul@gmail.com is authenticated
+2025-08-29 17:02:06,704 - werkzeug - INFO - 127.0.0.1 - - [29/Aug/2025 17:02:06] "GET /check-auth HTTP/1.1" 200 -
+2025-08-29 17:02:06,710 - werkzeug - INFO - 127.0.0.1 - - [29/Aug/2025 17:02:06] "GET /rules HTTP/1.1" 200 -
+2025-08-29 17:02:07,564 - root - INFO - Database connection established successfully
+2025-08-29 17:02:07,578 - root - INFO - Database connection established successfully
+2025-08-29 17:02:07,586 - werkzeug - INFO - 127.0.0.1 - - [29/Aug/2025 17:02:07] "GET /template/412/Sheet1 HTTP/1.1" 200 -
+2025-08-29 17:02:07,587 - root - INFO - Returning 16 rules from getRules endpoint
+2025-08-29 17:02:07,597 - werkzeug - INFO - 127.0.0.1 - - [29/Aug/2025 17:02:07] "GET /rules HTTP/1.1" 200 -
+2025-08-29 17:02:08,256 - root - INFO - Database connection established successfully
+2025-08-29 17:02:08,260 - root - INFO - Returning 16 rules from getRules endpoint
+2025-08-29 17:02:08,267 - werkzeug - INFO - 127.0.0.1 - - [29/Aug/2025 17:02:08] "GET /rules HTTP/1.1" 200 -
+2025-08-29 17:02:12,579 - root - INFO - Database connection established successfully
+2025-08-29 17:02:12,622 - root - INFO - Step 1 completed: headers=['Name', 'Email ', 'DOB', 'num 1 ', 'num 2 ', 'sum ', 'mul ', 'div'], auto-assigned rules={'Name': ['Required', 'Alphanumeric'], 'Email ': ['Required', 'Text'], 'DOB': ['Required', 'Text'], 'num 1 ': ['Required', 'Alphanumeric'], 'num 2 ': ['Required', 'Int'], 'sum ': ['Required', 'Int'], 'mul ': ['Required', 'Int'], 'div': ['Required', 'Float']}
+2025-08-29 17:02:12,630 - werkzeug - INFO - 127.0.0.1 - - [29/Aug/2025 17:02:12] "POST /step/1 HTTP/1.1" 200 -
+2025-08-29 17:02:13,848 - root - INFO - Database connection established successfully
+2025-08-29 17:02:13,856 - root - INFO - Returning 16 rules from getRules endpoint
+2025-08-29 17:02:13,856 - root - INFO - Database connection established successfully
+2025-08-29 17:02:13,867 - werkzeug - INFO - 127.0.0.1 - - [29/Aug/2025 17:02:13] "GET /rules HTTP/1.1" 200 -
+2025-08-29 17:02:13,880 - werkzeug - INFO - 127.0.0.1 - - [29/Aug/2025 17:02:13] "GET /template/412/Sheet1 HTTP/1.1" 200 -
+2025-08-29 17:02:14,407 - root - INFO - Database connection established successfully
+2025-08-29 17:02:14,414 - root - INFO - Returning 16 rules from getRules endpoint
+2025-08-29 17:02:14,423 - werkzeug - INFO - 127.0.0.1 - - [29/Aug/2025 17:02:14] "GET /rules HTTP/1.1" 200 -
+2025-08-29 17:03:47,160 - root - INFO - Database connection established successfully
+2025-08-29 17:03:47,192 - root - INFO - Step 2 completed: action=review, validations={'DOB': ['Required', 'Text'], 'Email ': ['Required', 'Text'], 'Name': ['Required', 'Alphanumeric'], 'div': ['Required', 'Float'], 'mul ': ['Required', 'Int'], 'num 1 ': ['Required', 'Alphanumeric'], 'num 2 ': ['Required', 'Int'], 'sum ': ['Required', 'Int']}
+2025-08-29 17:03:47,199 - werkzeug - INFO - 127.0.0.1 - - [29/Aug/2025 17:03:47] "POST /step/2 HTTP/1.1" 200 -
+2025-08-29 17:03:47,945 - root - INFO - Database connection established successfully
+2025-08-29 17:03:47,958 - werkzeug - INFO - 127.0.0.1 - - [29/Aug/2025 17:03:47] "GET /template/412/Sheet1 HTTP/1.1" 200 -
+2025-08-29 17:03:48,198 - root - INFO - Database connection established successfully
+2025-08-29 17:03:48,202 - root - INFO - Returning 16 rules from getRules endpoint
+2025-08-29 17:03:48,209 - werkzeug - INFO - 127.0.0.1 - - [29/Aug/2025 17:03:48] "GET /rules HTTP/1.1" 200 -
+2025-08-29 17:03:49,191 - root - INFO - Database connection established successfully
+2025-08-29 17:03:49,197 - root - INFO - Database connection established successfully
+2025-08-29 17:03:49,202 - root - INFO - Returning 16 rules from getRules endpoint
+2025-08-29 17:03:49,212 - werkzeug - INFO - 127.0.0.1 - - [29/Aug/2025 17:03:49] "GET /template/412/rules HTTP/1.1" 200 -
+2025-08-29 17:03:49,216 - werkzeug - INFO - 127.0.0.1 - - [29/Aug/2025 17:03:49] "GET /rules HTTP/1.1" 200 -
+2025-08-29 17:03:49,992 - root - INFO - Database connection established successfully
+2025-08-29 17:03:49,996 - root - INFO - Returning 16 rules from getRules endpoint
+2025-08-29 17:03:50,003 - werkzeug - INFO - 127.0.0.1 - - [29/Aug/2025 17:03:50] "GET /rules HTTP/1.1" 200 -
+2025-08-29 17:14:13,890 - root - INFO - Database connection established successfully
+2025-08-29 17:14:13,938 - root - INFO - User rahul@gmail.com is authenticated
+2025-08-29 17:14:13,976 - werkzeug - INFO - 127.0.0.1 - - [29/Aug/2025 17:14:13] "GET /check-auth HTTP/1.1" 200 -
+2025-08-29 17:14:15,497 - root - INFO - Database connection established successfully
+2025-08-29 17:14:15,578 - root - INFO - Database connection established successfully
+2025-08-29 17:14:15,625 - root - INFO - Database connection established successfully
+2025-08-29 17:14:15,633 - root - INFO - User rahul@gmail.com is authenticated
+2025-08-29 17:14:15,642 - werkzeug - INFO - 127.0.0.1 - - [29/Aug/2025 17:14:15] "GET /check-auth HTTP/1.1" 200 -
+2025-08-29 17:14:15,657 - root - INFO - Fetched validation history for user 60: 9 templates
+2025-08-29 17:14:15,667 - werkzeug - INFO - 127.0.0.1 - - [29/Aug/2025 17:14:15] "GET /validation-history HTTP/1.1" 200 -
+2025-08-29 17:14:15,742 - root - INFO - Found 7 templates with rules for user_id: 60
+2025-08-29 17:14:15,756 - werkzeug - INFO - 127.0.0.1 - - [29/Aug/2025 17:14:15] "GET /rule-configurations HTTP/1.1" 200 -
+2025-08-29 17:14:16,910 - root - INFO - Database connection established successfully
+2025-08-29 17:14:16,980 - root - INFO - Database connection established successfully
+2025-08-29 17:14:16,992 - root - INFO - Fetched validation history for user 60: 9 templates
+2025-08-29 17:14:17,001 - werkzeug - INFO - 127.0.0.1 - - [29/Aug/2025 17:14:17] "GET /validation-history HTTP/1.1" 200 -
+2025-08-29 17:14:17,069 - root - INFO - Found 7 templates with rules for user_id: 60
+2025-08-29 17:14:17,078 - werkzeug - INFO - 127.0.0.1 - - [29/Aug/2025 17:14:17] "GET /rule-configurations HTTP/1.1" 200 -
+2025-08-29 17:14:18,263 - root - INFO - Database connection established successfully
+2025-08-29 17:14:18,273 - root - INFO - Database connection established successfully
+2025-08-29 17:14:18,289 - root - INFO - Fetched validation history for user 60: 9 templates
+2025-08-29 17:14:18,299 - werkzeug - INFO - 127.0.0.1 - - [29/Aug/2025 17:14:18] "GET /validation-history HTTP/1.1" 200 -
+2025-08-29 17:14:18,372 - root - INFO - Found 7 templates with rules for user_id: 60
+2025-08-29 17:14:18,379 - werkzeug - INFO - 127.0.0.1 - - [29/Aug/2025 17:14:18] "GET /rule-configurations HTTP/1.1" 200 -
+2025-08-29 17:14:19,384 - root - INFO - Database connection established successfully
+2025-08-29 17:14:19,431 - werkzeug - INFO - 127.0.0.1 - - [29/Aug/2025 17:14:19] "DELETE /delete-template/412 HTTP/1.1" 200 -
+2025-08-29 17:14:27,655 - root - INFO - Database connection established successfully
+2025-08-29 17:14:27,682 - werkzeug - INFO - 127.0.0.1 - - [29/Aug/2025 17:14:27] "DELETE /delete-template/403 HTTP/1.1" 200 -
+2025-08-29 17:14:32,222 - root - INFO - File saved: ./uploads\Book1.xlsx
+2025-08-29 17:14:33,010 - root - INFO - Database connection established successfully
+2025-08-29 17:14:33,018 - root - INFO - Found 1 existing templates with name Book1.xlsx
+2025-08-29 17:14:33,051 - root - INFO - Upload processed: template_id=413, filename=Book1.xlsx, has_existing_rules=False, redirecting to step=1
+2025-08-29 17:14:33,063 - werkzeug - INFO - 127.0.0.1 - - [29/Aug/2025 17:14:33] "POST /upload HTTP/1.1" 200 -
+2025-08-29 17:14:34,879 - root - INFO - Database connection established successfully
+2025-08-29 17:14:34,885 - root - INFO - Database connection established successfully
+2025-08-29 17:14:34,889 - root - INFO - Database connection established successfully
+2025-08-29 17:14:34,894 - root - INFO - Returning 16 rules from getRules endpoint
+2025-08-29 17:14:34,898 - root - INFO - User rahul@gmail.com is authenticated
+2025-08-29 17:14:34,904 - werkzeug - INFO - 127.0.0.1 - - [29/Aug/2025 17:14:34] "GET /rules HTTP/1.1" 200 -
+2025-08-29 17:14:34,913 - werkzeug - INFO - 127.0.0.1 - - [29/Aug/2025 17:14:34] "GET /template/413/Sheet1 HTTP/1.1" 200 -
+2025-08-29 17:14:34,923 - werkzeug - INFO - 127.0.0.1 - - [29/Aug/2025 17:14:34] "GET /check-auth HTTP/1.1" 200 -
+2025-08-29 17:14:35,596 - root - INFO - Database connection established successfully
+2025-08-29 17:14:35,668 - root - INFO - Returning 16 rules from getRules endpoint
+2025-08-29 17:14:35,675 - werkzeug - INFO - 127.0.0.1 - - [29/Aug/2025 17:14:35] "GET /rules HTTP/1.1" 200 -
+2025-08-29 17:14:35,915 - root - INFO - Database connection established successfully
+2025-08-29 17:14:35,931 - werkzeug - INFO - 127.0.0.1 - - [29/Aug/2025 17:14:35] "GET /template/413/Sheet1 HTTP/1.1" 200 -
+2025-08-29 17:14:36,446 - root - INFO - Database connection established successfully
+2025-08-29 17:14:36,451 - root - INFO - Returning 16 rules from getRules endpoint
+2025-08-29 17:14:36,459 - werkzeug - INFO - 127.0.0.1 - - [29/Aug/2025 17:14:36] "GET /rules HTTP/1.1" 200 -
+2025-08-29 17:14:39,345 - root - INFO - Database connection established successfully
+2025-08-29 17:14:39,373 - root - INFO - Step 1 completed: headers=['name ', 'cgst', 'sgst', 'gst'], auto-assigned rules={'name ': ['Required', 'Alphanumeric'], 'cgst': ['Required', 'Alphanumeric'], 'sgst': ['Required', 'Int'], 'gst': ['Required', 'Int']}
+2025-08-29 17:14:39,382 - werkzeug - INFO - 127.0.0.1 - - [29/Aug/2025 17:14:39] "POST /step/1 HTTP/1.1" 200 -
+2025-08-29 17:14:40,339 - root - INFO - Database connection established successfully
+2025-08-29 17:14:40,346 - root - INFO - Returning 16 rules from getRules endpoint
+2025-08-29 17:14:40,347 - root - INFO - Database connection established successfully
+2025-08-29 17:14:40,358 - werkzeug - INFO - 127.0.0.1 - - [29/Aug/2025 17:14:40] "GET /rules HTTP/1.1" 200 -
+2025-08-29 17:14:40,372 - werkzeug - INFO - 127.0.0.1 - - [29/Aug/2025 17:14:40] "GET /template/413/Sheet1 HTTP/1.1" 200 -
+2025-08-29 17:14:41,140 - root - INFO - Database connection established successfully
+2025-08-29 17:14:41,144 - root - INFO - Returning 16 rules from getRules endpoint
+2025-08-29 17:14:41,152 - werkzeug - INFO - 127.0.0.1 - - [29/Aug/2025 17:14:41] "GET /rules HTTP/1.1" 200 -
+2025-08-29 17:14:44,163 - root - INFO - Database connection established successfully
+2025-08-29 17:14:44,187 - root - INFO - Step 2 completed: action=review, validations={'cgst': ['Required', 'Alphanumeric'], 'gst': ['Required', 'Int'], 'name ': ['Required', 'Alphanumeric'], 'sgst': ['Required', 'Int']}
+2025-08-29 17:14:44,193 - werkzeug - INFO - 127.0.0.1 - - [29/Aug/2025 17:14:44] "POST /step/2 HTTP/1.1" 200 -
+2025-08-29 17:14:44,889 - root - INFO - Database connection established successfully
+2025-08-29 17:14:44,904 - werkzeug - INFO - 127.0.0.1 - - [29/Aug/2025 17:14:44] "GET /template/413/Sheet1 HTTP/1.1" 200 -
+2025-08-29 17:14:45,148 - root - INFO - Database connection established successfully
+2025-08-29 17:14:45,152 - root - INFO - Returning 16 rules from getRules endpoint
+2025-08-29 17:14:45,161 - werkzeug - INFO - 127.0.0.1 - - [29/Aug/2025 17:14:45] "GET /rules HTTP/1.1" 200 -
+2025-08-29 17:14:45,887 - root - INFO - Database connection established successfully
+2025-08-29 17:14:45,901 - werkzeug - INFO - 127.0.0.1 - - [29/Aug/2025 17:14:45] "GET /template/413/rules HTTP/1.1" 200 -
+2025-08-29 17:14:46,130 - root - INFO - Database connection established successfully
+2025-08-29 17:14:46,134 - root - INFO - Returning 16 rules from getRules endpoint
+2025-08-29 17:14:46,140 - werkzeug - INFO - 127.0.0.1 - - [29/Aug/2025 17:14:46] "GET /rules HTTP/1.1" 200 -
+2025-08-29 17:14:46,987 - root - INFO - Database connection established successfully
+2025-08-29 17:14:46,991 - root - INFO - Returning 16 rules from getRules endpoint
+2025-08-29 17:14:47,000 - werkzeug - INFO - 127.0.0.1 - - [29/Aug/2025 17:14:47] "GET /rules HTTP/1.1" 200 -
+2025-08-29 17:14:50,670 - root - INFO - Database connection established successfully
+2025-08-29 17:14:50,675 - root - INFO - Database connection established successfully
+2025-08-29 17:14:50,679 - root - INFO - Returning 16 rules from getRules endpoint
+2025-08-29 17:14:50,687 - werkzeug - INFO - 127.0.0.1 - - [29/Aug/2025 17:14:50] "GET /rules HTTP/1.1" 200 -
+2025-08-29 17:14:50,697 - werkzeug - INFO - 127.0.0.1 - - [29/Aug/2025 17:14:50] "GET /template/413/Sheet1 HTTP/1.1" 200 -
+2025-08-29 17:14:51,125 - root - INFO - Database connection established successfully
+2025-08-29 17:14:51,128 - root - INFO - Returning 16 rules from getRules endpoint
+2025-08-29 17:14:51,134 - werkzeug - INFO - 127.0.0.1 - - [29/Aug/2025 17:14:51] "GET /rules HTTP/1.1" 200 -
+2025-08-29 17:14:53,529 - werkzeug - INFO - 127.0.0.1 - - [29/Aug/2025 17:14:53] "[33mGET /templates HTTP/1.1[0m" 404 -
+2025-08-29 17:14:53,907 - root - INFO - Database connection established successfully
+2025-08-29 17:14:53,912 - root - INFO - User rahul@gmail.com is authenticated
+2025-08-29 17:14:53,918 - werkzeug - INFO - 127.0.0.1 - - [29/Aug/2025 17:14:53] "GET /check-auth HTTP/1.1" 200 -
+2025-08-29 17:18:47,804 - werkzeug - INFO -  * Detected change in 'c:\\Users\\MOM\\Downloads\\Deploy\\Deploy\\14-08-2025\\backend\\App\\routes\\templates.py', reloading
+2025-08-29 17:18:48,584 - werkzeug - INFO -  * Restarting with stat
+2025-08-29 17:18:49,564 - numexpr.utils - INFO - NumExpr defaulting to 12 threads.
+2025-08-29 17:18:50,551 - root - INFO - All blueprints registered successfully
+2025-08-29 17:18:50,556 - root - INFO - Initializing database schema...
+2025-08-29 17:18:50,773 - mysql.connector - INFO - package: mysql.connector.plugins
+2025-08-29 17:18:50,773 - mysql.connector - INFO - plugin_name: caching_sha2_password
+2025-08-29 17:18:50,773 - mysql.connector - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2025-08-29 17:18:50,774 - mysql.connector - INFO - package: mysql.connector.plugins
+2025-08-29 17:18:50,774 - mysql.connector - INFO - plugin_name: mysql_native_password
+2025-08-29 17:18:50,776 - mysql.connector - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLNativePasswordAuthPlugin
+2025-08-29 17:18:50,974 - root - INFO - Database connection established successfully
+2025-08-29 17:18:51,014 - root - INFO - Database tables initialized successfully
+2025-08-29 17:18:51,015 - root - INFO - Creating admin user...
+2025-08-29 17:18:51,259 - root - INFO - Admin user created or already exists
+2025-08-29 17:18:51,260 - root - INFO - Creating default validation rules...
+2025-08-29 17:18:51,268 - root - INFO - Default validation rules ensured successfully
+2025-08-29 17:18:51,268 - root - INFO - Application initialization completed successfully
+2025-08-29 17:18:51,298 - werkzeug - WARNING -  * Debugger is active!
+2025-08-29 17:18:51,304 - werkzeug - INFO -  * Debugger PIN: 135-922-860
+2025-08-29 17:19:36,237 - werkzeug - INFO -  * Detected change in 'c:\\Users\\MOM\\Downloads\\Deploy\\Deploy\\14-08-2025\\backend\\App\\routes\\templates.py', reloading
+2025-08-29 17:19:36,430 - werkzeug - INFO -  * Restarting with stat
+2025-08-29 17:19:37,014 - numexpr.utils - INFO - NumExpr defaulting to 12 threads.
+2025-08-29 17:19:37,690 - root - ERROR - Error registering blueprints: View function mapping is overwriting an existing endpoint function: templates.upload
