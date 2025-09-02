@@ -1,36 +1,30 @@
 FROM python:3.11-slim
 
-# Set working directory
 WORKDIR /app
 
-# Install system dependencies needed for building Python packages
+# Install system dependencies
 RUN apt-get update && apt-get install -y \
     gcc \
-    build-essential \
-    pkg-config \
     default-libmysqlclient-dev \
     && rm -rf /var/lib/apt/lists/*
 
-# Copy requirements first (for better Docker caching)
-COPY requirements.txt .
+# Copy requirements first for better caching
+COPY App/requirements.txt .
+RUN pip install --no-cache-dir -r requirements.txt
 
-# Upgrade pip and install Python packages
-RUN python -m pip install --upgrade pip setuptools wheel
-RUN python -m pip install -r requirements.txt
-
-# Copy application code
+# Copy application
 COPY . .
 
 # Create necessary directories
 RUN mkdir -p uploads sessions logs backups
 
 # Set environment variables
-ENV PYTHONPATH=/app
-ENV PYTHONUNBUFFERED=1
-ENV FLASK_ENV=production
+ENV PYTHONPATH=/app/App
+ENV FLASK_APP=app.py
+ENV PORT=8000
 
-# Expose port (Railway will set PORT env var)
+WORKDIR /app/App
+
 EXPOSE 8000
 
-# Start command
-CMD ["python", "run.py"]
+CMD ["gunicorn", "--bind", "0.0.0.0:8000", "--workers", "2", "--timeout", "120", "app:create_app()"]
