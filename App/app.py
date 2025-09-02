@@ -39,8 +39,11 @@ def create_app():
     from flask_cors import CORS
     from flask_session import Session
     
-    CORS(app, supports_credentials=True, origins=Config.CORS_ORIGINS)
-    Session(app)
+    CORS(app, origins=[
+        "http://localhost:3000",
+        "https://your-frontend-domain.railway.app",  # Update this after frontend deployment
+        "https://*.railway.app"
+    ])
     
     # Register cleanup handlers
     app.teardown_appcontext(close_db)
